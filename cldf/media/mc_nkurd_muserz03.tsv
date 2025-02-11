@@ -1192,9 +1192,9 @@ nkurd	muserz03	0067	#	#	##ds	##ds
 nkurd	muserz03	0067	0	0_they	0.h:s_ds	0	h	s_ds	3033	
 nkurd	muserz03	0067	dibê	IND.say.PRS.3SG	ds_v:pred	ds_v		pred		
 nkurd	muserz03	0067	#	#	#nc	#nc				
-nkurd	muserz03	0067	paşa	king	np.h:voc	np	h	voc	3036	
+nkurd	muserz03	0067	paşa	king	nc_np.h	nc_np	h		3036	
 nkurd	muserz03	0067	sê	three	nc	nc				
-nkurd	muserz03	0067	merif-ên	man-EZ.PL	np.h:pred	np	h	pred	3035	
+nkurd	muserz03	0067	merif-ên	man-EZ.PL	nc_np.h	nc_np	h		3035	
 nkurd	muserz03	0067	çere	how	nc	nc				
 nkurd	muserz03	0068	#	#	##	##				
 nkurd	muserz03	0068	0	0_he	0.h:s_ds	0	h	s_ds	3036	
@@ -1363,8 +1363,8 @@ nkurd	muserz03	0077	ew	3SG	pro.h:s_cp	pro	h	s_cp	3037
 nkurd	muserz03	0077	mezê	looking	other:lvc	other		lvc		
 nkurd	muserz03	0077	di-k-e	IND-do.PRS-3SG	v:pred	v		pred		
 nkurd	muserz03	0077	#	#	#nc	#nc				
-nkurd	muserz03	0077	demir-ê	iron-EZ	np:other	np		other	3038	
-nkurd	muserz03	0077	xwe	REFL	refl.h:other	refl	h	other	3037	
+nkurd	muserz03	0077	demir-ê	iron-EZ	nc_np	nc_np			3038	
+nkurd	muserz03	0077	xwe	REFL	nc_refl.h	nc_refl	h		3037	
 nkurd	muserz03	0077	yê	EZ	nc	nc				
 nkurd	muserz03	0077	sor	red	nc	nc				
 nkurd	muserz03	0077	û	and	nc	nc				
@@ -1407,11 +1407,11 @@ nkurd	muserz03	0079	#	#	##	##
 nkurd	muserz03	0079	0	0_he	0.h:s_ds	0	h	s_ds	3037	
 nkurd	muserz03	0079	dibê	IND.say.PRS.3SG	ds_v:pred	ds_v		pred		
 nkurd	muserz03	0079	#	#	#nc	#nc				
-nkurd	muserz03	0079	zêr-ê	gold-EZ	np:other	np		other	3044	new
-nkurd	muserz03	0079	min	1SG.OBL	rn_pro.1:poss	rn_pro	1	poss	3037	
+nkurd	muserz03	0079	zêr-ê	gold-EZ	nc_np	nc_np			3044	new
+nkurd	muserz03	0079	min	1SG.OBL	nc_pro.1	nc_pro	1		3037	
 nkurd	muserz03	0079	ox	oh	nc	nc				
-nkurd	muserz03	0079	zêr-ê	gold-EZ	np:other	np		other	3044	
-nkurd	muserz03	0079	min	1SG.OBL	rn_pro.1:poss	rn_pro	1	poss	3037	
+nkurd	muserz03	0079	zêr-ê	gold-EZ	nc_np	nc_np			3044	
+nkurd	muserz03	0079	min	1SG.OBL	nc_pro.1	nc_pro	1		3037	
 nkurd	muserz03	0079	#	#	##	##				
 nkurd	muserz03	0079	û	and	other	other				
 nkurd	muserz03	0079	0	0_he	0.h:s	0	h	s	3037	
@@ -1768,8 +1768,8 @@ nkurd	muserz03	0097	têm	IND.come.PRS.1SG	v:pred	v		pred
 nkurd	muserz03	0097	ber	front	adp	adp				
 nkurd	muserz03	0097	minarê	minaret.OBL	np:g	np		g	3021	
 nkurd	muserz03	0097	#	#	#nc	#nc				
-nkurd	muserz03	0097	ji	from	adp	adp				
-nkurd	muserz03	0097	min	1SG.OBL	pro.1:obl	pro	1	obl	3003	
+nkurd	muserz03	0097	ji	from	nc	nc				
+nkurd	muserz03	0097	min	1SG.OBL	nc_pro.1	nc_pro	1		3003	
 nkurd	muserz03	0097	vetrê	feeling	nc	nc				
 nkurd	muserz03	0097	#	#	##ds	##ds				
 nkurd	muserz03	0097	kew-a	dove-EZ	np:s	np		s	3002	
@@ -1931,9 +1931,9 @@ nkurd	muserz03	0103	û	and	other	other
 nkurd	muserz03	0103	0	0_you	0.2:s_ds	0	2	s_ds	3037	
 nkurd	muserz03	0103	di-bêj-î	IND-say.PRS-2SG	ds_v:pred	ds_v		pred		
 nkurd	muserz03	0103	#	#	#nc	#nc				
-nkurd	muserz03	0103	ax	oh	other	other				
-nkurd	muserz03	0103	zêr-ê	gold-EZ	np:voc	np		voc	3044	
-nkurd	muserz03	0103	min	1SG.OBL	rn_pro.1:poss	rn_pro	1	poss	3037	
+nkurd	muserz03	0103	ax	oh	nc	nc				
+nkurd	muserz03	0103	zêr-ê	gold-EZ	nc_np	nc_np			3044	
+nkurd	muserz03	0103	min	1SG.OBL	nc_pro.1	nc_pro	1		3037	
 nkurd	muserz03	0104	#	#	##ds	##ds				
 nkurd	muserz03	0104	Û	and	other	other				
 nkurd	muserz03	0104	tu	2SG	pro.2:s	pro	2	s	3037	
@@ -2094,10 +2094,10 @@ nkurd	muserz03	0111	min	1SG.OBL	pro.1:s_ds	pro	1	s_ds	3037
 nkurd	muserz03	0111	go	say.PST.3SG	ds_v:pred	ds_v		pred		
 nkurd	muserz03	0111	#	#	#nc	#nc				
 nkurd	muserz03	0111	heyran	heyran	other	other				
-nkurd	muserz03	0111	tu	2SG	pro.2:voc	pro	2	voc	3069	
-nkurd	muserz03	0111	heywan	animal	np:other	np		other		
-nkurd	muserz03	0111	tu	2SG	pro.2:s	pro	2	s	3069	
-nkurd	muserz03	0111	pişîk	cat	np:other	np		other		
+nkurd	muserz03	0111	tu	2SG	nc_pro.2	nc_pro	2		3069	
+nkurd	muserz03	0111	heywan	animal	nc	nc				
+nkurd	muserz03	0111	tu	2SG	nc_pro.2	nc_pro	2		3069	
+nkurd	muserz03	0111	pişîk	cat	nc	nc				
 nkurd	muserz03	0111	#	#	##ds	##ds				
 nkurd	muserz03	0111	tu	2SG	pro.2:a	pro	2	a	3069	
 nkurd	muserz03	0111	çawa	how	other	other				
@@ -2482,7 +2482,7 @@ nkurd	muserz03	0125	#	#	##ds	##ds
 nkurd	muserz03	0125	tu	2SG	pro.2:s	pro	2	s	3037	
 nkurd	muserz03	0125	here	IMP.go.PRS.2SG	v:pred	v		pred		
 nkurd	muserz03	0125	#	#	#nc	#nc				
-nkurd	muserz03	0125	te	2SG.OBL	pro.2:s	pro	2	s	3037	
+nkurd	muserz03	0125	te	2SG.OBL	nc_pro.2	nc_pro	2		3037	
 nkurd	muserz03	0125	jî	too	other	other				
 nkurd	muserz03	0125	bi	with	adp	adp				
 nkurd	muserz03	0125	derdaye	NC	nc	nc				
@@ -2828,7 +2828,7 @@ nkurd	muserz03	0139	wî	3SG.OBL.M	pro:p	pro		p	3084
 nkurd	muserz03	0139	tûj	sharpened	other:lvc	other		lvc		
 nkurd	muserz03	0139	kir	do.PST.3SG	v:pred	v		pred		
 nkurd	muserz03	0139	#	#	##ds	##ds				
-nkurd	muserz03	0139	=û	and	other	other				
+nkurd	muserz03	0139	=û	=and	=other	=other				
 nkurd	muserz03	0139	ez	1SG	pro.1:s	pro	1	s	3046	
 nkurd	muserz03	0139	çû-m	go.PST-1SG	v:pred	v		pred		
 nkurd	muserz03	0139	çîyê	mountain.OBL	np:g	np		g	3087	unused
@@ -2909,10 +2909,10 @@ nkurd	muserz03	0143	suwarê	mounting	other:pred	other		pred
 nkurd	muserz03	0143	dev-ek-î	camel-INDF-OBL	rv	rv			3091	new
 nkurd	muserz03	0143	ye	COP.3SG	cop	cop				
 nkurd	muserz03	0143	#	#	#nc	#nc				
-nkurd	muserz03	0143	heqîb-ek-î	bag-INDF-EZ	np:s	np		s	3092	new
-nkurd	muserz03	0143	li	in	adp	adp				
-nkurd	muserz03	0143	binî	under	other:pred	other		pred		
-nkurd	muserz03	0143	ye	COP.3SG	cop	cop				
+nkurd	muserz03	0143	heqîb-ek-î	bag-INDF-EZ	nc_np	nc_np			3092	new
+nkurd	muserz03	0143	li	in	nc	nc				
+nkurd	muserz03	0143	binî	under	nc	nc				
+nkurd	muserz03	0143	ye	COP.3SG	nc	nc				
 nkurd	muserz03	0143	#	#	##ds	##ds				
 nkurd	muserz03	0143	0	0_he	0.h:s	0	h	s	3090	
 nkurd	muserz03	0143	wol	NC	nc	nc				
@@ -3231,8 +3231,8 @@ nkurd	muserz03	0158	wî	DEM.OBL	ln	ln
 nkurd	muserz03	0158	merif-a	man-OBL	np.h:p	np	h	p	3090	
 nkurd	muserz03	0158	bi-kuj-im	SUBJ-kill.PRS-1SG	v:pred	v		pred		
 nkurd	muserz03	0159	#	#	#nc	#nc				
-nkurd	muserz03	0159	0	0_I	0.1:s	0	1	s	3046	
-nkurd	muserz03	0159	rê	way	np:obl	np		obl		
+nkurd	muserz03	0159	0	0_I	nc_0.1	nc_0	1		3046	
+nkurd	muserz03	0159	rê	way	nc	nc				
 nkurd	muserz03	0159	her-im	go-1SG	nc	nc				
 nkurd	muserz03	0159	#	#	##ds	##ds				
 nkurd	muserz03	0159	0	0_I	0.1:s	0	1	s	3046	
@@ -3434,7 +3434,7 @@ nkurd	muserz03	0169	nînin	NEG.exist.PRS-PL	cop	cop
 nkurd	muserz03	0170	#	#	#nc	#nc				
 nkurd	muserz03	0170	sirf	only	nc	nc				
 nkurd	muserz03	0170	[UNCLEAR]	NC	nc	nc				
-nkurd	muserz03	0170	min	1SG.OBL	pro.1:other	pro	1	other	3090	
+nkurd	muserz03	0170	min	1SG.OBL	nc_pro.1	nc_pro	1		3090	
 nkurd	muserz03	0170	hebe	have.PRS-3SG	nc	nc				
 nkurd	muserz03	0170	#	#	##ds	##ds				
 nkurd	muserz03	0170	bila	okay	other	other				
@@ -3445,10 +3445,10 @@ nkurd	muserz03	0170	te	2SG.OBL	pro.2:g	pro	2	g	3046
 nkurd	muserz03	0170	ra	from	pop_adp	pop_adp				
 nkurd	muserz03	0170	b-in	SUBJ.be-PL	cop	cop				
 nkurd	muserz03	0171	#	#	#nc	#nc				
-nkurd	muserz03	0171	teqet-a	strength-EZ	np:obl	np		obl		
-nkurd	muserz03	0171	min	1SG.OBL	rn_pro.1:poss	rn_pro	1	poss	3090	
-nkurd	muserz03	0171	kuvvet-a	power-EZ	np:obl	np		obl		
-nkurd	muserz03	0171	min	1SG.OBL	rn_pro.1:poss	rn_pro	1	poss	3090	
+nkurd	muserz03	0171	teqet-a	strength-EZ	nc	nc				
+nkurd	muserz03	0171	min	1SG.OBL	nc_pro.1	nc_pro	1		3090	
+nkurd	muserz03	0171	kuvvet-a	power-EZ	nc	nc				
+nkurd	muserz03	0171	min	1SG.OBL	nc_pro.1	nc_pro	1		3090	
 nkurd	muserz03	0171	[UNCLEAR]	NC	nc	nc				
 nkurd	muserz03	0171	#	#	##ds	##ds				
 nkurd	muserz03	0171	heft	seven	ln	ln				
@@ -3719,10 +3719,10 @@ nkurd	muserz03	0184	ra	from	pop_adp	pop_adp
 nkurd	muserz03	0184	mahsus	special	other:pred	other		pred		
 nkurd	muserz03	0184	e	COP.PRS.3SG	cop	cop				
 nkurd	muserz03	0184	#	#	#nc	#nc				
-nkurd	muserz03	0184	ne	NEG	other	other				
+nkurd	muserz03	0184	ne	NEG	nc	nc				
 nkurd	muserz03	0184	ji	from	nc	nc				
 nkurd	muserz03	0184	herdu	both	nc	nc				
-nkurd	muserz03	0184	çavan	eye-PL.OBL	np:other	np		other	3047	
+nkurd	muserz03	0184	çavan	eye-PL.OBL	nc_np	nc_np			3047	
 nkurd	muserz03	0184	ra	from	nc	nc				
 nkurd	muserz03	0185	#	#	##ds	##ds				
 nkurd	muserz03	0185	min	1SG.OBL	pro.1:s_ds	pro	1	s_ds	3046	
@@ -4017,7 +4017,7 @@ nkurd	muserz03	0195	cima	why	other	other
 nkurd	muserz03	0195	min	1SG.OBL	pro.1:p	pro	1	p	3090	
 nkurd	muserz03	0195	di-kuj-î	IND-kill.PRS-2SG	v:pred	v		pred		
 nkurd	muserz03	0195	#	#	#nc	#nc				
-nkurd	muserz03	0195	tu	2SG	pro.2:other	pro	2	other	3046	
+nkurd	muserz03	0195	tu	2SG	nc_pro.2	nc_pro	2		3046	
 nkurd	muserz03	0195	[UNCLEAR]	NC	nc	nc				
 nkurd	muserz03	0195	ne-bû	NEG-be.PST	nc	nc				
 nkurd	muserz03	0195	#	#	##ds	##ds				
@@ -4094,10 +4094,10 @@ nkurd	muserz03	0198	mêrik	man	np.h:obl	np	h	obl	3090
 nkurd	muserz03	0198	#	#	#nc	#nc				
 nkurd	muserz03	0198	yek	one	nc	nc				
 nkurd	muserz03	0198	heq-ê	right-EZ	nc	nc				
-nkurd	muserz03	0198	min	1SG.OBL	rn_pro.1:poss	rn_pro	1	poss	3046	
+nkurd	muserz03	0198	min	1SG.OBL	nc_pro.1	nc_pro	1		3046	
 nkurd	muserz03	0198	yek	one	nc	nc				
 nkurd	muserz03	0198	musteheq-a	right-EZ	nc	nc				
-nkurd	muserz03	0198	min	1SG.OBL	rn_pro.1:poss	rn_pro	1	poss	3046	
+nkurd	muserz03	0198	min	1SG.OBL	nc_pro.1	nc_pro	1		3046	
 nkurd	muserz03	0199	#	#	##ds	##ds				
 nkurd	muserz03	0199	hûn	2PL	pro.2:a	pro	2	a		
 nkurd	muserz03	0199	=ê	=FUT	=aux	=aux				

@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Haig, Geoffrey & Vollmer, Maria & Thiele, Hanna. 2019. Multi-CAST Northern Kurdish. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1907. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#nkurd) (date accessed)
+  > Haig, Geoffrey & Vollmer, Maria & Thiele, Hanna. 2019. Multi-CAST Northern Kurdish. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1908. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#nkurd) (date accessed)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ![](cldf/media/image.jpg)
@@ -109,36 +109,36 @@ information on all annotated categories, including those not listed here.
 
 | GRAID | ⟨:s⟩ | ⟨:a⟩ | ⟨:ncs⟩ | ⟨:p⟩ | ⟨:obl⟩ | ⟨:g⟩ | ⟨:l⟩ | ⟨:pred⟩ | ⟨:poss⟩ | ⟨:other⟩ | totals |
 |:--------------|-------:|-------:|---------:|-------:|---------:|-------:|-------:|----------:|----------:|-----------:|---------:|
-| **⟨0.1⟩** | 34 | 43 | 0 | 14 | 0 | 1 | 0 | 0 | 0 | 0 | 92 |
+| **⟨0.1⟩** | 33 | 43 | 0 | 14 | 0 | 1 | 0 | 0 | 0 | 0 | 91 |
 | **⟨0.2⟩** | 32 | 56 | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 90 |
 | **⟨0.h⟩** | 364 | 275 | 0 | 71 | 0 | 1 | 0 | 1 | 0 | 0 | 712 |
 | **⟨0.d⟩** | 7 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 | 9 |
 | **⟨0⟩** | 63 | 22 | 0 | 135 | 0 | 4 | 0 | 0 | 0 | 0 | 224 |
-| **⟨pro.1⟩** | 162 | 149 | 0 | 32 | 29 | 40 | 0 | 1 | 129 | 2 | 544 |
-| **⟨pro.2⟩** | 75 | 58 | 0 | 19 | 14 | 27 | 0 | 2 | 44 | 1 | 240 |
+| **⟨pro.1⟩** | 162 | 149 | 0 | 32 | 27 | 40 | 0 | 1 | 122 | 1 | 534 |
+| **⟨pro.2⟩** | 72 | 58 | 0 | 19 | 14 | 27 | 0 | 2 | 44 | 0 | 236 |
 | **⟨pro.h⟩** | 52 | 29 | 0 | 11 | 28 | 22 | 2 | 1 | 73 | 0 | 218 |
 | **⟨pro.d⟩** | 1 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 3 |
 | **⟨pro⟩** | 7 | 1 | 0 | 2 | 11 | 6 | 8 | 1 | 17 | 18 | 71 |
 | **⟨np.1⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨np.2⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **⟨np.h⟩** | 116 | 55 | 1 | 46 | 32 | 30 | 1 | 47 | 95 | 28 | 451 |
+| **⟨np.h⟩** | 115 | 55 | 1 | 46 | 32 | 30 | 1 | 46 | 95 | 28 | 449 |
 | **⟨np.d⟩** | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |
-| **⟨np⟩** | 187 | 10 | 0 | 331 | 97 | 158 | 88 | 59 | 62 | 80 | 1072 |
+| **⟨np⟩** | 186 | 10 | 0 | 331 | 94 | 158 | 88 | 59 | 62 | 74 | 1062 |
 | **⟨other.1⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other.2⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other.h⟩** | 5 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 7 |
 | **⟨other.d⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **⟨other⟩** | 4 | 2 | 1 | 22 | 5 | 43 | 15 | 126 | 3 | 0 | 221 |
-| | 1111 | 702 | 2 | 685 | 218 | 335 | 114 | 238 | 423 | 129 | 3957 |
+| **⟨other⟩** | 4 | 2 | 1 | 22 | 5 | 43 | 15 | 125 | 3 | 0 | 220 |
+| | 1105 | 702 | 2 | 685 | 213 | 335 | 114 | 236 | 416 | 121 | 3929 |
 
 
 **Clause boundaries**
 
 | GRAID | count |
 |:-----------|--------:|
-| **⟨##⟩** | 979 |
+| **⟨##⟩** | 980 |
 | **⟨#⟩** | 861 |
-| **totals** | 1840 |
+| **totals** | 1841 |
 
 
 

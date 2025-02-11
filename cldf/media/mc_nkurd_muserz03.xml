@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1907">
+<multicast version="1908">
     <corpus c_name="nkurd">
         <text t_name="muserz03" annotators="Geoffrey Haig, Maria Vollmer" speaker="NK01">
-            <file f_name="mc_nkurd_muserz03" audio="mc_nkurd_muserz03.wav" updated="2019-07-09">
+            <file f_name="mc_nkurd_muserz03" audio="mc_nkurd_muserz03.wav" updated="2019-08-13">
                 <unit uid="0001" start_time="0" end_time="5990">
                     <utterance_id>nkurd_muserz03_0001</utterance_id>
                     <utterance>Dibên rojekî şahê perîya hebûye.</utterance>
@@ -6904,7 +6904,7 @@
                         <segment>
                             <gword>paşa</gword>
                             <gloss>king</gloss>
-                            <graid>np.h:voc</graid>
+                            <graid>nc_np.h</graid>
                             <refind>3036</refind>
                         </segment>
                         <segment>
@@ -6915,7 +6915,7 @@
                         <segment>
                             <gword>merif-ên</gword>
                             <gloss>man-EZ.PL</gloss>
-                            <graid>np.h:pred</graid>
+                            <graid>nc_np.h</graid>
                             <refind>3035</refind>
                         </segment>
                         <segment>
@@ -7889,13 +7889,13 @@
                         <segment>
                             <gword>demir-ê</gword>
                             <gloss>iron-EZ</gloss>
-                            <graid>np:other</graid>
+                            <graid>nc_np</graid>
                             <refind>3038</refind>
                         </segment>
                         <segment>
                             <gword>xwe</gword>
                             <gloss>REFL</gloss>
-                            <graid>refl.h:other</graid>
+                            <graid>nc_refl.h</graid>
                             <refind>3037</refind>
                         </segment>
                         <segment>
@@ -8147,14 +8147,14 @@
                         <segment>
                             <gword>zêr-ê</gword>
                             <gloss>gold-EZ</gloss>
-                            <graid>np:other</graid>
+                            <graid>nc_np</graid>
                             <refind>3044</refind>
                             <isnref>new</isnref>
                         </segment>
                         <segment>
                             <gword>min</gword>
                             <gloss>1SG.OBL</gloss>
-                            <graid>rn_pro.1:poss</graid>
+                            <graid>nc_pro.1</graid>
                             <refind>3037</refind>
                         </segment>
                         <segment>
@@ -8165,13 +8165,13 @@
                         <segment>
                             <gword>zêr-ê</gword>
                             <gloss>gold-EZ</gloss>
-                            <graid>np:other</graid>
+                            <graid>nc_np</graid>
                             <refind>3044</refind>
                         </segment>
                         <segment>
                             <gword>min</gword>
                             <gloss>1SG.OBL</gloss>
-                            <graid>rn_pro.1:poss</graid>
+                            <graid>nc_pro.1</graid>
                             <refind>3037</refind>
                         </segment>
                         <segment>
@@ -10229,12 +10229,12 @@
                         <segment>
                             <gword>ji</gword>
                             <gloss>from</gloss>
-                            <graid>adp</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>min</gword>
                             <gloss>1SG.OBL</gloss>
-                            <graid>pro.1:obl</graid>
+                            <graid>nc_pro.1</graid>
                             <refind>3003</refind>
                         </segment>
                         <segment>
@@ -11147,18 +11147,18 @@
                         <segment>
                             <gword>ax</gword>
                             <gloss>oh</gloss>
-                            <graid>other</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>zêr-ê</gword>
                             <gloss>gold-EZ</gloss>
-                            <graid>np:voc</graid>
+                            <graid>nc_np</graid>
                             <refind>3044</refind>
                         </segment>
                         <segment>
                             <gword>min</gword>
                             <gloss>1SG.OBL</gloss>
-                            <graid>rn_pro.1:poss</graid>
+                            <graid>nc_pro.1</graid>
                             <refind>3037</refind>
                         </segment>
                     </annotations>
@@ -12085,24 +12085,24 @@
                         <segment>
                             <gword>tu</gword>
                             <gloss>2SG</gloss>
-                            <graid>pro.2:voc</graid>
+                            <graid>nc_pro.2</graid>
                             <refind>3069</refind>
                         </segment>
                         <segment>
                             <gword>heywan</gword>
                             <gloss>animal</gloss>
-                            <graid>np:other</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>tu</gword>
                             <gloss>2SG</gloss>
-                            <graid>pro.2:s</graid>
+                            <graid>nc_pro.2</graid>
                             <refind>3069</refind>
                         </segment>
                         <segment>
                             <gword>pişîk</gword>
                             <gloss>cat</gloss>
-                            <graid>np:other</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -14281,7 +14281,7 @@
                         <segment>
                             <gword>te</gword>
                             <gloss>2SG.OBL</gloss>
-                            <graid>pro.2:s</graid>
+                            <graid>nc_pro.2</graid>
                             <refind>3037</refind>
                         </segment>
                         <segment>
@@ -16232,8 +16232,8 @@
                         </segment>
                         <segment>
                             <gword>=û</gword>
-                            <gloss>and</gloss>
-                            <graid>other</graid>
+                            <gloss>=and</gloss>
+                            <graid>=other</graid>
                         </segment>
                         <segment>
                             <gword>ez</gword>
@@ -16706,24 +16706,24 @@
                         <segment>
                             <gword>heqîb-ek-î</gword>
                             <gloss>bag-INDF-EZ</gloss>
-                            <graid>np:s</graid>
+                            <graid>nc_np</graid>
                             <refind>3092</refind>
                             <isnref>new</isnref>
                         </segment>
                         <segment>
                             <gword>li</gword>
                             <gloss>in</gloss>
-                            <graid>adp</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>binî</gword>
                             <gloss>under</gloss>
-                            <graid>other:pred</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>ye</gword>
                             <gloss>COP.3SG</gloss>
-                            <graid>cop</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -18533,7 +18533,7 @@
                 <unit uid="0159" start_time="943191" end_time="945936">
                     <utterance_id>nkurd_muserz03_0159</utterance_id>
                     <utterance>(...) rê herim, çima heta êvarê biskînim.</utterance>
-                    <utterance_translation>(?) I will set off and go, why should I wait until evening?</utterance_translation>
+                    <utterance_translation>[UNCLEAR] I will set off and go, why should I wait until evening?</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -18543,13 +18543,13 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_I</gloss>
-                            <graid>0.1:s</graid>
+                            <graid>nc_0.1</graid>
                             <refind>3046</refind>
                         </segment>
                         <segment>
                             <gword>rê</gword>
                             <gloss>way</gloss>
-                            <graid>np:obl</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>her-im</gword>
@@ -19716,7 +19716,7 @@
                         <segment>
                             <gword>min</gword>
                             <gloss>1SG.OBL</gloss>
-                            <graid>pro.1:other</graid>
+                            <graid>nc_pro.1</graid>
                             <refind>3090</refind>
                         </segment>
                         <segment>
@@ -19771,7 +19771,7 @@
                 <unit uid="0171" start_time="1004051" end_time="1013981">
                     <utterance_id>nkurd_muserz03_0171</utterance_id>
                     <utterance>Teqeta min, kuvveta min [UNCLEAR] heft heqîb zêr, heft deva ezê bidim te sirf tu min nekujî, çoluk-çocuxê min heye, ez gune me."</utterance>
-                    <utterance_translation>My strength, power [unclear], seven saddlebags of gold, seven camels I will give to you if only you don't kill me, I have children and family, have mercy on me."</utterance_translation>
+                    <utterance_translation>My strength, power [UNCLEAR], seven saddlebags of gold, seven camels I will give to you if only you don't kill me, I have children and family, have mercy on me."</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -19781,23 +19781,23 @@
                         <segment>
                             <gword>teqet-a</gword>
                             <gloss>strength-EZ</gloss>
-                            <graid>np:obl</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>min</gword>
                             <gloss>1SG.OBL</gloss>
-                            <graid>rn_pro.1:poss</graid>
+                            <graid>nc_pro.1</graid>
                             <refind>3090</refind>
                         </segment>
                         <segment>
                             <gword>kuvvet-a</gword>
                             <gloss>power-EZ</gloss>
-                            <graid>np:obl</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>min</gword>
                             <gloss>1SG.OBL</gloss>
-                            <graid>rn_pro.1:poss</graid>
+                            <graid>nc_pro.1</graid>
                             <refind>3090</refind>
                         </segment>
                         <segment>
@@ -21350,7 +21350,7 @@
                         <segment>
                             <gword>ne</gword>
                             <gloss>NEG</gloss>
-                            <graid>other</graid>
+                            <graid>nc</graid>
                         </segment>
                         <segment>
                             <gword>ji</gword>
@@ -21365,7 +21365,7 @@
                         <segment>
                             <gword>çavan</gword>
                             <gloss>eye-PL.OBL</gloss>
-                            <graid>np:other</graid>
+                            <graid>nc_np</graid>
                             <refind>3047</refind>
                         </segment>
                         <segment>
@@ -23035,7 +23035,7 @@
                         <segment>
                             <gword>tu</gword>
                             <gloss>2SG</gloss>
-                            <graid>pro.2:other</graid>
+                            <graid>nc_pro.2</graid>
                             <refind>3046</refind>
                         </segment>
                         <segment>
@@ -23469,7 +23469,7 @@
                         <segment>
                             <gword>min</gword>
                             <gloss>1SG.OBL</gloss>
-                            <graid>rn_pro.1:poss</graid>
+                            <graid>nc_pro.1</graid>
                             <refind>3046</refind>
                         </segment>
                         <segment>
@@ -23485,7 +23485,7 @@
                         <segment>
                             <gword>min</gword>
                             <gloss>1SG.OBL</gloss>
-                            <graid>rn_pro.1:poss</graid>
+                            <graid>nc_pro.1</graid>
                             <refind>3046</refind>
                         </segment>
                     </annotations>

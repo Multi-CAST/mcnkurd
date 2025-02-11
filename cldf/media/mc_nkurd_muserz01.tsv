@@ -5,7 +5,7 @@ nkurd	muserz01	0001	paša-yê	pasha-EZ	np.h:pred	np	h	pred
 nkurd	muserz01	0001	Ereb-a	Arab-PL.OBL	rn_np.h:poss	rn_np	h	poss		
 nkurd	muserz01	0001	bû-ye	COP.PST-PRF.3SG	cop	cop				
 nkurd	muserz01	0002	#	#	#nc	#nc				
-nkurd	muserz01	0002	merif-ek-î	person-INDF-EZ	np.h:s	np	h	s	1001	
+nkurd	muserz01	0002	merif-ek-î	person-INDF-EZ	nc_np.h	nc_np	h		1001	
 nkurd	muserz01	0002	di	ADP	nc	nc				
 nkurd	muserz01	0002	dinya-yê	world-OBL	nc	nc				
 nkurd	muserz01	0002	da	POP	nc	nc				
@@ -332,7 +332,7 @@ nkurd	muserz01	0023	ez	1SG	pro.1:s	pro	1	s	1002
 nkurd	muserz01	0023	bim	SUBJ.be.PRS.1SG	cop	cop				
 nkurd	muserz01	0024	#	#	#nc	#nc				
 nkurd	muserz01	0024	heyran	EXCL	nc	nc				
-nkurd	muserz01	0024	min	1SG.OBL	pro.1:obl	pro	1	obl	1002	
+nkurd	muserz01	0024	min	1SG.OBL	nc_pro.1	nc_pro	1		1002	
 nkurd	muserz01	0024	ne	not	nc	nc				
 nkurd	muserz01	0024	lazim	necessary	nc	nc				
 nkurd	muserz01	0024	=e	=COP.3SG	nc	nc				
@@ -1435,7 +1435,7 @@ nkurd	muserz01	0081	gund-ê	village-EZ	rn_np:poss	rn_np		poss	1040
 nkurd	muserz01	0081	me	1PL.OBL	rn_pro.1:poss	rn_pro	1	poss	1039	
 nkurd	muserz01	0081	xirab	corruption	np:p	np		p	1114	bridging
 nkurd	muserz01	0081	di-elim-in	IND-learn.PRS-PL	v:pred	v		pred		
-nkurd	muserz01	0082	#	#	#nc	#nc				
+nkurd	muserz01	0082	#	#	##	##				
 nkurd	muserz01	0082	em	1PL	pro.1:s	pro	1	s	1039	
 nkurd	muserz01	0082	gišt	all	other	other				
 nkurd	muserz01	0082	xwedî-yê	owners-EZ.PL	np.h:pred	np	h	pred		
@@ -1472,7 +1472,7 @@ nkurd	muserz01	0083	tu	2SG	pro.2:a_ds	pro	2	a_ds	1027
 nkurd	muserz01	0083	di-bêj-i	IND-say.PRS-2SG	ds_v:pred	ds_v		pred		
 nkurd	muserz01	0083	çi	what	other:p	other		p		
 nkurd	muserz01	0084	#	#	##	##				
-nkurd	muserz01	0084	-ê	NC	other	other				
+nkurd	muserz01	0084	ê	NC	other	other				
 nkurd	muserz01	0084	jinik	woman	np.h:s_ds	np	h	s_ds	1027	
 nkurd	muserz01	0084	di-bê	IND-say.PRS.3SG	ds_v:pred	ds_v		pred		
 nkurd	muserz01	0084	#	#	#ds.neg	#ds.neg				
@@ -1550,7 +1550,7 @@ nkurd	muserz01	0087	te	2SG.OBL	rn_pro.2:poss	rn_pro	2	poss	1019
 nkurd	muserz01	0087	ne	not	other	other				
 nkurd	muserz01	0087	rê-k-î	way-INDF-EZ	np:pred	np		pred		
 nkurd	muserz01	0087	baš	good	rn	rn				
-nkurd	muserz01	0087	=e	=COP.3SG	cop	cop				
+nkurd	muserz01	0087	=e	=COP.3SG	=cop	=cop				
 nkurd	muserz01	0088	#	#	##ds	##ds				
 nkurd	muserz01	0088	tu	2SG	pro.2:s	pro	2	s	1019	
 nkurd	muserz01	0088	=yê	=FUT	=aux	=aux				
@@ -1591,7 +1591,7 @@ nkurd	muserz01	0089	0	0_it	0:p	0		p
 nkurd	muserz01	0089	ji	to	adp	adp				
 nkurd	muserz01	0089	-wê	-3SG.OBL	-pro.h:g	-pro	h	g	1019	
 nkurd	muserz01	0089	ra	POP	pop_adp	pop_adp				
-nkurd	muserz01	0089	got-îye	say.PST-	v:pred	v		pred		
+nkurd	muserz01	0089	got-îye	say.PST-PRF.3SG	v:pred	v		pred		
 nkurd	muserz01	0090	#	#	##	##				
 nkurd	muserz01	0090	0	0_he	0.h:s_ds	0	h	s_ds	1025	
 nkurd	muserz01	0090	di-bê	IND-say.PRS.3SG	ds_v:pred	ds_v		pred		
@@ -1652,27 +1652,27 @@ nkurd	muserz01	0093	0	0_they	0.h:a	0	h	a	1045
 nkurd	muserz01	0093	ji	for	adp	adp				
 nkurd	muserz01	0093	-wê	-3SG.OBL	-pro.h:obl	-pro	h	obl	1019	
 nkurd	muserz01	0093	ra	POP	pop_adp	pop_adp				
-nkurd	muserz01	0093	-ê	NC	other	other				
+nkurd	muserz01	0093	-ê	NC	-other	-other				
 nkurd	muserz01	0093	kû	that	other	other				
 nkurd	muserz01	0093	došek-ê	bedding-OBL	np:p	np		p	1046	new
 nkurd	muserz01	0093	di-b-in	IND-bring.PRS-PL	v:pred	v		pred		
-nkurd	muserz01	0093	ter-in	go.PRS-	rv_vother	rv_vother				
+nkurd	muserz01	0093	ter-in	go.PRS-PL	rv_vother	rv_vother				
 nkurd	muserz01	0093	#	#	#	#				
 nkurd	muserz01	0093	ê	NC	other	other				
 nkurd	muserz01	0093	0	0_they	0.h:a	0	h	a	1045	
 nkurd	muserz01	0093	balîf-ê	cushion-OBL	np:p	np		p	1047	bridging
 nkurd	muserz01	0093	di-b-in	IND-bring.PRS-PL	v:pred	v		pred		
 nkurd	muserz01	0093	#	#	#	#				
-nkurd	muserz01	0093	-ê	NC	other	other				
+nkurd	muserz01	0093	-ê	NC	-other	-other				
 nkurd	muserz01	0093	0	0_they	0.h:a	0	h	a	1045	
 nkurd	muserz01	0093	lehêf-ê	NC-OBL	np:p	np		p		
 nkurd	muserz01	0093	dibin	IND-bring.PRS-PL	v:pred	v		pred		
 nkurd	muserz01	0093	#	#	#	#				
 nkurd	muserz01	0093	0	0_they	0.h:a	0	h	a	1045	
-nkurd	muserz01	0093	-ê	NC	other	other				
+nkurd	muserz01	0093	-ê	NC	-other	-other				
 nkurd	muserz01	0093	xwarin-ê	food-OBL	np:p	np		p	1048	new
 nkurd	muserz01	0093	di-b-in	IND-bring.PRS-PL	v:pred	v		pred		
-nkurd	muserz01	0093	ter-in	go.PRS-	rv_vother	rv_vother				
+nkurd	muserz01	0093	ter-in	go.PRS-PL	rv_vother	rv_vother				
 nkurd	muserz01	0094	#	#	##	##				
 nkurd	muserz01	0094	0	0_they	0.h:s	0	h	s	1045	
 nkurd	muserz01	0094	genc	young	other:pred	other		pred		
@@ -2115,14 +2115,14 @@ nkurd	muserz01	0114	çavan	EXCL	other	other
 nkurd	muserz01	0114	tu	2SG	pro.2:s	pro	2	s	1019	
 nkurd	muserz01	0114	ewled-a	child-EZ	np.h:pred	np	h	pred		
 nkurd	muserz01	0114	min	1SG.OBL	rn_pro.1:poss	rn_pro	1	poss	1058	
-nkurd	muserz01	0114	=î	=COP.2SG	cop	cop				
+nkurd	muserz01	0114	=î	=COP.2SG	=cop	=cop				
 nkurd	muserz01	0114	#	#	#ds	#ds				
 nkurd	muserz01	0114	ez	1SG	pro.1:s	pro	1	s	1058	
 nkurd	muserz01	0114	jî	also	other	other				
 nkurd	muserz01	0114	dî-ya	mother-EZ	np.h:pred	np	h	pred		
 nkurd	muserz01	0114	te	2SG.OBL	rn_pro.2:poss	rn_pro	2	poss	1019	
 nkurd	muserz01	0115	#	#	##	##				
-nkurd	muserz01	0115	-ê	NC	other	other				
+nkurd	muserz01	0115	-ê	NC	-other	-other				
 nkurd	muserz01	0115	de	MOD	=aux	=aux				
 nkurd	muserz01	0115	per-ê	money-EZ	np:s	np		s	1115	
 nkurd	muserz01	0115	qîzik-ê	girl-OBL	rn_np.h:poss	rn_np	h	poss	1019	
@@ -2728,7 +2728,7 @@ nkurd	muserz01	0147	bidin	give	nc	nc
 nkurd	muserz01	0147	rê	way.OBL	nc	nc				
 nkurd	muserz01	0147	herin	go.PST-3PL	nc	nc				
 nkurd	muserz01	0148	#	#	##	##				
-nkurd	muserz01	0148	-ê	NC	other	other				
+nkurd	muserz01	0148	-ê	NC	-other	-other				
 nkurd	muserz01	0148	pîrê	old_woman	np.h:dt	np	h	dt	1058	
 nkurd	muserz01	0148	çav	eye	np.h:s	np	h	s		
 nkurd	muserz01	0148	li	at	adp	adp				
@@ -3045,7 +3045,7 @@ nkurd	muserz01	0163	tu	2SG	pro.2:a_ds	pro	2	a_ds	1019
 nkurd	muserz01	0163	di-bê	IND-say.PRS.2SG	ds_v:pred	ds_v		pred		
 nkurd	muserz01	0163	çi	what	other:p	other		p		
 nkurd	muserz01	0164	#	#	##	##				
-nkurd	muserz01	0164	-ê	NC	other	other				
+nkurd	muserz01	0164	-ê	NC	-other	-other				
 nkurd	muserz01	0164	0	0_she	0.h:s_ds	0	h	s_ds	1019	
 nkurd	muserz01	0164	di-bê	IND-say.PRS.3SG	ds_v:pred	ds_v		pred		
 nkurd	muserz01	0164	#	#	#ds	#ds				
@@ -3427,7 +3427,7 @@ nkurd	muserz01	0181	0	0_she	0.h:a	0	h	a	1083
 nkurd	muserz01	0181	0	0_her	0.h:p	0	h	p	1019	
 nkurd	muserz01	0181	bi-kuj-e	SUBJ-kill.PRS-3SG	v:pred	v		pred		
 nkurd	muserz01	0182	#	#	##	##				
-nkurd	muserz01	0182	-ê	NC	other	other				
+nkurd	muserz01	0182	-ê	NC	-other	-other				
 nkurd	muserz01	0182	de	NC.MOD	other	other				
 nkurd	muserz01	0182	0	0_he	0.h:s	0	h	s	1002	
 nkurd	muserz01	0182	law-ê	son-EZ	np.h:pred	np	h	pred		
@@ -3476,7 +3476,7 @@ nkurd	muserz01	0184	min	1SG.OBL	rn_pro.1:poss	rn_pro	1	poss	1002
 nkurd	muserz01	0184	her	every	ln	ln				
 nkurd	muserz01	0184	tišt-ê	thing-EZ	np:other	np		other		
 nkurd	muserz01	0184	min	1SG.OBL	rn_pro.1:poss	rn_pro	1	poss	1002	
-nkurd	muserz01	0184	-ê	NC	=aux	=aux				
+nkurd	muserz01	0184	-ê	NC	-aux	-aux				
 nkurd	muserz01	0184	di	ADP	adp	adp				
 nkurd	muserz01	0184	hundur	inside	other:pred_l	other		pred_l		
 nkurd	muserz01	0184	da	POP	pop_adp	pop_adp				
@@ -3505,7 +3505,7 @@ nkurd	muserz01	0186	der-ê	place	np:l	np		l	1091
 nkurd	muserz01	0186	ez	1SG	pro.1:a	pro	1	a	1002	
 nkurd	muserz01	0186	=ê	=FUT	=aux	=aux				
 nkurd	muserz01	0186	kîlît	key	np:p	np		p	1092	bridging
-nkurd	muserz01	0186	-ê	NC	other	other				
+nkurd	muserz01	0186	-ê	NC	-other	-other				
 nkurd	muserz01	0186	lêx-im	SUBJ.insert.PRS-1SG	v:pred	v		pred		
 nkurd	muserz01	0186	#	#	#ds	#ds				
 nkurd	muserz01	0186	li	at	adp	adp				
@@ -3815,7 +3815,7 @@ nkurd	muserz01	0203	heye	exists	nc	nc
 nkurd	muserz01	0203	ne	not	nc	nc				
 nkurd	muserz01	0203	ku	that	nc	nc				
 nkurd	muserz01	0203	cî-yê	place	nc	nc				
-nkurd	muserz01	0203	tu	2SG	pro.2:s	pro	2	s	1083	
+nkurd	muserz01	0203	tu	2SG	nc_pro.2	nc_pro	2		1083	
 nkurd	muserz01	0203	tê	through_it	nc	nc				
 nkurd	muserz01	0203	ra	POP	nc	nc				
 nkurd	muserz01	0203	were	2SG.come	nc	nc				

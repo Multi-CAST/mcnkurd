@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2019-07-09T11:29:56+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2019-08-13T20:18:21+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_nkurd_muserz01.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:2b3d3291-8ccb-4897-a2a7-a7a8ca184009</PROPERTY>
@@ -1876,7 +1876,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a40903" ANNOTATION_REF="a251">
-                <ANNOTATION_VALUE>Ê jinik dibê: "Ma (…) em xanîyê xwe, cî û warê xwe naterikînin.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Ê jinik dibê: "Ma [...] em xanîyê xwe, cî û warê xwe naterikînin.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1901,7 +1901,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a40908" ANNOTATION_REF="a266">
-                <ANNOTATION_VALUE>Ama, ji piçûktî çer çûne ji denizê deranîye, anîne hatine (…) jê ra gotîye. (…)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Ama, ji piçûktî çer çûne ji denizê deranîye, anîne hatine […] jê ra gotîye. […]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1976,7 +1976,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a40923" ANNOTATION_REF="a311">
-                <ANNOTATION_VALUE>Birê dikeve berê xwe dide çîyê tere, tere (…) diqelibe alîyê wîyalî, bi rojan tere, tere.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Birê dikeve berê xwe dide çîyê tere, tere [...] diqelibe alîyê wîyalî, bi rojan tere, tere.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2006,7 +2006,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a40929" ANNOTATION_REF="a329">
-                <ANNOTATION_VALUE>(...) ez nikarim te xwedî kim."</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[...] ez nikarim te xwedî kim."</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2031,12 +2031,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a40934" ANNOTATION_REF="a344">
-                <ANNOTATION_VALUE>Ê de perê qîzikê heye. Qîzikê gotîye: "Perê min pir e, pere jî šîrîn e Pîrê (…) perê me heye, Pîrê!"</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Ê de perê qîzikê heye. Qîzikê gotîye: "Perê min pir e, pere jî šîrîn e Pîrê [...] perê me heye, Pîrê!"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a40935" ANNOTATION_REF="a347">
-                <ANNOTATION_VALUE>(…) Hema serê dide ber hembêza xwe mirç û tere çavê wê paçî dike."</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[...] Hema serê dide ber hembêza xwe mirç û tere çavê wê paçî dike."</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2226,7 +2226,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a40973" ANNOTATION_REF="a461">
-                <ANNOTATION_VALUE>Pîre dibê: " Lawo (…) tu dibêjî "digere", ez ne ji wan pîra me.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Pîre dibê: " Lawo [...] tu dibêjî "digere", ez ne ji wan pîra me.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2251,17 +2251,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a40978" ANNOTATION_REF="a476">
-                <ANNOTATION_VALUE>Ewana (…) li cavên hewdû mêzedikin, "Kuro", dibê,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Ewana [...] li cavên hewdû mêzedikin, "Kuro", dibê,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a40979" ANNOTATION_REF="a479">
-                <ANNOTATION_VALUE>"mala te ava be. Eger qîzekî ewha, teqwa, baxlî bi xwedê be, (…) dernekeve der, ji xwe ra em li tištekî aha digerin, bira qet bavê wê paša ne be,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>"mala te ava be. Eger qîzekî ewha, teqwa, baxlî bi xwedê be, [...] dernekeve der, ji xwe ra em li tištekî aha digerin, bira qet bavê wê paša ne be,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a40980" ANNOTATION_REF="a482">
-                <ANNOTATION_VALUE>ez li tištekî ewha digerim." Ê dibe, "Pîrê (…) hela qîza te em bibînin."</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ez li tištekî ewha digerim." Ê dibe, "Pîrê [...] hela qîza te em bibînin."</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2371,7 +2371,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41002" ANNOTATION_REF="a548">
-                <ANNOTATION_VALUE>Emir dide ser hostan, mîmaran, mihendizan, dibê: "Hunê koškekî (…) çêbikin.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Emir dide ser hostan, mîmaran, mihendizan, dibê: "Hunê koškekî [...] çêbikin.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2411,7 +2411,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41010" ANNOTATION_REF="a572">
-                <ANNOTATION_VALUE>Her tišt, xwarin, (…) Mihemed bi xwe wexta derî derî vedike.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Her tišt, xwarin, [...] Mihemed bi xwe wexta derî derî vedike.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9863,7 +9863,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42489" ANNOTATION_REF="a40903" PREVIOUS_ANNOTATION="a42488">
-                <ANNOTATION_VALUE>-ê</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ê</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -29942,7 +29942,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a46478" ANNOTATION_REF="a42609">
-                <ANNOTATION_VALUE>say.PST-</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>say.PST-PRF.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -30267,7 +30267,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a46543" ANNOTATION_REF="a42674">
-                <ANNOTATION_VALUE>go.PRS-</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>go.PRS-PL</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -30347,7 +30347,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a46559" ANNOTATION_REF="a42690">
-                <ANNOTATION_VALUE>go.PRS-</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>go.PRS-PL</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -41494,7 +41494,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a48772" ANNOTATION_REF="a44903">
-                <ANNOTATION_VALUE>np.h:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_np.h</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -43129,7 +43129,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a49093" ANNOTATION_REF="a45224">
-                <ANNOTATION_VALUE>pro.1:obl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_pro.1</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -48644,7 +48644,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a50191" ANNOTATION_REF="a46322">
-                <ANNOTATION_VALUE>#nc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>##</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -49219,7 +49219,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a50308" ANNOTATION_REF="a46439">
-                <ANNOTATION_VALUE>cop</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=cop</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -49729,7 +49729,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a50408" ANNOTATION_REF="a46539">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>-other</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -49784,7 +49784,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a50419" ANNOTATION_REF="a46550">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>-other</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -49814,7 +49814,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a50425" ANNOTATION_REF="a46556">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>-other</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -52046,7 +52046,7 @@ cop</ANNOTATION_VALUE>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a50869" ANNOTATION_REF="a47000">
-                <ANNOTATION_VALUE>cop</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=cop</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -52081,7 +52081,7 @@ cop</ANNOTATION_VALUE>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a50876" ANNOTATION_REF="a47007">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>-other</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -55111,7 +55111,7 @@ cop</ANNOTATION_VALUE>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a51481" ANNOTATION_REF="a47612">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>-other</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -56696,7 +56696,7 @@ cop</ANNOTATION_VALUE>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a51794" ANNOTATION_REF="a47925">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>-other</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -58606,7 +58606,7 @@ cop</ANNOTATION_VALUE>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a52172" ANNOTATION_REF="a48303">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>-other</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -58851,7 +58851,7 @@ cop</ANNOTATION_VALUE>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a52223" ANNOTATION_REF="a48354">
-                <ANNOTATION_VALUE>=aux</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>-aux</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -58996,7 +58996,7 @@ cop</ANNOTATION_VALUE>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a52251" ANNOTATION_REF="a48382">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>-other</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -60546,7 +60546,7 @@ cop</ANNOTATION_VALUE>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a52554" ANNOTATION_REF="a48685">
-                <ANNOTATION_VALUE>pro.2:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_pro.2</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1907">
+<multicast version="1908">
     <corpus c_name="nkurd">
         <text t_name="muserz02" annotators="Geoffrey Haig, Maria Vollmer" speaker="NK02">
-            <file f_name="mc_nkurd_muserz02" audio="mc_nkurd_muserz02.wav" updated="2019-07-09">
+            <file f_name="mc_nkurd_muserz02" audio="mc_nkurd_muserz02.wav" updated="2019-08-15">
                 <unit uid="0001" start_time="0" end_time="22686">
                     <utterance_id>nkurd_muserz02_0001</utterance_id>
                     <utterance>[in the the first 16 seconds various listeners speak to the narrator; their contributions are not transcribed] Îja damarya qîzkê hebûye [followed by some unclear / incomplete utterances]</utterance>
@@ -4276,7 +4276,7 @@
                         <segment>
                             <gword>hesp</gword>
                             <gloss>horse</gloss>
-                            <graid>np:h</graid>
+                            <graid>np.h</graid>
                         </segment>
                         <segment>
                             <gword>vediciniqin</gword>

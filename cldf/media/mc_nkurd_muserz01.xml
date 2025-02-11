@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1907">
+<multicast version="1908">
     <corpus c_name="nkurd">
         <text t_name="muserz01" annotators="Geoffrey Haig, Maria Vollmer" speaker="NK01">
-            <file f_name="mc_nkurd_muserz01" audio="mc_nkurd_muserz01.wav" updated="2019-07-09">
+            <file f_name="mc_nkurd_muserz01" audio="mc_nkurd_muserz01.wav" updated="2019-08-13">
                 <unit uid="0001" start_time="0" end_time="3390">
                     <utterance_id>nkurd_muserz01_0001</utterance_id>
                     <utterance>Harûnê Rešît pašayê Ereba bûye.</utterance>
@@ -50,7 +50,7 @@
                         <segment>
                             <gword>merif-ek-î</gword>
                             <gloss>person-INDF-EZ</gloss>
-                            <graid>np.h:s</graid>
+                            <graid>nc_np.h</graid>
                             <refind>1001</refind>
                         </segment>
                         <segment>
@@ -1954,7 +1954,7 @@
                         <segment>
                             <gword>min</gword>
                             <gloss>1SG.OBL</gloss>
-                            <graid>pro.1:obl</graid>
+                            <graid>nc_pro.1</graid>
                             <refind>1002</refind>
                         </segment>
                         <segment>
@@ -8325,7 +8325,7 @@
                         <segment>
                             <gword>#</gword>
                             <gloss>#</gloss>
-                            <graid>#nc</graid>
+                            <graid>##</graid>
                         </segment>
                         <segment>
                             <gword>em</gword>
@@ -8525,7 +8525,7 @@
                 </unit>
                 <unit uid="0084" start_time="478154" end_time="484368">
                     <utterance_id>nkurd_muserz01_0084</utterance_id>
-                    <utterance>Ê jinik dibê: "Ma (…) em xanîyê xwe, cî û warê xwe naterikînin.</utterance>
+                    <utterance>Ê jinik dibê: "Ma [...] em xanîyê xwe, cî û warê xwe naterikînin.</utterance>
                     <utterance_translation>Then the wife says: "We should not leave our home and surroundings.</utterance_translation>
                     <annotations>
                         <segment>
@@ -8534,7 +8534,7 @@
                             <graid>##</graid>
                         </segment>
                         <segment>
-                            <gword>-ê</gword>
+                            <gword>ê</gword>
                             <gloss>NC</gloss>
                             <graid>other</graid>
                         </segment>
@@ -8977,7 +8977,7 @@
                         <segment>
                             <gword>=e</gword>
                             <gloss>=COP.3SG</gloss>
-                            <graid>cop</graid>
+                            <graid>=cop</graid>
                         </segment>
                     </annotations>
                 </unit>
@@ -9060,7 +9060,7 @@
                 </unit>
                 <unit uid="0089" start_time="506307" end_time="514367">
                     <utterance_id>nkurd_muserz01_0089</utterance_id>
-                    <utterance>Ama, ji piçûktî çer çûne ji denizê deranîye, anîne hatine (…) jê ra gotîye. (…)</utterance>
+                    <utterance>Ama, ji piçûktî çer çûne ji denizê deranîye, anîne hatine […] jê ra gotîye. […]</utterance>
                     <utterance_translation>But (he) had told her how, when she was small, they (?) went and pulled her out of the sea and brought her home.</utterance_translation>
                     <annotations>
                         <segment>
@@ -9209,7 +9209,7 @@
                         </segment>
                         <segment>
                             <gword>got-îye</gword>
-                            <gloss>say.PST-</gloss>
+                            <gloss>say.PST-PRF.3SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                     </annotations>
@@ -9568,7 +9568,7 @@
                         <segment>
                             <gword>-ê</gword>
                             <gloss>NC</gloss>
-                            <graid>other</graid>
+                            <graid>-other</graid>
                         </segment>
                         <segment>
                             <gword>kû</gword>
@@ -9589,7 +9589,7 @@
                         </segment>
                         <segment>
                             <gword>ter-in</gword>
-                            <gloss>go.PRS-</gloss>
+                            <gloss>go.PRS-PL</gloss>
                             <graid>rv_vother</graid>
                         </segment>
                         <segment>
@@ -9628,7 +9628,7 @@
                         <segment>
                             <gword>-ê</gword>
                             <gloss>NC</gloss>
-                            <graid>other</graid>
+                            <graid>-other</graid>
                         </segment>
                         <segment>
                             <gword>0</gword>
@@ -9660,7 +9660,7 @@
                         <segment>
                             <gword>-ê</gword>
                             <gloss>NC</gloss>
-                            <graid>other</graid>
+                            <graid>-other</graid>
                         </segment>
                         <segment>
                             <gword>xwarin-ê</gword>
@@ -9676,7 +9676,7 @@
                         </segment>
                         <segment>
                             <gword>ter-in</gword>
-                            <gloss>go.PRS-</gloss>
+                            <gloss>go.PRS-PL</gloss>
                             <graid>rv_vother</graid>
                         </segment>
                     </annotations>
@@ -10900,7 +10900,7 @@
                 </unit>
                 <unit uid="0104" start_time="594872" end_time="603837">
                     <utterance_id>nkurd_muserz01_0104</utterance_id>
-                    <utterance>Birê dikeve berê xwe dide çîyê tere, tere (…) diqelibe alîyê wîyalî, bi rojan tere, tere.</utterance>
+                    <utterance>Birê dikeve berê xwe dide çîyê tere, tere [...] diqelibe alîyê wîyalî, bi rojan tere, tere.</utterance>
                     <utterance_translation>(She) took to the road, heading for the mountain(s), on and on, turning this way and that, for days (she) kept going.</utterance_translation>
                     <annotations>
                         <segment>
@@ -11629,7 +11629,7 @@
                 </unit>
                 <unit uid="0110" start_time="635683" end_time="640284">
                     <utterance_id>nkurd_muserz01_0110</utterance_id>
-                    <utterance>(...) ez nikarim te xwedî kim."</utterance>
+                    <utterance>[...] ez nikarim te xwedî kim."</utterance>
                     <utterance_translation>(unclear) I cannot look after you</utterance_translation>
                     <annotations>
                         <segment>
@@ -12203,7 +12203,7 @@
                         <segment>
                             <gword>=î</gword>
                             <gloss>=COP.2SG</gloss>
-                            <graid>cop</graid>
+                            <graid>=cop</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -12236,7 +12236,7 @@
                 </unit>
                 <unit uid="0115" start_time="667720" end_time="673353">
                     <utterance_id>nkurd_muserz01_0115</utterance_id>
-                    <utterance>Ê de perê qîzikê heye. Qîzikê gotîye: "Perê min pir e, pere jî šîrîn e Pîrê (…) perê me heye, Pîrê!"</utterance>
+                    <utterance>Ê de perê qîzikê heye. Qîzikê gotîye: "Perê min pir e, pere jî šîrîn e Pîrê [...] perê me heye, Pîrê!"</utterance>
                     <utterance_translation>And there was the girl's money. The girl said: "I have much money, and money is sweet, we have money, Old lady!"</utterance_translation>
                     <annotations>
                         <segment>
@@ -12247,7 +12247,7 @@
                         <segment>
                             <gword>-ê</gword>
                             <gloss>NC</gloss>
-                            <graid>other</graid>
+                            <graid>-other</graid>
                         </segment>
                         <segment>
                             <gword>de</gword>
@@ -12379,7 +12379,7 @@
                 </unit>
                 <unit uid="0116" start_time="673353" end_time="677576">
                     <utterance_id>nkurd_muserz01_0116</utterance_id>
-                    <utterance>(…) Hema serê dide ber hembêza xwe mirç û tere çavê wê paçî dike."</utterance>
+                    <utterance>[...] Hema serê dide ber hembêza xwe mirç û tere çavê wê paçî dike."</utterance>
                     <utterance_translation>Straight away they hug and kiss each other loudly (exact interpretation unclear)."</utterance_translation>
                     <annotations>
                         <segment>
@@ -15726,7 +15726,7 @@
                         <segment>
                             <gword>-ê</gword>
                             <gloss>NC</gloss>
-                            <graid>other</graid>
+                            <graid>-other</graid>
                         </segment>
                         <segment>
                             <gword>pîrê</gword>
@@ -16426,7 +16426,7 @@
                 </unit>
                 <unit uid="0154" start_time="860493" end_time="864870">
                     <utterance_id>nkurd_muserz01_0154</utterance_id>
-                    <utterance>Pîre dibê: " Lawo (…) tu dibêjî "digere", ez ne ji wan pîra me.</utterance>
+                    <utterance>Pîre dibê: " Lawo [...] tu dibêjî "digere", ez ne ji wan pîra me.</utterance>
                     <utterance_translation>The old lady says: "Young man, (…) you say "get around", I am not one of those old ladies.</utterance_translation>
                     <annotations>
                         <segment>
@@ -17000,7 +17000,7 @@
                 </unit>
                 <unit uid="0159" start_time="886397" end_time="889945">
                     <utterance_id>nkurd_muserz01_0159</utterance_id>
-                    <utterance>Ewana (…) li cavên hewdû mêzedikin, "Kuro", dibê,</utterance>
+                    <utterance>Ewana [...] li cavên hewdû mêzedikin, "Kuro", dibê,</utterance>
                     <utterance_translation>They look at each other, "Boy (addressee unclear),.</utterance_translation>
                     <annotations>
                         <segment>
@@ -17058,7 +17058,7 @@
                 </unit>
                 <unit uid="0160" start_time="889945" end_time="901939">
                     <utterance_id>nkurd_muserz01_0160</utterance_id>
-                    <utterance>"mala te ava be. Eger qîzekî ewha, teqwa, baxlî bi xwedê be, (…) dernekeve der, ji xwe ra em li tištekî aha digerin, bira qet bavê wê paša ne be,</utterance>
+                    <utterance>"mala te ava be. Eger qîzekî ewha, teqwa, baxlî bi xwedê be, [...] dernekeve der, ji xwe ra em li tištekî aha digerin, bira qet bavê wê paša ne be,</utterance>
                     <utterance_translation>may your house prosper (formulaic expression). If (she) is a girl so pious, so committed to God, she does not go out, we ourselves are looking for something just like that, even if her father should not be a Pasha, we are looking for something like that."</utterance_translation>
                     <add_comments>baxlî: From Tu. bağlı 'attached'.</add_comments>
                     <annotations>
@@ -17254,7 +17254,7 @@
                 </unit>
                 <unit uid="0161" start_time="901939" end_time="911107">
                     <utterance_id>nkurd_muserz01_0161</utterance_id>
-                    <utterance>ez li tištekî ewha digerim." Ê dibe, "Pîrê (…) hela qîza te em bibînin."</utterance>
+                    <utterance>ez li tištekî ewha digerim." Ê dibe, "Pîrê [...] hela qîza te em bibînin."</utterance>
                     <utterance_translation>"Well then", (he) says, "Old lady, let us see your daughter."</utterance_translation>
                     <annotations>
                         <segment>
@@ -17532,7 +17532,7 @@
                         <segment>
                             <gword>-ê</gword>
                             <gloss>NC</gloss>
-                            <graid>other</graid>
+                            <graid>-other</graid>
                         </segment>
                         <segment>
                             <gword>0</gword>
@@ -19707,7 +19707,7 @@
                         <segment>
                             <gword>-ê</gword>
                             <gloss>NC</gloss>
-                            <graid>other</graid>
+                            <graid>-other</graid>
                         </segment>
                         <segment>
                             <gword>de</gword>
@@ -19832,7 +19832,7 @@
                 </unit>
                 <unit uid="0183" start_time="1056656" end_time="1062729">
                     <utterance_id>nkurd_muserz01_0183</utterance_id>
-                    <utterance>Emir dide ser hostan, mîmaran, mihendizan, dibê: "Hunê koškekî (…) çêbikin.</utterance>
+                    <utterance>Emir dide ser hostan, mîmaran, mihendizan, dibê: "Hunê koškekî [...] çêbikin.</utterance>
                     <utterance_translation>(He) give orders to master craftsmen, architects, engineers, saying: "You will (…) build a palace.</utterance_translation>
                     <annotations>
                         <segment>
@@ -19998,7 +19998,7 @@
                         <segment>
                             <gword>-ê</gword>
                             <gloss>NC</gloss>
-                            <graid>=aux</graid>
+                            <graid>-aux</graid>
                         </segment>
                         <segment>
                             <gword>di</gword>
@@ -20169,7 +20169,7 @@
                         <segment>
                             <gword>-ê</gword>
                             <gloss>NC</gloss>
-                            <graid>other</graid>
+                            <graid>-other</graid>
                         </segment>
                         <segment>
                             <gword>lêx-im</gword>
@@ -20483,7 +20483,7 @@
                 </unit>
                 <unit uid="0191" start_time="1094363" end_time="1100637">
                     <utterance_id>nkurd_muserz01_0191</utterance_id>
-                    <utterance>Her tišt, xwarin, (…) Mihemed bi xwe wexta derî derî vedike.</utterance>
+                    <utterance>Her tišt, xwarin, [...] Mihemed bi xwe wexta derî derî vedike.</utterance>
                     <utterance_translation>Everything, food (…) Mihemed himself opens the doors one after another.</utterance_translation>
                     <annotations>
                         <segment>
@@ -21943,7 +21943,7 @@
                         <segment>
                             <gword>tu</gword>
                             <gloss>2SG</gloss>
-                            <graid>pro.2:s</graid>
+                            <graid>nc_pro.2</graid>
                             <refind>1083</refind>
                         </segment>
                         <segment>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2019-07-09T11:47:31+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2019-08-13T20:20:07+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_nkurd_muserz03.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:4a82ea79-980f-4d25-a868-5dc65c742e5c</PROPERTY>
@@ -37162,7 +37162,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5997" ANNOTATION_REF="a3140">
-                <ANNOTATION_VALUE>and</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=and</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -49584,7 +49584,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a7718" ANNOTATION_REF="a4861">
-                <ANNOTATION_VALUE>np.h:voc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_np.h</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -49594,7 +49594,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a7720" ANNOTATION_REF="a4863">
-                <ANNOTATION_VALUE>np.h:pred</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_np.h</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -50439,12 +50439,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a7827" ANNOTATION_REF="a4970">
-                <ANNOTATION_VALUE>np:other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_np</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a7828" ANNOTATION_REF="a4971">
-                <ANNOTATION_VALUE>refl.h:other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_refl.h</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -50659,12 +50659,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a7855" ANNOTATION_REF="a4998">
-                <ANNOTATION_VALUE>np:other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_np</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a7856" ANNOTATION_REF="a4999">
-                <ANNOTATION_VALUE>rn_pro.1:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_pro.1</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -50674,12 +50674,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a7858" ANNOTATION_REF="a5001">
-                <ANNOTATION_VALUE>np:other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_np</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a7859" ANNOTATION_REF="a5002">
-                <ANNOTATION_VALUE>rn_pro.1:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_pro.1</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -52464,12 +52464,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8106" ANNOTATION_REF="a5249">
-                <ANNOTATION_VALUE>adp</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8107" ANNOTATION_REF="a5250">
-                <ANNOTATION_VALUE>pro.1:obl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_pro.1</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -53279,17 +53279,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8218" ANNOTATION_REF="a5361">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8219" ANNOTATION_REF="a5362">
-                <ANNOTATION_VALUE>np:voc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_np</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8220" ANNOTATION_REF="a5363">
-                <ANNOTATION_VALUE>rn_pro.1:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_pro.1</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -54094,22 +54094,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8333" ANNOTATION_REF="a5476">
-                <ANNOTATION_VALUE>pro.2:voc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_pro.2</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8334" ANNOTATION_REF="a5477">
-                <ANNOTATION_VALUE>np:other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8335" ANNOTATION_REF="a5478">
-                <ANNOTATION_VALUE>pro.2:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_pro.2</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8336" ANNOTATION_REF="a5479">
-                <ANNOTATION_VALUE>np:other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -56034,7 +56034,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8602" ANNOTATION_REF="a5745">
-                <ANNOTATION_VALUE>pro.2:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_pro.2</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -57764,7 +57764,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8854" ANNOTATION_REF="a5997">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=other</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -58169,22 +58169,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8908" ANNOTATION_REF="a6051">
-                <ANNOTATION_VALUE>np:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_np</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8909" ANNOTATION_REF="a6052">
-                <ANNOTATION_VALUE>adp</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8910" ANNOTATION_REF="a6053">
-                <ANNOTATION_VALUE>other:pred</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a15636" ANNOTATION_REF="a15635">
-                <ANNOTATION_VALUE>cop</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -59779,12 +59779,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a14752" ANNOTATION_REF="a14750">
-                <ANNOTATION_VALUE>0.1:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_0.1</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9132" ANNOTATION_REF="a6275">
-                <ANNOTATION_VALUE>np:obl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -60794,7 +60794,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9279" ANNOTATION_REF="a6422">
-                <ANNOTATION_VALUE>pro.1:other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_pro.1</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -60849,22 +60849,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9288" ANNOTATION_REF="a6431">
-                <ANNOTATION_VALUE>np:obl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9289" ANNOTATION_REF="a6432">
-                <ANNOTATION_VALUE>rn_pro.1:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_pro.1</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9290" ANNOTATION_REF="a6433">
-                <ANNOTATION_VALUE>np:obl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9291" ANNOTATION_REF="a6434">
-                <ANNOTATION_VALUE>rn_pro.1:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_pro.1</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -62219,7 +62219,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9488" ANNOTATION_REF="a6631">
-                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -62234,7 +62234,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9491" ANNOTATION_REF="a6634">
-                <ANNOTATION_VALUE>np:other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_np</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -63709,7 +63709,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9698" ANNOTATION_REF="a6841">
-                <ANNOTATION_VALUE>pro.2:other</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_pro.2</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -64094,7 +64094,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9752" ANNOTATION_REF="a6895">
-                <ANNOTATION_VALUE>rn_pro.1:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_pro.1</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -64109,7 +64109,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9755" ANNOTATION_REF="a6898">
-                <ANNOTATION_VALUE>rn_pro.1:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nc_pro.1</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -72955,7 +72955,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26449" ANNOTATION_REF="a1159">
-                <ANNOTATION_VALUE>(?) I will set off and go, why should I wait until evening?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>[UNCLEAR] I will set off and go, why should I wait until evening?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -73015,7 +73015,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26461" ANNOTATION_REF="a1171">
-                <ANNOTATION_VALUE>My strength, power [unclear], seven saddlebags of gold, seven camels I will give to you if only you don't kill me, I have children and family, have mercy on me."</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>My strength, power [UNCLEAR], seven saddlebags of gold, seven camels I will give to you if only you don't kill me, I have children and family, have mercy on me."</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
