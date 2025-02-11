@@ -1,0 +1,2687 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+nkurd	muserz02	0001	#	#	#	#				
+nkurd	muserz02	0001	Îja	that.time	other	other				
+nkurd	muserz02	0001	damarya	stepmother.of	np.h:s	np	h	s		
+nkurd	muserz02	0001	qîzkê	girl	rn_np.h:poss	rn_np	h	poss		
+nkurd	muserz02	0001	hebûye	existed	predex	predex				
+nkurd	muserz02	0002	##	##	##	##				
+nkurd	muserz02	0002	Navê	name.of	np:s	np		s		
+nkurd	muserz02	0002	qîzkê	girl.of	rn_np.h:poss	rn_np	h	poss		
+nkurd	muserz02	0002	Fatik	Fatik	pn_np:pred	pn_np		pred		
+nkurd	muserz02	0002	bûye.	was	cop	cop				
+nkurd	muserz02	0003	##	##	##	##				
+nkurd	muserz02	0003	Navê	name.of	np:s	np		s		
+nkurd	muserz02	0003	qîza	girl.of	rn_np.h:poss	rn_np	h	poss		
+nkurd	muserz02	0003	damarya	stepmother.of	rn_np.h:poss	rn_np	h	poss		
+nkurd	muserz02	0003	wê	her	rn_pro.h:poss	rn_pro	h	poss		
+nkurd	muserz02	0003	jî	also	other	other				
+nkurd	muserz02	0003	Eyšik	Eyšik	pn_np:pred	pn_np		pred		
+nkurd	muserz02	0003	bûye.	was	cop	cop				
+nkurd	muserz02	0004	##	##	##	##				
+nkurd	muserz02	0004	Îja	that.time	other	other				
+nkurd	muserz02	0004	daîme	always	other	other				
+nkurd	muserz02	0004	0	0_she	0.h:s	0	h	s		
+nkurd	muserz02	0004	çûne	went	v:pred	v		pred		
+nkurd	muserz02	0004	ber	to.front	adp	adp				
+nkurd	muserz02	0004	dewar	cattle	np:g	np		g		
+nkurd	muserz02	0004	bi	with	adp	adp				
+nkurd	muserz02	0004	hev	each.other	refl_pro.h:obl	refl_pro	h	obl		
+nkurd	muserz02	0004	ra.	pop	pop_adp	pop_adp				
+nkurd	muserz02	0005	##	##	##	##				
+nkurd	muserz02	0005	Çêleka	cow.of	np:a	np		a		
+nkurd	muserz02	0005	diya	mother.of	rn_np.h:poss	rn_np	h	poss		
+nkurd	muserz02	0005	Fatikê	Fatikê	rn_pn_np.h:poss	rn_pn_np	h	poss		
+nkurd	muserz02	0005	daîme	always	other	other				
+nkurd	muserz02	0005	li	at	adp	adp				
+nkurd	muserz02	0005	dewar	cattle	np:p	np		p		
+nkurd	muserz02	0005	xistîye,	struck	v:pred	v		pred		
+nkurd	muserz02	0005	#neg	#neg	#neg	#neg				
+nkurd	muserz02	0005	0	0_it	0:a	0		a		
+nkurd	muserz02	0005	nehîštîye	not.let	v:pred	v		pred		
+nkurd	muserz02	0005	#	#	#cc:p	#cc		p		
+nkurd	muserz02	0005	Eyšik	Eyšik	pn_np.h:s	pn_np	h	s		
+nkurd	muserz02	0005	rûnê.	sit.down	v:pred	v		pred		
+nkurd	muserz02	0006	##	##	##	##				
+nkurd	muserz02	0006	Fatik	Fatik	pn_np.h:a	pn_np	h	a		
+nkurd	muserz02	0006	jî	also	other	other				
+nkurd	muserz02	0006	tešîya	spindle.of	np:p	np		p		
+nkurd	muserz02	0006	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0006	dibe,	takes	v:pred	v		pred		
+nkurd	muserz02	0006	#	#	#	#				
+nkurd	muserz02	0006	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0006	0	0_it	0:p	0		p		
+nkurd	muserz02	0006	dirêse,	spins	v:pred	v		pred		
+nkurd	muserz02	0006	#	#	#	#				
+nkurd	muserz02	0006	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0006	0	0_it	0:p	0		p		
+nkurd	muserz02	0006	bar	carrying	lvc	lvc				
+nkurd	muserz02	0006	dike.	does	v:pred	v		pred		
+nkurd	muserz02	0007	##	##	##	##				
+nkurd	muserz02	0007	Êvarê	evening	other	other				
+nkurd	muserz02	0007	0	0_she	0.h:s	0	h	s		
+nkurd	muserz02	0007	tê	comes	v:pred	v		pred		
+nkurd	muserz02	0007	#	#	#	#				
+nkurd	muserz02	0007	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0007	wî	that	ln_dem	ln_dem				
+nkurd	muserz02	0007	giloka	wool.ball.of	np:p	np		p		
+nkurd	muserz02	0007	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0007	tîne	takes	v:pred	v		pred		
+nkurd	muserz02	0007	#	#	#	#				
+nkurd	muserz02	0007	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0007	0	0_it	0:p	0		p		
+nkurd	muserz02	0007	dide	gives	v:pred	v		pred		
+nkurd	muserz02	0007	damarya	stepmother.of	np.h:g	np	h	g		
+nkurd	muserz02	0007	xwe.	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0008	##	##	##	##				
+nkurd	muserz02	0008	Îja	that.time	other	other				
+nkurd	muserz02	0008	damarî	stepmother	np.h:a	np	h	a		
+nkurd	muserz02	0008	li	at	adp	adp				
+nkurd	muserz02	0008	qîza	girl.of	np.h:p	np	h	p		
+nkurd	muserz02	0008	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0008	dixe,	strikes	v:pred	v		pred		
+nkurd	muserz02	0008	#	#	#	#				
+nkurd	muserz02	0008	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0008	dibê:	says	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0008	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0008	``Çima	how	other	other				
+nkurd	muserz02	0008	ew	she	pro.h:s	pro	h	s		
+nkurd	muserz02	0008	êtim	orphan	np.h:pred	np	h	pred		
+nkurd	muserz02	0008	e,	is	cop	cop				
+nkurd	muserz02	0008	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0008	ew	she	pro.h:s	pro	h	s		
+nkurd	muserz02	0008	tere	goes	v:pred	v		pred		
+nkurd	muserz02	0008	ber	front.of	adp	adp				
+nkurd	muserz02	0008	dewar,	cattle	np:g	np		g		
+nkurd	muserz02	0008	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0008	ew	she	pro.h:a	pro	h	a		
+nkurd	muserz02	0008	royê	in.day	np:other	np		other		
+nkurd	muserz02	0008	tešîya	spindle.of	np:p	np		p		
+nkurd	muserz02	0008	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0008	aqasa	that.much	other	other				
+nkurd	muserz02	0008	dirêse!	spins	v:pred	v		pred		
+nkurd	muserz02	0009	#nc	#nc	#nc	#nc				
+nkurd	muserz02	0009	Çima	how	nc	nc				
+nkurd	muserz02	0009	tu	you	nc	nc				
+nkurd	muserz02	0009	jî?''	also	nc	nc				
+nkurd	muserz02	0009	#	#	#	#				
+nkurd	muserz02	0009	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0009	Dibê:	says	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0009	#ds	#ds_neg	#ds	#ds				
+nkurd	muserz02	0009	``Dewar	cattle	np:s	np		s		
+nkurd	muserz02	0009	nasekine.''	not.stop	v:pred	v		pred		
+nkurd	muserz02	0010	##	##	##neg	##neg				
+nkurd	muserz02	0010	Qîzik	girl	np.h:a	np	h	a		
+nkurd	muserz02	0010	jî	also	other	other				
+nkurd	muserz02	0010	nizane	not.know	v:pred	v		pred		
+nkurd	muserz02	0010	#cc	#cc	#cc:p	#cc		p		
+nkurd	muserz02	0010	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0010	çêleka	cow.of	np:p	np		p		
+nkurd	muserz02	0010	diya	mother.of	rn_np.h:poss	rn_np	h	poss		
+nkurd	muserz02	0010	wê	her	rn_pro.h:poss	rn_pro	h	poss		
+nkurd	muserz02	0010	lêdixîne,	strikes	v:pred	v		pred		
+nkurd	muserz02	0010	#	#	#neg	#neg				
+nkurd	muserz02	0010	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0010	0	0_them	0.h:p	0	h	p		
+nkurd	muserz02	0010	nahele.	not.let	v:pred	v		pred		
+nkurd	muserz02	0011	##	##	#nc	#nc				
+nkurd	muserz02	0011	Îja	that.time	nc	nc				
+nkurd	muserz02	0011	wê	that	nc	nc				
+nkurd	muserz02	0011	çaxê	period	nc	nc				
+nkurd	muserz02	0011	0	0_she	nc	nc				
+nkurd	muserz02	0011	cardinê	again	nc	nc				
+nkurd	muserz02	0011	tîne	taking	nc	nc				
+nkurd	muserz02	0011	qeda	nagging.of	nc	nc				
+nkurd	muserz02	0011	xwe	self	nc	nc				
+nkurd	muserz02	0011	tê	comes	nc	nc				
+nkurd	muserz02	0011	#	#	#nc	#nc				
+nkurd	muserz02	0011	dide.	xxx	nc	nc				
+nkurd	muserz02	0011	##	##	##	##				
+nkurd	muserz02	0011	0	0	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0011	Dibê:	says	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0011	#nc	#nc	#nc	#nc				
+nkurd	muserz02	0011	``Çer	how	nc	nc				
+nkurd	muserz02	0011	bûye,	was.it	nc	nc				
+nkurd	muserz02	0011	çer	how	nc	nc				
+nkurd	muserz02	0011	nebûye''.	not.was.it	nc	nc				
+nkurd	muserz02	0011	#	#	#	#				
+nkurd	muserz02	0011	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0011	Dibê:	says	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0011	#	#	#ds	#ds				
+nkurd	muserz02	0011	``Welle	well	excl	excl				
+nkurd	muserz02	0011	ava	that	ln_dem	ln_dem				
+nkurd	muserz02	0011	filan	some	ln	ln				
+nkurd	muserz02	0011	çêleka	cow	np:a	np		a		
+nkurd	muserz02	0011	hana	there	other	other				
+nkurd	muserz02	0011	li	at	adp	adp				
+nkurd	muserz02	0011	dewar	cattle	np:p	np		p		
+nkurd	muserz02	0011	dixîne.''	strikes	v:pred	v		pred		
+nkurd	muserz02	0012	##	##	##	##				
+nkurd	muserz02	0012	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0012	Dibê:	says	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0012	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0012	``Lema	that's.why	other	other				
+nkurd	muserz02	0012	ez	I	pro.1:a	pro	1	a		
+nkurd	muserz02	0012	nikarim	cannot	aux	aux				
+nkurd	muserz02	0012	tešîyê	spindle	np:p	np		p		
+nkurd	muserz02	0012	birêsim.''	spin	v:pred	v		pred		
+nkurd	muserz02	0013	##	##	##	##				
+nkurd	muserz02	0013	Rokî	one.day	np:other	np		other		
+nkurd	muserz02	0013	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0013	(ji)	from	adp	adp				
+nkurd	muserz02	0013	mêrê	husband.of	np.h:g	np	h	g		
+nkurd	muserz02	0013	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0013	ra	pop	pop_adp	pop_adp				
+nkurd	muserz02	0013	dibê:	says	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0013	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0013	``Ez	I	pro.1:a	pro	1	a		
+nkurd	muserz02	0013	nebîranîya	longing	np:p	np		p		
+nkurd	muserz02	0013	dikim.	do	v:pred	v		pred		
+nkurd	muserz02	0013	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0013	Tu	you	pro.2:a	pro	2	a		
+nkurd	muserz02	0013	yê	will	aux	aux				
+nkurd	muserz02	0013	ji	for	adp	adp				
+nkurd	muserz02	0013	mi	me	pro.1:g	pro	1	g		
+nkurd	muserz02	0013	ra	pop	pop_adp	pop_adp				
+nkurd	muserz02	0013	wê	that	ln_dem	ln_dem				
+nkurd	muserz02	0013	çêlekê	cow	np:p	np		p		
+nkurd	muserz02	0013	šerjê(bi)kî,	slaughter	v:pred	v		pred		
+nkurd	muserz02	0013	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0013	0	0_you	0.2:a	0	2	a		
+nkurd	muserz02	0013	çêleka	cow.of	np:p	np		p		
+nkurd	muserz02	0013	diya	mother.of	rn_np.h:poss	rn_np	h	poss		
+nkurd	muserz02	0013	Fatikê	Fatik	rn_pn_np.h:poss	rn_pn_np	h	poss		
+nkurd	muserz02	0013	šerjê(bi)kî.''	slaughter	v:pred	v		pred		
+nkurd	muserz02	0014	##	##	##	##				
+nkurd	muserz02	0014	Fatik	Fatik	pn_np.h:s	pn_np	h	s		
+nkurd	muserz02	0014	jî	also	other	other				
+nkurd	muserz02	0014	pir	very	other	other				
+nkurd	muserz02	0014	bedew	beautiful	other:pred	other		pred		
+nkurd	muserz02	0014	bûye.	was	cop	cop				
+nkurd	muserz02	0015	#	#	#	#				
+nkurd	muserz02	0015	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0015	0	0_it	0:p	0		p		
+nkurd	muserz02	0015	Tîne,	brings	v:pred	v		pred		
+nkurd	muserz02	0015	#	#	#	#				
+nkurd	muserz02	0015	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0015	dibê:	says	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0015	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0015	``Tu	you	pro.2:a	pro	2	a		
+nkurd	muserz02	0015	0	0_it	0:p	0		p		
+nkurd	muserz02	0015	šerjêbike.''	will.slaughter	v:pred	v		pred		
+nkurd	muserz02	0015	##	##	##	##				
+nkurd	muserz02	0015	Waya	he	pro.h:s_ds	pro	h	s_ds		
+nkurd	muserz02	0015	jî	also	other	other				
+nkurd	muserz02	0015	dibê:	says	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0015	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0015	``Ez	I	pro.1:a	pro	1	a		
+nkurd	muserz02	0015	çer	why	other	other				
+nkurd	muserz02	0015	çêlekê	cow	np:p	np		p		
+nkurd	muserz02	0015	šerjêkim.''	slaughter	v:pred	v		pred		
+nkurd	muserz02	0015	#	#	#	#				
+nkurd	muserz02	0015	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0015	Dibê:	says	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0015	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0015	``Welle	well	excl	excl				
+nkurd	muserz02	0015	tu	you	pro.2:a	pro	2	a		
+nkurd	muserz02	0015	yê	will	aux	aux				
+nkurd	muserz02	0015	0	0_it	0:p	0		p		
+nkurd	muserz02	0015	šerjêkî.''	slaughter	v:pred	v		pred		
+nkurd	muserz02	0016	##	##	##	##				
+nkurd	muserz02	0016	0	0_he	0.h:a	0	h	a		
+nkurd	muserz02	0016	0	0_it	0:p	0		p		
+nkurd	muserz02	0016	Tîne	brings	v:pred	v		pred		
+nkurd	muserz02	0016	#	#	#	#				
+nkurd	muserz02	0016	0	0_he	0.h:a	0	h	a		
+nkurd	muserz02	0016	wê	that	ln_dem	ln_dem				
+nkurd	muserz02	0016	çêlekê	cow	np:p	np		p		
+nkurd	muserz02	0016	šerjêdike,	slaughters	v:pred	v		pred		
+nkurd	muserz02	0017	##	##	##	##				
+nkurd	muserz02	0017	0	0_he	0.h:a	0	h	a		
+nkurd	muserz02	0017	0	0_it	0:p	0		p		
+nkurd	muserz02	0017	Digurê,	skins	v:pred	v		pred		
+nkurd	muserz02	0017	#	#	#	#				
+nkurd	muserz02	0017	0	0_he	0.h:a	0	h	a		
+nkurd	muserz02	0017	Wî	that	ln_dem	ln_dem				
+nkurd	muserz02	0017	goštê	meat.of	np:p	np		p		
+nkurd	muserz02	0017	wê	her	rn_pro:poss	rn_pro		poss		
+nkurd	muserz02	0017	gava	when	other	other				
+nkurd	muserz02	0017	tîne	brings	v:pred	v		pred		
+nkurd	muserz02	0017	bi	to	adp	adp				
+nkurd	muserz02	0017	qîzkê	girl	np.h:g	np	h	g		
+nkurd	muserz02	0017	û	and	u	u				
+nkurd	muserz02	0017	dîya	mother.of	rn_np.h	rn_np	h			
+nkurd	muserz02	0017	wê	her	rn_pro.h:poss	rn_pro	h	poss		
+nkurd	muserz02	0017	#	#	#	#				
+nkurd	muserz02	0017	0	0_it	0:s	0		s		
+nkurd	muserz02	0017	were	such	other	other				
+nkurd	muserz02	0017	tel	bitter	other:pred	other		pred		
+nkurd	muserz02	0017	bûye,	was	cop	cop				
+nkurd	muserz02	0017	fena	like	other	other				
+nkurd	muserz02	0017	jehrî.	poison	other	other				
+nkurd	muserz02	0017	#	#	#	#				
+nkurd	muserz02	0017	Gava	when	other	other				
+nkurd	muserz02	0017	Fatik	Fatik	pn_np.h:a	pn_np	h	a		
+nkurd	muserz02	0017	jî	also	other	other				
+nkurd	muserz02	0017	0	0_it	0:p	0		p		
+nkurd	muserz02	0017	dixwe	eats	v:pred	v		pred		
+nkurd	muserz02	0017	#	#	#	#				
+nkurd	muserz02	0017	0	0_she	0.h:s	0	h	s		
+nkurd	muserz02	0017	pir	very	other	other				
+nkurd	muserz02	0017	pê	through.it	adp-pro:obl	adp-pro		obl		
+nkurd	muserz02	0017	xweš	pleasured	other	other				
+nkurd	muserz02	0017	bûye.	was	cop	cop				
+nkurd	muserz02	0018	##	##	##	##				
+nkurd	muserz02	0018	Ew	xxx	other:a	other		a		
+nkurd	muserz02	0018	ji	from	adp	adp				
+nkurd	muserz02	0018	teref	side.of	np:obl	np		obl		
+nkurd	muserz02	0018	xaliqê	creator.of	rn_np:poss	rn_np		poss		
+nkurd	muserz02	0018	alemê	world	rn_pn_np.h:poss	rn_pn_np	h	poss		
+nkurd	muserz02	0018	hestîyê	bones.of	np:p	np		p		
+nkurd	muserz02	0018	wî	it	rn_pro:poss	rn_pro		poss		
+nkurd	muserz02	0018	tîne	bring	v:pred	v		pred		
+nkurd	muserz02	0018	ziman.	language	lvc	lvc				
+nkurd	muserz02	0019	##	##	##	##				
+nkurd	muserz02	0019	0	0_it	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0019	Dibê:	says	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0019	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0019	``Tu	you	pro.2:a	pro	2	a		
+nkurd	muserz02	0019	yê	will	aux	aux				
+nkurd	muserz02	0019	hestîyê	bones.of	np:p	np		p		
+nkurd	muserz02	0019	mi	me	rn_pro.1:poss	rn_pro	1	poss		
+nkurd	muserz02	0019	biherî,	take	v:pred	v		pred		
+nkurd	muserz02	0019	#	#	#	#				
+nkurd	muserz02	0019	0	0_you	0.2:a	0	2	a		
+nkurd	muserz02	0019	di	in	adp	adp				
+nkurd	muserz02	0019	afirê	stall.of	np:l	np		l		
+nkurd	muserz02	0019	mi	me	rn_pro.1:poss	rn_pro	1	poss		
+nkurd	muserz02	0019	da	pop	pop_adp	pop_adp				
+nkurd	muserz02	0019	bike	put	v:pred	v		pred		
+nkurd	muserz02	0019	çel.	hole	np:g	np		g		
+nkurd	muserz02	0020	##	##	##	##				
+nkurd	muserz02	0020	0	0_it	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0020	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0020	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0020	``Gava	when	other	other				
+nkurd	muserz02	0020	kî	that	other	other				
+nkurd	muserz02	0020	tu	you	pro.2:s	pro	2	s		
+nkurd	muserz02	0020	hat	came	v:pred	v		pred		
+nkurd	muserz02	0020	li	at	adp	adp				
+nkurd	muserz02	0020	cem	to	adp	adp				
+nkurd	muserz02	0020	mi,	me	pro.1:g	pro	1	g		
+nkurd	muserz02	0020	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0020	ez	I	pro.1:s	pro	1	s		
+nkurd	muserz02	0020	(ji)	to	adp	adp				
+nkurd	muserz02	0020	te	you	pro.2:g	pro	2	g		
+nkurd	muserz02	0020	ra	pop	pop_adp	pop_adp				
+nkurd	muserz02	0020	qise	speaking	lvc	lvc				
+nkurd	muserz02	0020	dikim.	do	v:pred	v		pred		
+nkurd	muserz02	0021	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0021	Gava	when	other	other				
+nkurd	muserz02	0021	ke	that	other	other				
+nkurd	muserz02	0021	ew	they	pro.h:a	pro	h	a		
+nkurd	muserz02	0021	derî	door	np:p	np		p		
+nkurd	muserz02	0021	bi	to	adp	adp				
+nkurd	muserz02	0021	ser	in.front	adp	adp				
+nkurd	muserz02	0021	te	you	pro.2:obl	pro	2	obl		
+nkurd	muserz02	0021	da	pop	pop_adp	pop_adp				
+nkurd	muserz02	0021	kilît	locking	lvc	lvc				
+nkurd	muserz02	0021	(di)kin,	do	v:pred	v		pred		
+nkurd	muserz02	0021	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0021	0	0_they	0.h:s	0	h	s		
+nkurd	muserz02	0021	terin	go	v:pred	v		pred		
+nkurd	muserz02	0021	deweta,	to. wedding	np:g	np		g		
+nkurd	muserz02	0021	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0021	tu	you	pro.2:s	pro	2	s		
+nkurd	muserz02	0021	di	in	adp	adp				
+nkurd	muserz02	0021	mal	house	np:l	np		l		
+nkurd	muserz02	0021	da	pop	pop_adp	pop_adp				
+nkurd	muserz02	0021	dimînî.''	remain	v:pred	v		pred		
+nkurd	muserz02	0022	##	##	##	##				
+nkurd	muserz02	0022	0	0_it	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0022	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0022	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0022	``Tu	you	pro.2:s	pro	2	s		
+nkurd	muserz02	0022	werî	come	v:pred	v		pred		
+nkurd	muserz02	0022	#nc	#nc	#nc	#nc				
+nkurd	muserz02	0022	hema	straight	nc	nc				
+nkurd	muserz02	0022	ser	in.front	nc	nc				
+nkurd	muserz02	0022	ewa	that.of	nc	nc				
+nkurd	muserz02	0022	mi	me	nc	nc				
+nkurd	muserz02	0022	bigrî,	cry	nc	nc				
+nkurd	muserz02	0022	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0022	ez	I	pro.1:s	pro	1	s		
+nkurd	muserz02	0022	bi	with	adp	adp				
+nkurd	muserz02	0022	te	you	pro.2:obl	pro	2	obl		
+nkurd	muserz02	0022	ra	pop	pop_adp	pop_adp				
+nkurd	muserz02	0022	qise	speaking	lvc	lvc				
+nkurd	muserz02	0022	dikim.	do	v:pred	v		pred		
+nkurd	muserz02	0022	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0022	Tu	you	pro.2:a	pro	2	a		
+nkurd	muserz02	0022	yê	will	aux	aux				
+nkurd	muserz02	0022	derî	door	np:p	np		p		
+nkurd	muserz02	0022	kilît	locking	lvc	lvc				
+nkurd	muserz02	0022	kî,	do	v:pred	v		pred		
+nkurd	muserz02	0022	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0022	0	0_you	0.2:s	0	2	s		
+nkurd	muserz02	0022	herî.	come	v:pred	v		pred		
+nkurd	muserz02	0022	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0022	Nêzîka	near.to	other	other				
+nkurd	muserz02	0022	ew	they	pro.h:s	pro	h	s		
+nkurd	muserz02	0022	hatin	came	v:pred	v		pred		
+nkurd	muserz02	0022	malê	to.house	np:g	np		g		
+nkurd	muserz02	0022	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0022	tu	you	pro.2:s	pro	2	s		
+nkurd	muserz02	0022	jî	also	other	other				
+nkurd	muserz02	0022	berîya	before	adp	adp				
+nkurd	muserz02	0022	werî	come	v:pred	v		pred		
+nkurd	muserz02	0022	malê.''	to.house	np:g	np		g		
+nkurd	muserz02	0023	##	##	##	##				
+nkurd	muserz02	0023	Ava	she	pro.h:s_ds	pro	h	s_ds		
+nkurd	muserz02	0023	jî	also	other	other				
+nkurd	muserz02	0023	dibê	says	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0023	``Erê.''	yes	other	other				
+nkurd	muserz02	0024	#	#	#	#				
+nkurd	muserz02	0024	Gava	when	other	other				
+nkurd	muserz02	0024	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0024	0	0_it	0:p	0		p		
+nkurd	muserz02	0024	tînin	bringing	vother	vother				
+nkurd	muserz02	0024	dikin	make	v:pred	v		pred		
+nkurd	muserz02	0024	qelî,	qelî	np:other	np		other		
+nkurd	muserz02	0024	#	#	#neg	#neg				
+nkurd	muserz02	0024	qa	so	other	other				
+nkurd	muserz02	0024	jinik	woman	np.h:a	np	h	a		
+nkurd	muserz02	0024	nikare	not.can	aux	aux				
+nkurd	muserz02	0024	0	0_it	0	0				
+nkurd	muserz02	0024	bixwe.	eat	v:pred	v		pred		
+nkurd	muserz02	0024	Ne	Neither	other	other				
+nkurd	muserz02	0024	ew,	her	other	other				
+nkurd	muserz02	0024	ne	nor	other	other				
+nkurd	muserz02	0024	qîza	girl.of	other	other				
+nkurd	muserz02	0024	wê.	her	other	other				
+nkurd	muserz02	0024	#	#	#	#				
+nkurd	muserz02	0024	Ne	Neither	neg	neg				
+nkurd	muserz02	0024	Eyšik	Eyšik	pn_np.h:a	pn_np	h	a		
+nkurd	muserz02	0024	0	0_it	0:p	0		p		
+nkurd	muserz02	0024	dixwe,	eats	v:pred	v		pred		
+nkurd	muserz02	0024	#	#	#	#				
+nkurd	muserz02	0024	ne	nor	neg	neg				
+nkurd	muserz02	0024	diya	mother.of	np.h:a	np	h	a		
+nkurd	muserz02	0024	wê	her	rn_pro.h:poss	rn_pro	h	poss		
+nkurd	muserz02	0024	0	0_it	0:p	0		p		
+nkurd	muserz02	0024	dixwe.	eats	v:pred	v		pred		
+nkurd	muserz02	0025	##	##	##	##				
+nkurd	muserz02	0025	Ava	she	pro.h:a	pro	h	a		
+nkurd	muserz02	0025	jî	also	other	other				
+nkurd	muserz02	0025	hema	always	other	other				
+nkurd	muserz02	0025	ji	for	adp	adp				
+nkurd	muserz02	0025	xwe	self	refl_pro.h:obl	refl_pro	h	obl		
+nkurd	muserz02	0025	ra	pop	pop_adp	pop_adp				
+nkurd	muserz02	0025	wer	sp	other	other				
+nkurd	muserz02	0025	royê	daily	np:other	np		other		
+nkurd	muserz02	0025	hinkî	a.little	np:p	np		p		
+nkurd	muserz02	0025	dixwe,	eats	v:pred	v		pred		
+nkurd	muserz02	0025	#	#	#	#				
+nkurd	muserz02	0025	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0025	hestîyê	bones.of	np:dt_p	np		dt_p		
+nkurd	muserz02	0025	wê	her	rn_pro:poss	rn_pro		poss		
+nkurd	muserz02	0025	bi	by	adp	adp				
+nkurd	muserz02	0025	dizî	stealth	np:other	np		other		
+nkurd	muserz02	0025	wan	them	pro:p	pro		p		
+nkurd	muserz02	0025	dibe,	carries	v:pred	v		pred		
+nkurd	muserz02	0025	#	#	#	#				
+nkurd	muserz02	0025	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0025	0	0_it	0:p	0		p		
+nkurd	muserz02	0025	dike	puts	v:pred	v		pred		
+nkurd	muserz02	0025	afirê	manger.of	np:g	np		g		
+nkurd	muserz02	0025	çêleka	cow.of	rn_np:poss	rn_np		poss		
+nkurd	muserz02	0025	diya	mother.of	rn_np:poss	rn_np		poss		
+nkurd	muserz02	0025	xwe.	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0026	##	##	##	##				
+nkurd	muserz02	0026	0	0_it	0:s	0		s		
+nkurd	muserz02	0026	Diha	another	other	other				
+nkurd	muserz02	0026	wer	so	other	other				
+nkurd	muserz02	0026	dimîne,	remains	v:pred	v		pred		
+nkurd	muserz02	0026	rokî,	one.day	np:other	np		other		
+nkurd	muserz02	0026	dudu,	two	other	other				
+nkurd	muserz02	0026	sisê.	three	other	other				
+nkurd	muserz02	0026	##	##	##	##				
+nkurd	muserz02	0026	Dewet	wedding.ceremony	np:s	np		s		
+nkurd	muserz02	0026	hebûye.	there.was	predex	predex				
+nkurd	muserz02	0027	##	##	##	##				
+nkurd	muserz02	0027	Fatik	Fatik	pn_np.h:s	pn_np	h	s		
+nkurd	muserz02	0027	pir	very	other	other				
+nkurd	muserz02	0027	bedew	beautiful	other:pred	other		pred		
+nkurd	muserz02	0027	bûye.	was	cop	cop				
+nkurd	muserz02	0027	#	#	#	#				
+nkurd	muserz02	0027	Šimika	slipper	np:s	np		s		
+nkurd	muserz02	0027	nigê	foot.of	rn_np:poss	rn_np		poss		
+nkurd	muserz02	0027	Fatikê	Fatik	rn_pn_np.h:poss	rn_pn_np	h	poss		
+nkurd	muserz02	0027	jî	also	other	other				
+nkurd	muserz02	0027	sade	pure	other	other				
+nkurd	muserz02	0027	gi	all	other	other				
+nkurd	muserz02	0027	zîv	silver	other:pred	other		pred		
+nkurd	muserz02	0027	bûye.	was	cop	cop				
+nkurd	muserz02	0028	##	##	##	##				
+nkurd	muserz02	0028	Lawê	son.of	np.h:dt	np	h	dt		
+nkurd	muserz02	0028	pašê	pasha	rn_np.h:poss	rn_np	h	poss		
+nkurd	muserz02	0028	jî	also	other	other				
+nkurd	muserz02	0028	dilê	heart.of	np:s	np		s		
+nkurd	muserz02	0028	wî	his	rn_pro.h:poss	rn_pro	h	poss		
+nkurd	muserz02	0028	pir	very	other	other				
+nkurd	muserz02	0028	dikeve	falls	v:pred	v		pred		
+nkurd	muserz02	0028	Fatikê.	to.Fatik	np.h:g	np	h	g		
+nkurd	muserz02	0028	#	#	#	#				
+nkurd	muserz02	0028	0	0_she	0.h:s	0	h	s		
+nkurd	muserz02	0028	Tere	goes	v:pred	v		pred		
+nkurd	muserz02	0028	dewetê.	to.wedding	np:g	np		g		
+nkurd	muserz02	0029	##	##	##	##				
+nkurd	muserz02	0029	Ew	that	ln_dem	ln_dem				
+nkurd	muserz02	0029	damarya	stepmother.of	np.h:s_ds	np	h	s_ds		
+nkurd	muserz02	0029	wê	her	rn_pro.h:poss	rn_pro	h	poss		
+nkurd	muserz02	0029	dibê	says	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0029	#nc	#nc	#nc	#nc				
+nkurd	muserz02	0029	tu	you	nc	nc				
+nkurd	muserz02	0029	yê.	will	nc	nc				
+nkurd	muserz02	0029	##	##	##	##				
+nkurd	muserz02	0029	Ew	that	ln_dem	ln_dem				
+nkurd	muserz02	0029	mêrkê	man	np.h:s_ds	np	h	s_ds		
+nkurd	muserz02	0029	lawê	son.of	rn_np.h:poss	rn_np	h	poss		
+nkurd	muserz02	0029	pašê	pasha	rn_np.h:poss	rn_np	h	poss		
+nkurd	muserz02	0029	dibê:	says	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0029	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0029	``Ava	that	ln_dem	ln_dem				
+nkurd	muserz02	0029	šimika	slipper	np:s	np		s		
+nkurd	muserz02	0029	hanê	ther	rn	rn				
+nkurd	muserz02	0029	li	to	adp	adp				
+nkurd	muserz02	0029	nigê	foot.of	np:g	np		g		
+nkurd	muserz02	0029	kê	whoever	rn_other:poss	rn_other		poss		
+nkurd	muserz02	0029	were	comes	v:pred	v		pred		
+nkurd	muserz02	0029	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0029	ez	I	pro.1:a	pro	1	a		
+nkurd	muserz02	0029	0	0_her	0.h:p	0	h	p		
+nkurd	muserz02	0029	ji	for	adp	adp				
+nkurd	muserz02	0029	xwe	self	refl_pro.h:obl	refl_pro	h	obl		
+nkurd	muserz02	0029	ra	pop	pop_adp	pop_adp				
+nkurd	muserz02	0029	dixwazim.''	want	v:pred	v		pred		
+nkurd	muserz02	0030	##	##	##	##				
+nkurd	muserz02	0030	Di	at	adp	adp				
+nkurd	muserz02	0030	wê	that	ln_dem	ln_dem				
+nkurd	muserz02	0030	arê	time	np:l	np		l		
+nkurd	muserz02	0030	da	pop	pop_adp	pop_adp				
+nkurd	muserz02	0030	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0030	wê	that	ln_dem	ln_dem				
+nkurd	muserz02	0030	sîtilê	cauldron	np:p	np		p		
+nkurd	muserz02	0030	datîne.	places	v:pred	v		pred		
+nkurd	muserz02	0031	##	##	##	##				
+nkurd	muserz02	0031	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0031	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0031	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0031	``Ez	I	pro.1:s	pro	1	s		
+nkurd	muserz02	0031	heta	until	other	other				
+nkurd	muserz02	0031	ji	from	adp	adp				
+nkurd	muserz02	0031	dewetê	wedding	np:obl	np		obl		
+nkurd	muserz02	0031	têmê,	come	v:pred	v		pred		
+nkurd	muserz02	0031	ez	I	pro.1:dt	pro	1	dt		
+nkurd	muserz02	0031	û	and	u	u				
+nkurd	muserz02	0031	qîza	daughter.of	np.h:dt	np	h	dt		
+nkurd	muserz02	0031	xwe,	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0031	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0031	tu	you	pro.2:s	pro	2	s		
+nkurd	muserz02	0031	yê	will	aux	aux				
+nkurd	muserz02	0031	wer	so	other	other				
+nkurd	muserz02	0031	bigrî	cry	v:pred	v		pred		
+nkurd	muserz02	0031	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0031	hêsirê	tears.of	np:s	np		s		
+nkurd	muserz02	0031	te	yours	rn_pro.2:poss	rn_pro	2	poss		
+nkurd	muserz02	0031	va	that	ln_dem	ln_dem				
+nkurd	muserz02	0031	sîtila	cauldron	np:other	np		other		
+nkurd	muserz02	0031	tijî	full	other	other				
+nkurd	muserz02	0031	bibe.''	become	v:pred	v		pred		
+nkurd	muserz02	0032	##	##	##	##				
+nkurd	muserz02	0032	Qîzik	girl	np.h:s	np	h	s		
+nkurd	muserz02	0032	jî	also	other	other				
+nkurd	muserz02	0032	rûdine,	sits.down	v:pred	v		pred		
+nkurd	muserz02	0032	#	#	#	#				
+nkurd	muserz02	0032	0	0_she	0.h:s	0	h	s		
+nkurd	muserz02	0032	digrî,	cries	v:pred	v		pred		
+nkurd	muserz02	0032	#rep	#rep	#rep	#rep				
+nkurd	muserz02	0032	0	0_she	0.h:s	0	h	s		
+nkurd	muserz02	0032	digrî.	cries	v:pred	v		pred		
+nkurd	muserz02	0032	#	#	#	#				
+nkurd	muserz02	0032	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0032	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0032	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0032	``Ezê	I	pro.1:a	pro	1	a		
+nkurd	muserz02	0032	ê	will	aux	aux				
+nkurd	muserz02	0032	vê	that	ln_dem	ln_dem				
+nkurd	muserz02	0032	sîtilê	cauldron	np:p	np		p		
+nkurd	muserz02	0032	çer	how	other	other				
+nkurd	muserz02	0032	tijî	full	other	other				
+nkurd	muserz02	0032	bikim?''	do	v:pred	v		pred		
+nkurd	muserz02	0033	##	##	##	##				
+nkurd	muserz02	0033	0	0_she	0.h:s	0	h	s		
+nkurd	muserz02	0033	Tere	goes	v:pred	v		pred		
+nkurd	muserz02	0033	ser	front	adp	adp				
+nkurd	muserz02	0033	afirê	manger.of	np:g	np		g		
+nkurd	muserz02	0033	çêleka	cow.of	rn_np:poss	rn_np		poss		
+nkurd	muserz02	0033	diya	mother.of	rn_np.h:poss	rn_np	h	poss		
+nkurd	muserz02	0033	xwe,	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0033	#	#	#	#				
+nkurd	muserz02	0033	hestî	bones	np:s	np		s		
+nkurd	muserz02	0033	jê	to.it	other	other				
+nkurd	muserz02	0033	ra	pop	other	other				
+nkurd	muserz02	0033	tê	come	v:pred	v		pred		
+nkurd	muserz02	0033	ziman	language	np:g	np		g		
+nkurd	muserz02	0033	teref	through	adp	adp				
+nkurd	muserz02	0033	Xwedê	God	pn_np.h:obl	pn_np	h	obl		
+nkurd	muserz02	0033	da.	pop	pop_adp	pop_adp				
+nkurd	muserz02	0034	##	##	##	##				
+nkurd	muserz02	0034	0	0_it	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0034	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0034	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0034	``0	0_you	0.2:s	0	2	s		
+nkurd	muserz02	0034	Here	go	v:pred	v		pred		
+nkurd	muserz02	0034	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0034	0	0_you	0.2:a	0	2	a		
+nkurd	muserz02	0034	xwoya	salt.of	np:p	np		p		
+nkurd	muserz02	0034	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0034	rind	good	other	other				
+nkurd	muserz02	0034	têkî	pour	v:pred	v		pred		
+nkurd	muserz02	0034	sîtilê,	in.cauldron	np:g	np		g		
+nkurd	muserz02	0034	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0034	0	0_you	0.h:a	0	h	a		
+nkurd	muserz02	0034	ava	water.of	np:p	np		p		
+nkurd	muserz02	0034	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0034	berde,	put	v:pred	v		pred		
+nkurd	muserz02	0034	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0034	0	0_you	0.h:a	0	h	a		
+nkurd	muserz02	0034	0	0_it	0:p	0		p		
+nkurd	muserz02	0034	tijî	full	other	other				
+nkurd	muserz02	0034	ke,	do	v:pred	v		pred		
+nkurd	muserz02	0034	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0034	0	0_you	0.h:a	0	h	a		
+nkurd	muserz02	0034	0	0_it	0:p	0		p		
+nkurd	muserz02	0034	li	at	adp	adp				
+nkurd	muserz02	0034	hev	together	refl_pro:obl	refl_pro		obl		
+nkurd	muserz02	0034	xe,	put	v:pred	v		pred		
+nkurd	muserz02	0034	#	#	#	#				
+nkurd	muserz02	0034	0	0_you	0.h:a	0	h	a		
+nkurd	muserz02	0034	0	0_it	0:p	0		p		
+nkurd	muserz02	0034	li	at	adp	adp				
+nkurd	muserz02	0034	hev	together	refl_pro:obl	refl_pro		obl		
+nkurd	muserz02	0034	xîne.	put	v:pred	v		pred		
+nkurd	muserz02	0035	#	#	#	#				
+nkurd	muserz02	0035	Xwey	salt	np:s	np		s		
+nkurd	muserz02	0035	rind	well	other	other				
+nkurd	muserz02	0035	helîya,	melted	v:pred	v		pred		
+nkurd	muserz02	0035	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0035	tu	you	pro.2:s	pro	2	s		
+nkurd	muserz02	0035	here	go	v:pred	v		pred		
+nkurd	muserz02	0035	ji	for	adp	adp				
+nkurd	muserz02	0035	xwe	self	refl_pro.2:obl	refl_pro	2	obl		
+nkurd	muserz02	0035	ra	pop	pop_adp	pop_adp				
+nkurd	muserz02	0035	dewetê.	to.wedding	v:pred	v		pred		
+nkurd	muserz02	0035	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0035	Tu	you	pro.2:s	pro	2	s		
+nkurd	muserz02	0035	were	come	v:pred	v		pred		
+nkurd	muserz02	0035	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0035	0	0_you	0.2:a	0	2	a		
+nkurd	muserz02	0035	xwe	self	refl_pro.2:p	refl_pro	2	p		
+nkurd	muserz02	0035	bixemilîne,	adorn	v:pred	v		pred		
+nkurd	muserz02	0035	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0035	0	0_you	0.2:s	0	2	s		
+nkurd	muserz02	0035	here	go	v:pred	v		pred		
+nkurd	muserz02	0035	dewetê.	to.wedding	np:g	np		g		
+nkurd	muserz02	0036	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0036	Nêzîkîya	near	other	other				
+nkurd	muserz02	0036	ew	she	pro.h:s	pro	h	s		
+nkurd	muserz02	0036	û	and	u	u				
+nkurd	muserz02	0036	diya	mother.of	np.h_rn	np	h_rn			
+nkurd	muserz02	0036	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0036	hatin	came	v:pred	v		pred		
+nkurd	muserz02	0036	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0036	tu	you	pro.2:s	pro	2	s		
+nkurd	muserz02	0036	li	at	adp	adp				
+nkurd	muserz02	0036	pêšîyê	front	other	other				
+nkurd	muserz02	0036	were	come	v:pred	v		pred		
+nkurd	muserz02	0036	malê	to.house	np:g	np		g		
+nkurd	muserz02	0036	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0036	0	0_you	0.h:s	0	h	s		
+nkurd	muserz02	0036	ji	for	adp	adp				
+nkurd	muserz02	0036	xwe	self	refl_pro.h:obl	refl_pro	h	obl		
+nkurd	muserz02	0036	ra	pop	pop_adp	pop_adp				
+nkurd	muserz02	0036	li	at	adp	adp				
+nkurd	muserz02	0036	ser	front	other:g	other		g		
+nkurd	muserz02	0036	runê,	sit.down	v:pred	v		pred		
+nkurd	muserz02	0036	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0036	0	0_you	0.h:s	0	h	s		
+nkurd	muserz02	0036	bigrî.	cry	v:pred	v		pred		
+nkurd	muserz02	0036	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0036	Ewa	they	pro.h:a	pro	h	a		
+nkurd	muserz02	0036	diha	more	other	other				
+nkurd	muserz02	0036	çi	what	inter_pro:p	inter_pro		p		
+nkurd	muserz02	0036	zanin?''	know	v:pred	v		pred		
+nkurd	muserz02	0037	##	##	##	##				
+nkurd	muserz02	0037	Va	she	pro.h:s	pro	h	s		
+nkurd	muserz02	0037	tere	goes	v:pred	v		pred		
+nkurd	muserz02	0037	dewetê	to.wedding	np:g	np		g		
+nkurd	muserz02	0037	#	#	#	#				
+nkurd	muserz02	0037	0	0_she	0.h:s	0	h	s		
+nkurd	muserz02	0037	ji	for	adp	adp				
+nkurd	muserz02	0037	xwe	self	refl_pro.h:obl	refl_pro	h	obl		
+nkurd	muserz02	0037	ra	pop	pop_adp	pop_adp				
+nkurd	muserz02	0037	dilîze.	dances	v:pred	v		pred		
+nkurd	muserz02	0038	#	#	#	#				
+nkurd	muserz02	0038	Gava	when	other	other				
+nkurd	muserz02	0038	damarya	stepmother.of	np.h:s	np	h	s		
+nkurd	muserz02	0038	wê	her	rn_pro.h:poss	rn_pro	h	poss		
+nkurd	muserz02	0038	lê	at.her	adp=pro.h:g	adp=pro	h	g		
+nkurd	muserz02	0038	mêzedike,	looks	v:pred	v		pred		
+nkurd	muserz02	0038	#	#	#	#				
+nkurd	muserz02	0038	0	0_she	0.h:s	0	h	s		
+nkurd	muserz02	0038	ji	to	adp	adp				
+nkurd	muserz02	0038	qîza	daughter.of	np.h:g	np	h	g		
+nkurd	muserz02	0038	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0038	ra	pop	pop_adp	pop_adp				
+nkurd	muserz02	0038	dibê:	says:	v:pred	v		pred		
+nkurd	muserz02	0038	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0038	``Çavê	eyes.of	np:s	np		s		
+nkurd	muserz02	0038	vîya	that.one	rn_pro.h:poss	rn_pro	h	poss		
+nkurd	muserz02	0038	fena	like	adp	adp				
+nkurd	muserz02	0038	wê	that	ln_dem	ln_dem				
+nkurd	muserz02	0038	Fatika	Fatik.of	pn_np.h:obl	pn_np	h	obl		
+nkurd	muserz02	0038	mala	house.of	rn_np:poss	rn_np		poss		
+nkurd	muserz02	0038	me.''	ours	rn_pro.1:poss	rn_pro	1	poss		
+nkurd	muserz02	0039	##	##	##	##				
+nkurd	muserz02	0039	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0039	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0039	#ds_neg	#ds_neg	#ds_neg	#ds_neg				
+nkurd	muserz02	0039	de	well	other	other				
+nkurd	muserz02	0039	însan	people	np:s	np		s		
+nkurd	muserz02	0039	li	to	adp	adp				
+nkurd	muserz02	0039	hevdû	each.other	refl_pro.h:obl	refl_pro	h	obl		
+nkurd	muserz02	0039	narin?''	not.go	v:pred	v		pred		
+nkurd	muserz02	0039	#	#	#	#				
+nkurd	muserz02	0039	Ji	for	adp	adp				
+nkurd	muserz02	0039	xwe	self	refl_pro.h:obl	refl_pro	h	obl		
+nkurd	muserz02	0039	ra	pop	pop_adp	pop_adp				
+nkurd	muserz02	0039	ew	she	pro.h:s	pro	h	s		
+nkurd	muserz02	0039	û	and	rn	rn				
+nkurd	muserz02	0039	diya	mother.of	rn_np.h	rn_np	h			
+nkurd	muserz02	0039	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0039	dilîzin	dance	v:pred	v		pred		
+nkurd	muserz02	0039	#	#	#	#				
+nkurd	muserz02	0039	û	and	u	u				
+nkurd	muserz02	0039	vana	they	pro.h:s	pro	h	s		
+nkurd	muserz02	0039	jî	also	other	other				
+nkurd	muserz02	0039	dilîzin.	dance	v:pred	v		pred		
+nkurd	muserz02	0039	Lawê	son.of	pn_np.h:other	pn_np	h	other		
+nkurd	muserz02	0039	Pašê	pasha	rn_pn_np.h:poss	rn_pn_np	h	poss		
+nkurd	muserz02	0040	##	##	##	##				
+nkurd	muserz02	0040	šimika	slipper.of	np:s	np		s		
+nkurd	muserz02	0040	nigê	foot.of	rn_np:poss	rn_np		poss		
+nkurd	muserz02	0040	Fatikê	Fatik	rn_pn_np.h:poss	rn_pn_np	h	poss		
+nkurd	muserz02	0040	dikeve.	falls	v:pred	v		pred		
+nkurd	muserz02	0041	#	#	#	#				
+nkurd	muserz02	0041	0	0_it	0:s	0		s		
+nkurd	muserz02	0041	Dikeve,	falls	v:pred	v		pred		
+nkurd	muserz02	0041	#	#	#	#				
+nkurd	muserz02	0041	šimikê	slipper.of	np:s	np		s		
+nkurd	muserz02	0041	nigê	foot	np:other	np		other		
+nkurd	muserz02	0041	gava	when	other	other				
+nkurd	muserz02	0041	dikeve	falls	v:pred	v		pred		
+nkurd	muserz02	0041	#	#	#	#				
+nkurd	muserz02	0041	wê	that	ln	ln				
+nkurd	muserz02	0041	çaxê	time	np:other	np		other		
+nkurd	muserz02	0041	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0041	šimikê	slipper	np:p	np		p		
+nkurd	muserz02	0041	dibin,	take	v:pred	v		pred		
+nkurd	muserz02	0041	#	#	#	#				
+nkurd	muserz02	0041	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0041	0	0_it	0:p	0		p		
+nkurd	muserz02	0041	davêjin	throw	v:pred	v		pred		
+nkurd	muserz02	0041	#nc	#nc	#nc	#nc				
+nkurd	muserz02	0041	nizanim	I.not.know	nc	nc				
+nkurd	muserz02	0041	0	0_they	nc	nc				
+nkurd	muserz02	0041	dibin	take	nc	nc				
+nkurd	muserz02	0041	davêjin	throw	nc	nc				
+nkurd	muserz02	0041	li	to	nc	nc				
+nkurd	muserz02	0041	kuvî?	where	nc	nc				
+nkurd	muserz02	0041	#	#	#	#				
+nkurd	muserz02	0041	erê!	yes	other	other				
+nkurd	muserz02	0041	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0041	0	0_it	0:p	0		p		
+nkurd	muserz02	0041	dibin	take	vother	vother				
+nkurd	muserz02	0041	davêjin	throw	v:pred	v		pred		
+nkurd	muserz02	0041	kanîyê.	in.well	np:g	np		g		
+nkurd	muserz02	0042	#	#	#	#				
+nkurd	muserz02	0042	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0042	0	0_it	0:p	0		p		
+nkurd	muserz02	0042	Dibin	take	v:pred	v		pred		
+nkurd	muserz02	0042	#	#	#	#				
+nkurd	muserz02	0042	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0042	0	0_it	0:p	0		p		
+nkurd	muserz02	0042	davêje	throw	v:pred	v		pred		
+nkurd	muserz02	0042	kurnê	channel.of	np:g	np		g		
+nkurd	muserz02	0042	kanîyê,	well	rn_np:poss	rn_np		poss		
+nkurd	muserz02	0042	šimika	slipper.of	np:dt_p	np		dt_p		
+nkurd	muserz02	0042	wê,	hers	rn_np.h:poss	rn_np	h	poss		
+nkurd	muserz02	0042	ewê	that.of	pro.h:dt	pro	h	dt		
+nkurd	muserz02	0042	êtîm,	orphan	rn_np	rn_np				
+nkurd	muserz02	0043	##	##	##	##				
+nkurd	muserz02	0043	va	this	ln_dem	ln_dem				
+nkurd	muserz02	0043	lawê	son.of	np.h:s	np	h	s		
+nkurd	muserz02	0043	pašê	pasha	rn_np.h:poss	rn_np	h	poss		
+nkurd	muserz02	0043	tere	comes	v:pred	v		pred		
+nkurd	muserz02	0043	hespê	to.horse.of	np:g	np		g		
+nkurd	muserz02	0043	xwe,	self,	rn_refl:poss	rn_refl		poss		
+nkurd	muserz02	0043	#	#	#	#				
+nkurd	muserz02	0043	gava	when	other	other				
+nkurd	muserz02	0043	xulam	servants	np.h:a	np	h	a		
+nkurd	muserz02	0043	0	0_it	0.h:p	0	h	p		
+nkurd	muserz02	0043	dibin...	take	v:pred	v		pred		
+nkurd	muserz02	0043	#	#	#	#				
+nkurd	muserz02	0043	0	0_they	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0043	Dibên:	say	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0043	#ds	#ds	#nc	#nc				
+nkurd	muserz02	0043	``Paša	Pasha	nc	nc				
+nkurd	muserz02	0043	em	we	nc	nc				
+nkurd	muserz02	0043	dikin-nakin	do-not.do	nc	nc				
+nkurd	muserz02	0043	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0043	hesp	horses	np:h	np		h		
+nkurd	muserz02	0043	vediciniqin,	shy	v:pred	v		pred		
+nkurd	muserz02	0043	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0043	0	0_they	0:a	0		a		
+nkurd	muserz02	0043	avê	water	np:p	np		p		
+nkurd	muserz02	0043	naxwin.''	not.drink	v:pred	v		pred		
+nkurd	muserz02	0044	##	##	##	##				
+nkurd	muserz02	0044	0	0_he	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0044	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0044	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0044	``Bavo	Father!	np.h:other	np	h	other		
+nkurd	muserz02	0044	0	0_they	0:a	0		a		
+nkurd	muserz02	0044	îja	now	other	other				
+nkurd	muserz02	0044	avê	water	np:p	np		p		
+nkurd	muserz02	0044	naxwin.''	not.drink	v:pred	v		pred		
+nkurd	muserz02	0044	#	#	#	#				
+nkurd	muserz02	0044	Axirî	finally	other	other				
+nkurd	muserz02	0044	0	0_he	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0044	dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0044	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0044	``0	you	0.h:s	0	h	s		
+nkurd	muserz02	0044	Bigrin	taking	v:pred	v		pred		
+nkurd	muserz02	0044	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0044	0	0_you	0.h:a	0	h	a		
+nkurd	muserz02	0044	kanîyê	well.of	np:p	np		p		
+nkurd	muserz02	0044	gi	all	other	other				
+nkurd	muserz02	0044	temîz	cleaning	lvc	lvc				
+nkurd	muserz02	0044	bikin.''	do	v:pred	v		pred		
+nkurd	muserz02	0045	##	##	##	##				
+nkurd	muserz02	0045	Vana	they	pro.h:a	pro	h	a		
+nkurd	muserz02	0045	0	0_it	0:p	0		p		
+nkurd	muserz02	0045	temîz	cleaning	lvc	lvc				
+nkurd	muserz02	0045	dikin,	do	v:pred	v		pred		
+nkurd	muserz02	0045	#	#	#	#				
+nkurd	muserz02	0045	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0045	wê	that	ln_dem	ln_dem				
+nkurd	muserz02	0045	šimika	slipper.of	np:p	np		p		
+nkurd	muserz02	0045	qîzka	girl.of	rn_np.h:poss	rn_np	h	poss		
+nkurd	muserz02	0045	êtîm,	orpha	rn_np.h	rn_np	h			
+nkurd	muserz02	0045	ya	of	np:appos	np		appos		
+nkurd	muserz02	0045	Fatikê	Fatik	rn_pn_np.h:poss	rn_pn_np	h	poss		
+nkurd	muserz02	0045	dibînin.	see	v:pred	v		pred		
+nkurd	muserz02	0046	##	##	##	##				
+nkurd	muserz02	0046	Paša	Pasha	np.h:s_ds	np	h	s_ds		
+nkurd	muserz02	0046	jî	also	other	other				
+nkurd	muserz02	0046	dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0046	#	#	#	#				
+nkurd	muserz02	0046	``Wûn	you	pro.2:s	pro	2	s		
+nkurd	muserz02	0046	ê	will	aux	aux				
+nkurd	muserz02	0046	bikevin	fall	v:pred	v		pred		
+nkurd	muserz02	0046	nava	among	adp	adp				
+nkurd	muserz02	0046	vê	those	ln_dem	ln_dem				
+nkurd	muserz02	0046	êlê	people	np.h:obl	np	h	obl		
+nkurd	muserz02	0046	da	pop	pop_adp	pop_adp				
+nkurd	muserz02	0046	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0046	0	0_you	0:s	0		s		
+nkurd	muserz02	0046	bigerin.	wander.about	v:pred	v		pred		
+nkurd	muserz02	0047	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0047	Ava	that	ln_dem	ln_dem				
+nkurd	muserz02	0047	šimika	slipper	np:s	np		s		
+nkurd	muserz02	0047	li	at	adp	adp				
+nkurd	muserz02	0047	nigê	foot.of	np:g	np		g		
+nkurd	muserz02	0047	kê	whoever	rn_other:poss	rn_other		poss		
+nkurd	muserz02	0047	hatî	came	v:pred	v		pred		
+nkurd	muserz02	0047	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0047	wûn	you	pro.2:a	pro	2	a		
+nkurd	muserz02	0047	ê	will	aux	aux				
+nkurd	muserz02	0047	0	0_her	0.h:p	0	h	p		
+nkurd	muserz02	0047	ji	for	adp	adp				
+nkurd	muserz02	0047	mi	me	pro.1:obl	pro	1	obl		
+nkurd	muserz02	0047	ra	pop	pop_adp	pop_adp				
+nkurd	muserz02	0047	bixazin.''	request	v:pred	v		pred		
+nkurd	muserz02	0048	#nc	#nc	#nc	#nc				
+nkurd	muserz02	0048	Vana	they	nc	nc				
+nkurd	muserz02	0048	dikin	put	nc	nc				
+nkurd	muserz02	0048	nigê	on.foot.of	nc	nc				
+nkurd	muserz02	0048	kê	whoever	nc	nc				
+nkurd	muserz02	0048	li	at	nc	nc				
+nkurd	muserz02	0048	niga	feet	nc	nc				
+nkurd	muserz02	0048	nayê,	not.comes	nc	nc				
+nkurd	muserz02	0048	#	#	#	#				
+nkurd	muserz02	0048	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0048	0	0_it	0:p	0		p		
+nkurd	muserz02	0048	tînin	bring	v:pred	v		pred		
+nkurd	muserz02	0048	#	#	#	#				
+nkurd	muserz02	0048	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0048	0	0_it	0:p	0		p		
+nkurd	muserz02	0048	dikin	put	v:pred	v		pred		
+nkurd	muserz02	0048	nigê	on.foot.of	np:g	np		g		
+nkurd	muserz02	0048	Fatikê,	Fatik	rn_pn_np.h:poss	rn_pn_np	h	poss		
+nkurd	muserz02	0048	nigê	foot.of	rn_redup_np	rn_redup_np				
+nkurd	muserz02	0048	Fatikê,	Fatik	rn_redup_pn_np	rn_redup_pn_np				
+nkurd	muserz02	0048	#	#	#	#				
+nkurd	muserz02	0048	0	0_it	0:s	0		s		
+nkurd	muserz02	0048	šimika	slipper.of	np:pred	np		pred		
+nkurd	muserz02	0048	wê	her	rn_pro.h:poss	rn_pro	h	poss		
+nkurd	muserz02	0048	bûye.	was	cop	cop				
+nkurd	muserz02	0049	#	#	#	#				
+nkurd	muserz02	0049	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0049	0	0_her	0.h:p	0	h	p		
+nkurd	muserz02	0049	Tînin	bring	v:pred	v		pred		
+nkurd	muserz02	0049	#	#	#	#				
+nkurd	muserz02	0049	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0049	Fatikê	Fatik	pn_np.h:p	pn_np	h	p		
+nkurd	muserz02	0049	dixemilînin	adorn	v:pred	v		pred		
+nkurd	muserz02	0049	#	#	#	#				
+nkurd	muserz02	0049	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0049	0	0_her	0.h:p	0	h	p		
+nkurd	muserz02	0049	û	and	other	other				
+nkurd	muserz02	0049	dikin	put	v:pred	v		pred		
+nkurd	muserz02	0049	paš	behind	adp	adp				
+nkurd	muserz02	0049	perdê	curtain	np:g	np		g		
+nkurd	muserz02	0049	û.	and	other	other				
+nkurd	muserz02	0050	##	##	##	##				
+nkurd	muserz02	0050	Ê	the.one	other:dt	other		dt		
+nkurd	muserz02	0050	0	0_it	0:s	0		s		
+nkurd	muserz02	0050	li	at	adp	adp				
+nkurd	muserz02	0050	niga	feet	np:obl	np		obl		
+nkurd	muserz02	0050	hatî,	came	v:pred	v		pred		
+nkurd	muserz02	0050	#	#	#	#				
+nkurd	muserz02	0050	de	well	other	other				
+nkurd	muserz02	0050	lawê	son.of	np.h:s_ds	np	h	s_ds		
+nkurd	muserz02	0050	pašê	pasha	rn_np.h:poss	rn_np	h	poss		
+nkurd	muserz02	0050	dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0050	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0050	``Ez	``Ez	pro.1:a	pro	1	a		
+nkurd	muserz02	0050	ê	will	aux	aux				
+nkurd	muserz02	0050	ji	for	adp	adp				
+nkurd	muserz02	0050	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0050	ra	pop	pop_adp	pop_adp				
+nkurd	muserz02	0050	0	0_her	0.h:p	0	h	p		
+nkurd	muserz02	0050	bînim	taking	vother	vother				
+nkurd	muserz02	0050	werim.''	come	v:pred	v		pred		
+nkurd	muserz02	0051	##	##	##	##				
+nkurd	muserz02	0051	Damarya	stepmother.of	np.h:a	np	h	a		
+nkurd	muserz02	0051	wê	her	rn_pro.h:poss	rn_pro	h	poss		
+nkurd	muserz02	0051	tê	comes	v:pred	v		pred		
+nkurd	muserz02	0051	#	#	#	#				
+nkurd	muserz02	0051	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0051	0	0_her	0.h:p	0	h	p		
+nkurd	muserz02	0051	dikute,	thrashes	v:pred	v		pred		
+nkurd	muserz02	0051	dikute.	thrashes	redup_v	redup_v				
+nkurd	muserz02	0051	#	#	#nc	#nc				
+nkurd	muserz02	0051	Û	and	nc	nc				
+nkurd	muserz02	0051	Eyšika	Eyšik	nc	nc				
+nkurd	muserz02	0051	reš,	black	nc	nc				
+nkurd	muserz02	0051	#	#	#	#				
+nkurd	muserz02	0051	0	0_she	0.h:s	0	h	s		
+nkurd	muserz02	0051	yekî	one.of	other:pred	other		pred		
+nkurd	muserz02	0051	reš	black	rv	rv				
+nkurd	muserz02	0051	e,	is	cop	cop				
+nkurd	muserz02	0051	#	#	#	#				
+nkurd	muserz02	0051	0	0_she	0.h:s	0	h	s		
+nkurd	muserz02	0051	lêv	lip	other:pred	other		pred		
+nkurd	muserz02	0051	deqandî	thin	rv	rv				
+nkurd	muserz02	0051	bûye.	is	cop	cop				
+nkurd	muserz02	0052	#	#	#	#				
+nkurd	muserz02	0052	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0052	0	0_her	0.h:p	0	h	p		
+nkurd	muserz02	0052	Tîne	brings	v:pred	v		pred		
+nkurd	muserz02	0052	#	#	#	#				
+nkurd	muserz02	0052	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0052	wê	her	pro.h:p	pro	h	p		
+nkurd	muserz02	0052	dike	puts	v:pred	v		pred		
+nkurd	muserz02	0052	paš	behind	adp	adp				
+nkurd	muserz02	0052	perdê	curtains	np:g	np		g		
+nkurd	muserz02	0052	#	#	#	#				
+nkurd	muserz02	0052	û	and	other	other				
+nkurd	muserz02	0052	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0052	dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0052	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0052	``Niha	now	other	other				
+nkurd	muserz02	0052	dewet	wedding.procession	np:s	np		s		
+nkurd	muserz02	0052	tê	comes	v:pred	v		pred		
+nkurd	muserz02	0052	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0052	û	and	other	other				
+nkurd	muserz02	0052	kî	who	other:s	other		s		
+nkurd	muserz02	0052	çi	what	other:p	other		p		
+nkurd	muserz02	0052	zane?''	knows	v:pred	v		pred		
+nkurd	muserz02	0053	##	##	##	##				
+nkurd	muserz02	0053	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0053	Fatikê	Fatik	pn_np.h	pn_np	h			
+nkurd	muserz02	0053	jî	also	other	other				
+nkurd	muserz02	0053	digre,	takes	v:pred	v		pred		
+nkurd	muserz02	0053	#	#	#	#				
+nkurd	muserz02	0053	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0053	0	0_her	0.h:p	0	h	p		
+nkurd	muserz02	0053	dike	puts	v:pred	v		pred		
+nkurd	muserz02	0053	tendûrê,	in.oven	np:g	np		g		
+nkurd	muserz02	0053	#	#	#	#				
+nkurd	muserz02	0053	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0053	salkî	flat.stone	np:p	np		p		
+nkurd	muserz02	0053	jorda	down	rn_other	rn_other				
+nkurd	muserz02	0053	dide	gives	v:pred	v		pred		
+nkurd	muserz02	0053	ser	over	adp	adp				
+nkurd	muserz02	0053	devê	mouth.of	np:g	np		g		
+nkurd	muserz02	0053	tendûrê.	oven	rn_np:poss	rn_np		poss		
+nkurd	muserz02	0054	##	##	##	##				
+nkurd	muserz02	0054	Teref	through.side.of	adp	adp				
+nkurd	muserz02	0054	xaliqê	creator.of	np.h:obl	np	h	obl		
+nkurd	muserz02	0054	alemê	world	rn_np:poss	rn_np		poss		
+nkurd	muserz02	0054	da	pop	other	other				
+nkurd	muserz02	0054	hestîyê	bones.of	np:s	np		s		
+nkurd	muserz02	0054	çêleka	cow.of	rn_np:poss	rn_np		poss		
+nkurd	muserz02	0054	wê	hers	rn_pro.h:poss	rn_pro	h	poss		
+nkurd	muserz02	0054	tê	come	v:pred	v		pred		
+nkurd	muserz02	0054	ziman.	to.language	np:g	np		g		
+nkurd	muserz02	0055	##	##	##	##				
+nkurd	muserz02	0055	Gava	when	other	other				
+nkurd	muserz02	0055	berbû,	bride.companion	np.h:s	np	h	s		
+nkurd	muserz02	0055	dewet	wedding.procession	rn_np.h	rn_np	h			
+nkurd	muserz02	0055	tê,	comes	v:pred	v		pred		
+nkurd	muserz02	0056	##	##	##	##				
+nkurd	muserz02	0056	dîk	cockerel	np.d:s	np	d	s		
+nkurd	muserz02	0056	tê	comes	v:pred	v		pred		
+nkurd	muserz02	0056	ser	to	adp	adp				
+nkurd	muserz02	0056	šêmûgê,	threshold	np:g	np		g		
+nkurd	muserz02	0056	#	#	#	#				
+nkurd	muserz02	0056	0	0_it	0.d:s_ds	0	d	s_ds		
+nkurd	muserz02	0056	dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0056	``Qaqlaqî!''	``Qaqlaqî!''	excl	excl				
+nkurd	muserz02	0056	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0056	0	0_it	0.d:s_ds	0	d	s_ds		
+nkurd	muserz02	0056	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0056	#nc	#nc	#nc	#nc				
+nkurd	muserz02	0056	``Eyšika	Eyšik.of	nc	nc				
+nkurd	muserz02	0056	rindik	fine	nc	nc				
+nkurd	muserz02	0056	tendûrçî	baker,	nc	nc				
+nkurd	muserz02	0056	Fatma.	Fatma.	nc	nc				
+nkurd	muserz02	0057	#nc	#nc	#nc	#nc				
+nkurd	muserz02	0057	Eyška	Eyška	nc	nc				
+nkurd	muserz02	0057	keçel	bald.headed	nc	nc				
+nkurd	muserz02	0057	paš	behind	nc	nc				
+nkurd	muserz02	0057	perdê	curtain	nc	nc				
+nkurd	muserz02	0057	da.''	pop	nc	nc				
+nkurd	muserz02	0057	#	#	#	#				
+nkurd	muserz02	0057	0	0_they	0.h:s	0	h	s		
+nkurd	muserz02	0057	Li	at	adp	adp				
+nkurd	muserz02	0057	dîk	cockerel	np.h:obl	np	h	obl		
+nkurd	muserz02	0057	dixin	strike	v:pred	v		pred		
+nkurd	muserz02	0057	#	#	#	#				
+nkurd	muserz02	0057	Cardin	again	other	other				
+nkurd	muserz02	0057	dîk	cockerel	np.h:s	np	h	s		
+nkurd	muserz02	0057	tê,	comes	v:pred	v		pred		
+nkurd	muserz02	0057	#	#	#	#				
+nkurd	muserz02	0057	0	0_it	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0057	dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0057	``Qaqlaqî!	Qaqlaqî!	excl	excl				
+nkurd	muserz02	0058	#nc	#nc	#nc	#nc				
+nkurd	muserz02	0058	Fatma	Fatma.of	nc	nc				
+nkurd	muserz02	0058	rindik	fine	nc	nc				
+nkurd	muserz02	0058	tendûrçî.	baker	nc	nc				
+nkurd	muserz02	0058	Eyšika	Eyšik.of	nc	nc				
+nkurd	muserz02	0058	keçel	bald.headed	nc	nc				
+nkurd	muserz02	0058	paš	behind	nc	nc				
+nkurd	muserz02	0058	perdê	curtain	nc	nc				
+nkurd	muserz02	0058	da.''	pop	nc	nc				
+nkurd	muserz02	0059	#	#	#	#				
+nkurd	muserz02	0059	0	0_it	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0059	Wer	thus	other	other				
+nkurd	muserz02	0059	dibê.	speaks	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0059	#	#	#	#				
+nkurd	muserz02	0059	Vana	they	pro.h:s_ds	pro	h	s_ds		
+nkurd	muserz02	0059	dibên:	say	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0059	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0059	``Helbet	certainly	other	other				
+nkurd	muserz02	0059	di	in	adp	adp				
+nkurd	muserz02	0059	vî	this	ln_dem	ln_dem				
+nkurd	muserz02	0059	dîkî	cockerel	np.h:l	np	h	l		
+nkurd	muserz02	0059	da	pop	pop_adp	pop_adp				
+nkurd	muserz02	0059	tištek	something	np:s	np		s		
+nkurd	muserz02	0059	heye.''	exists	predex	predex				
+nkurd	muserz02	0060	#	#	#	#				
+nkurd	muserz02	0060	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0060	Çer	when	other	other				
+nkurd	muserz02	0060	salê	lid.of	np:p	np		p		
+nkurd	muserz02	0060	tendûrê	oven	rn_np:poss	rn_np		poss		
+nkurd	muserz02	0060	bilind	raised	lvc	lvc				
+nkurd	muserz02	0060	dikin,	do	v:pred	v		pred		
+nkurd	muserz02	0060	#	#	#	#				
+nkurd	muserz02	0060	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0060	mezê	seeing	lvc	lvc				
+nkurd	muserz02	0060	dikin	do	v:pred	v		pred		
+nkurd	muserz02	0060	#cc	#cc	#cc:p	#cc		p		
+nkurd	muserz02	0060	tirînca	light.of	np:s	np		s		
+nkurd	muserz02	0060	qîzkê	girl	rn_np.h:poss	rn_np	h	poss		
+nkurd	muserz02	0060	dayî	has.given	v:pred	v		pred		
+nkurd	muserz02	0060	tendûrê.	to.oven	np:g	np		g		
+nkurd	muserz02	0060	#	#	#	#				
+nkurd	muserz02	0060	Qîzik	girl	np.h:s	np	h	s		
+nkurd	muserz02	0060	bedew	beautiful	other:pred	other		pred		
+nkurd	muserz02	0060	e.	is	cop	cop				
+nkurd	muserz02	0061	#	#	#	#				
+nkurd	muserz02	0061	0	0_they	0.h:s	0	h	s		
+nkurd	muserz02	0061	Terin	go	v:pred	v		pred		
+nkurd	muserz02	0061	#	#	#	#				
+nkurd	muserz02	0061	0	0_they	0.h:s	0	h	s		
+nkurd	muserz02	0061	perdê	curtain	np:p	np		p		
+nkurd	muserz02	0061	jî	also	other	other				
+nkurd	muserz02	0061	bilind	raised	other:lvc	other		lvc		
+nkurd	muserz02	0061	dikin	do	v:pred	v		pred		
+nkurd	muserz02	0061	#	#	#nc	#nc				
+nkurd	muserz02	0061	yeka	one.of	nc	nc				
+nkurd	muserz02	0061	reš	black	nc	nc				
+nkurd	muserz02	0061	ê	is	nc	nc				
+nkurd	muserz02	0061	pîs	filthy	nc	nc				
+nkurd	muserz02	0061	heram,	impure	nc	nc				
+nkurd	muserz02	0061	fena	like	nc	nc				
+nkurd	muserz02	0061	mirtiva	gypsy	nc	nc				
+nkurd	muserz02	0061	wayê	there	nc	nc				
+nkurd	muserz02	0061	di	at	nc	nc				
+nkurd	muserz02	0061	paš	behind	nc	nc				
+nkurd	muserz02	0061	perdê	curtain	nc	nc				
+nkurd	muserz02	0061	da.	pop	nc	nc				
+nkurd	muserz02	0062	#	#	#	#				
+nkurd	muserz02	0062	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0062	Destê	hand.of	np:p	np		p		
+nkurd	muserz02	0062	wê	her	rn_pro.h:poss	rn_pro	h	poss		
+nkurd	muserz02	0062	digrin	take	v:pred	v		pred		
+nkurd	muserz02	0062	#	##	#	#				
+nkurd	muserz02	0062	0	0_they	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0062	dibên:	say	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0062	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0062	``Çima	why	other	other				
+nkurd	muserz02	0062	0	0_she	0.h:s	0	h	s		
+nkurd	muserz02	0062	aha	thus	other	other				
+nkurd	muserz02	0062	kirî?''.	did	v:pred	v		pred		
+nkurd	muserz02	0062	#	#	#	#				
+nkurd	muserz02	0062	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0062	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0062	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0062	``Welle	well	excl	excl				
+nkurd	muserz02	0062	damarya	stepmother.of	np.h:a	np	h	a		
+nkurd	muserz02	0062	mi	mine	rn_pro.1:poss	rn_pro	1	poss		
+nkurd	muserz02	0062	ez	me	pro.1:p	pro	1	p		
+nkurd	muserz02	0062	aha	thus	other	other				
+nkurd	muserz02	0062	kirime.''	treated	v:pred	v		pred		
+nkurd	muserz02	0063	#	#	#	#				
+nkurd	muserz02	0063	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0063	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0063	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0063	``Gava	`when	other	other				
+nkurd	muserz02	0063	kî	that	other	other				
+nkurd	muserz02	0063	we	you	pro.2:s	pro	2	s		
+nkurd	muserz02	0063	hatî	came	v:pred	v		pred		
+nkurd	muserz02	0063	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0063	0	0_you	0.2:a	0	2	a		
+nkurd	muserz02	0063	ez	me	pro.1:p	pro	1	p		
+nkurd	muserz02	0063	xwestime,	requested	v:pred	v		pred		
+nkurd	muserz02	0064	##	##	##	##				
+nkurd	muserz02	0064	paša	pasha	np.h:a	np	h	a		
+nkurd	muserz02	0064	šimika	slipper.of	np:p	np		p		
+nkurd	muserz02	0064	nigê	foot.of	rn_np:poss	rn_np		poss		
+nkurd	muserz02	0064	mi	mine	rn_pro.1:poss	rn_pro	1	poss		
+nkurd	muserz02	0064	birîye,	took	v:pred	v		pred		
+nkurd	muserz02	0064	#	#	#	#				
+nkurd	muserz02	0064	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0064	dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0064	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0064	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0064	Qîza	daughter.of	np.h:p	np	h	p		
+nkurd	muserz02	0064	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0064	anîye,	brought	v:pred	v		pred		
+nkurd	muserz02	0064	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0064	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0064	0	0_her	0.h:p	0	h	p		
+nkurd	muserz02	0064	kirîye	put	v:pred	v		pred		
+nkurd	muserz02	0064	vira,	here	other:g	other		g		
+nkurd	muserz02	0064	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0064	ez	I	pro.1:s	pro	1	s		
+nkurd	muserz02	0064	jî	also	other	other				
+nkurd	muserz02	0064	êtîm	orphan	np.h:pred	np	h	pred		
+nkurd	muserz02	0064	bûme,	was	cop	cop				
+nkurd	muserz02	0064	#ds	#ds	#ds_neg	#ds_neg				
+nkurd	muserz02	0064	dîya	mother.of	np.h:s	np	h	s		
+nkurd	muserz02	0064	min	mine	rn_pro.1:poss	rn_pro	1	poss		
+nkurd	muserz02	0064	tûnebûye.	not.exist	predex	predex				
+nkurd	muserz02	0065	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0065	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0065	Ez	me	pro.1:p	pro	1	p		
+nkurd	muserz02	0065	avêtime	threw	v:pred	v		pred		
+nkurd	muserz02	0065	tendûrê.''	in.oven	np:g	np		g		
+nkurd	muserz02	0065	#	#	#	#				
+nkurd	muserz02	0065	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0065	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0065	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0065	``Dîk	cockerel	np.h:s	np	h	s		
+nkurd	muserz02	0065	hatîye	came	v:pred	v		pred		
+nkurd	muserz02	0065	ziman.	to.language	np:g_lex	np		g_lex		
+nkurd	muserz02	0066	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0066	0	0_it	0.h:s	0	h	s		
+nkurd	muserz02	0066	Ji	to	adp	adp				
+nkurd	muserz02	0066	berbûya,	bride.companion	np.h:g	np	h	g		
+nkurd	muserz02	0066	ji	to	adp	adp				
+nkurd	muserz02	0066	xwendîya	xwendî	np.h:g	np	h	g		
+nkurd	muserz02	0066	ra	pop	pop_adp	pop_adp				
+nkurd	muserz02	0066	gotîye.''	said	v:pred	v		pred		
+nkurd	muserz02	0067	#	#	#	#				
+nkurd	muserz02	0067	Vana	they	pro.h:s	pro	h	s		
+nkurd	muserz02	0067	radibin	get.up	v:pred	v		pred		
+nkurd	muserz02	0067	#	#	#	#				
+nkurd	muserz02	0067	0	0_they	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0067	dibên:	say	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0067	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0067	``Em	we	pro.1:a	pro	1	a		
+nkurd	muserz02	0067	çer	what	other:p	other		p		
+nkurd	muserz02	0067	bikin?''.	shall.do	v:pred	v		pred		
+nkurd	muserz02	0067	#	#	#	#				
+nkurd	muserz02	0067	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0067	0	0_her	0.h:p	0	h	p		
+nkurd	muserz02	0067	Ji	from	adp	adp				
+nkurd	muserz02	0067	tendûrê	oven	np:obl	np		obl		
+nkurd	muserz02	0067	derdixînin.	pull.out	v:pred	v		pred		
+nkurd	muserz02	0068	#	#	#	#				
+nkurd	muserz02	0068	Berbû	bride.companions	np.h:a	np	h	a		
+nkurd	muserz02	0068	wê	her	pro.h:p	pro	h	p		
+nkurd	muserz02	0068	ji	from	adp	adp				
+nkurd	muserz02	0068	pišt	behind#	adp	adp				
+nkurd	muserz02	0068	perdê	curtains	np:l	np		l		
+nkurd	muserz02	0068	derdixînin.	pull.out	v:pred	v		pred		
+nkurd	muserz02	0069	#	#	#	#				
+nkurd	muserz02	0069	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0069	Eyšikê	Eyšik	pn_np.h:p	pn_np	h	p		
+nkurd	muserz02	0069	derdixînin,	pull.out	v:pred	v		pred		
+nkurd	muserz02	0069	#	#	#	#				
+nkurd	muserz02	0069	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0069	Fatikê	Fatik	pn_np.h:p	pn_np	h	p		
+nkurd	muserz02	0069	dikin	put	v:pred	v		pred		
+nkurd	muserz02	0069	paš	behind	adp	adp				
+nkurd	muserz02	0069	perdê,	curtain	np:g	np		g		
+nkurd	muserz02	0069	#	#	#	#				
+nkurd	muserz02	0069	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0069	0	0_her	0.h:p	0	h	p		
+nkurd	muserz02	0069	dixemilînin.	adorn	v:pred	v		pred		
+nkurd	muserz02	0070	#	#	#	#				
+nkurd	muserz02	0070	0	0_they	0.h:s	0	h	s		
+nkurd	muserz02	0070	Radibin	set.off	v:pred	v		pred		
+nkurd	muserz02	0070	#	#	#	#				
+nkurd	muserz02	0070	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0070	deweta	wedding.dance.of	np:p	np		p		
+nkurd	muserz02	0070	wê	her	rn_pro.h:poss	rn_pro	h	poss		
+nkurd	muserz02	0070	digrin,	perform	v:pred	v		pred		
+nkurd	muserz02	0070	#	#	#	#				
+nkurd	muserz02	0070	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0070	0	0_her	0.h:p	0	h	p		
+nkurd	muserz02	0070	birê	accompaniment	lvc	lvc				
+nkurd	muserz02	0070	dikin	do	v:pred	v		pred		
+nkurd	muserz02	0070	#	#	#	#				
+nkurd	muserz02	0070	û	and	other	other				
+nkurd	muserz02	0070	dewet	wedding.procession	np.h:s	np	h	s		
+nkurd	muserz02	0070	tere.	goes	v:pred	v		pred		
+nkurd	muserz02	0071	##	##	##	##				
+nkurd	muserz02	0071	Dewet	wedding.procession	np.h:s	np	h	s		
+nkurd	muserz02	0071	tere,	goes	v:pred	v		pred		
+nkurd	muserz02	0071	#nc	#nc	#nc	#nc				
+nkurd	muserz02	0071	em	we	nc	nc				
+nkurd	muserz02	0071	bên	lets.say	nc	nc				
+nkurd	muserz02	0071	#	#	#	#				
+nkurd	muserz02	0071	dewet	wedding.procession	np.h:s	np	h	s		
+nkurd	muserz02	0071	pir	much	other	other				
+nkurd	muserz02	0071	tere,	goes	v:pred	v		pred		
+nkurd	muserz02	0071	#	#	#	#				
+nkurd	muserz02	0071	0	0_it	0.h:s	0	h	s		
+nkurd	muserz02	0071	hindik	little	other	other				
+nkurd	muserz02	0071	tere.	goes	v:pred	v		pred		
+nkurd	muserz02	0071	#	#	#	#				
+nkurd	muserz02	0071	Vana	they	pro.h:s	pro	h	s		
+nkurd	muserz02	0071	terin	go	v:pred	v		pred		
+nkurd	muserz02	0071	#nc	#nc	#nc	#nc				
+nkurd	muserz02	0071	0	0_they	nc	nc				
+nkurd	muserz02	0071	para	from.behind	nc	nc				
+nkurd	muserz02	0071	berdidin	grab.at	nc	nc				
+nkurd	muserz02	0071	keçkê.	girl	nc	nc				
+nkurd	muserz02	0072	#	#	#	#				
+nkurd	muserz02	0072	Keçkê	girl	np.h:dt_g	np	h	dt_g		
+nkurd	muserz02	0072	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0072	çer	when	other	other				
+nkurd	muserz02	0072	temkî	shove	np:p	np		p		
+nkurd	muserz02	0072	lêdxînin,	gives	v:pred	v		pred		
+nkurd	muserz02	0072	ew	this	ln_dem	ln_dem				
+nkurd	muserz02	0072	damarya	stepmother.of	np.h:dt_a	np	h	dt_a		
+nkurd	muserz02	0072	qîzkê,	girl	rn_np.h:poss	rn_np	h	poss		
+nkurd	muserz02	0072	#	#	#	#				
+nkurd	muserz02	0072	qîzik	girl	np.h:s	np	h	s		
+nkurd	muserz02	0072	jorda	down	other:g	other		g		
+nkurd	muserz02	0072	tere,	goes	v:pred	v		pred		
+nkurd	muserz02	0072	#	#	#	#				
+nkurd	muserz02	0072	0	0_she	0.h:s	0	h	s		
+nkurd	muserz02	0072	dikeve	falls	v:pred	v		pred		
+nkurd	muserz02	0072	erdê.	to.ground	np:g	np		g		
+nkurd	muserz02	0072	#	#	#	#				
+nkurd	muserz02	0072	0	0_she	0.h:s	0	h	s		
+nkurd	muserz02	0072	Ber	front	adp	adp				
+nkurd	muserz02	0072	yanê	side.of	adp	adp				
+nkurd	muserz02	0072	kanyê	well	np:l	np		l		
+nkurd	muserz02	0072	da	pop	pop_adp	pop_adp				
+nkurd	muserz02	0072	dibe	becomes	v:pred	v		pred		
+nkurd	muserz02	0072	du	two	ln	ln				
+nkurd	muserz02	0072	gula.	roses	np:other	np		other		
+nkurd	muserz02	0073	#	#	#	#				
+nkurd	muserz02	0073	0	0_they	0:s	0		s		
+nkurd	muserz02	0073	Hešîn	green	other:pred	other		pred		
+nkurd	muserz02	0073	dibe.	become	cop	cop				
+nkurd	muserz02	0074	#	#	#	#				
+nkurd	muserz02	0074	Zava,	bridegroom	np.h:dt	np	h	dt		
+nkurd	muserz02	0074	merê	husband.of	rn_np.h:appos	rn_np	h	appos		
+nkurd	muserz02	0074	wê,	her	rn_pro.h:poss	rn_pro	h	poss		
+nkurd	muserz02	0074	lawê	son.of	rn_np.h:appos	rn_np	h	appos		
+nkurd	muserz02	0074	pašê,	pasha	rn_np.h:poss	rn_np	h	poss		
+nkurd	muserz02	0074	wer	so	other	other				
+nkurd	muserz02	0074	dilê	heart.of	np:s	np		s		
+nkurd	muserz02	0074	wî	him	rn_pro.h:poss	rn_pro	h	poss		
+nkurd	muserz02	0074	dikeve	falls	v:pred	v		pred		
+nkurd	muserz02	0074	herdu	both	ln	ln				
+nkurd	muserz02	0074	gula.	roses	np:g_lex	np		g_lex		
+nkurd	muserz02	0075	#	#	#	#				
+nkurd	muserz02	0075	0	0_he	0.h:a	0	h	a		
+nkurd	muserz02	0075	0	0_them	0.h:p	0	h	p		
+nkurd	muserz02	0075	Diçîne	plucks	v:pred	v		pred		
+nkurd	muserz02	0075	#	#	#	#				
+nkurd	muserz02	0075	û	and	other	other				
+nkurd	muserz02	0075	0	0_he	0.h:a	0	h	a		
+nkurd	muserz02	0075	0	0_them	0.h:p	0	h	p		
+nkurd	muserz02	0075	li	at	adp	adp				
+nkurd	muserz02	0075	ber	front	adp	adp				
+nkurd	muserz02	0075	serê	head.of	np:g	np		g		
+nkurd	muserz02	0075	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0075	ra	pop	pop_adp	pop_adp				
+nkurd	muserz02	0075	dike.	puts	v:pred	v		pred		
+nkurd	muserz02	0076	##	##	##	##				
+nkurd	muserz02	0076	Birêda	on.way	other	other				
+nkurd	muserz02	0076	ewa	that.one.of	pro.h:s_ds	pro	h	s_ds		
+nkurd	muserz02	0076	reša	black	rn_other	rn_other				
+nkurd	muserz02	0076	lêv	lips	rn_other	rn_other				
+nkurd	muserz02	0076	deqandî	thin	rn_other	rn_other				
+nkurd	muserz02	0076	dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0076	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0076	``Bîzê	irritation.of	np:s	np		s		
+nkurd	muserz02	0076	mi	mine	rn_pro.1:poss	rn_pro	1	poss		
+nkurd	muserz02	0076	ji	from	adp	adp				
+nkurd	muserz02	0076	wan	those	ln_dem	ln_dem				
+nkurd	muserz02	0076	gulan	roses	np:obl	np		obl		
+nkurd	muserz02	0076	tê.	comes	v:pred	v		pred		
+nkurd	muserz02	0076	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0076	Bira	may	aux	aux				
+nkurd	muserz02	0076	0	0_he	0.h:a	0	h	a		
+nkurd	muserz02	0076	0	0_them	0:p	0		p		
+nkurd	muserz02	0076	ji	from	adp	adp				
+nkurd	muserz02	0076	ber	front	adp	adp				
+nkurd	muserz02	0076	serê	head.of	np:l	np		l		
+nkurd	muserz02	0076	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0076	bavêje.''	throw.away	v.pred	v	pred			
+nkurd	muserz02	0077	#	#	#	#				
+nkurd	muserz02	0077	De	of.course	other	other				
+nkurd	muserz02	0077	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0077	0	0_it	0:p	0		p		
+nkurd	muserz02	0077	dizane.	knows	v:pred	v		pred		
+nkurd	muserz02	0078	##	##	##	##				
+nkurd	muserz02	0078	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0078	Divê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0078	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0078	``Bira	may	aux	aux				
+nkurd	muserz02	0078	0	0_you	0.2:a	0	2	a		
+nkurd	muserz02	0078	0	0_them	0:p	0		p		
+nkurd	muserz02	0078	ji	from	adp	adp				
+nkurd	muserz02	0078	ber	front	adp	adp				
+nkurd	muserz02	0078	serê	head.of	np:l	np		l		
+nkurd	muserz02	0078	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0078	bavêje.''	throw.away	v:pred	v		pred		
+nkurd	muserz02	0079	#	#	#	#				
+nkurd	muserz02	0079	Paša	Pash	np.h:s_ds	np	h	s_ds		
+nkurd	muserz02	0079	dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0079	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0079	``Mi	I	pro.1:s	pro	1	s		
+nkurd	muserz02	0079	jê	of.them	adp-pro:obl	adp-pro		obl		
+nkurd	muserz02	0079	hezkirî,	fondness.did	v:pred	v		pred		
+nkurd	muserz02	0079	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0079	çima	why#	other	other				
+nkurd	muserz02	0079	ez	I	pro.1:a	pro	1	a		
+nkurd	muserz02	0079	0	0_them	0:p	0		p		
+nkurd	muserz02	0079	bavêjim?''	throw.away	v:pred	v		pred		
+nkurd	muserz02	0079	##	##	##	##				
+nkurd	muserz02	0079	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0079	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0079	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0079	``Bira	may	aux	aux				
+nkurd	muserz02	0079	0	0_you	0.h:a	0	h	a		
+nkurd	muserz02	0079	0	0_them	0:p	0		p		
+nkurd	muserz02	0079	bavê.''	throw.away	v:pred	v		pred		
+nkurd	muserz02	0079	##	##	##	##				
+nkurd	muserz02	0079	Va	he	pro.h:a	pro	h	a		
+nkurd	muserz02	0079	0	0_them	0:p	0		p		
+nkurd	muserz02	0079	davêje.	throws.away	v:pred	v		pred		
+nkurd	muserz02	0080	##	##	##	##				
+nkurd	muserz02	0080	Li	at	adp	adp				
+nkurd	muserz02	0080	pê	with.it	adp-pro:l	adp-pro		l		
+nkurd	muserz02	0080	dibe	becomes	v:pred	v		pred		
+nkurd	muserz02	0080	canûk,	foal	np:s	np		s		
+nkurd	muserz02	0080	#	#	#	#				
+nkurd	muserz02	0080	0	0_it	0:s	0		s		
+nkurd	muserz02	0080	bi	with	adp	adp				
+nkurd	muserz02	0080	nava	among	adp	adp				
+nkurd	muserz02	0080	hespa	horses	np:g	np		g		
+nkurd	muserz02	0080	dikeve,	falls	v:pred	v		pred		
+nkurd	muserz02	0080	#	#	#	#				
+nkurd	muserz02	0080	0	0_it	0:s	0		s		
+nkurd	muserz02	0080	tere.	goes	v:pred	v		pred		
+nkurd	muserz02	0081	##	##	##	##				
+nkurd	muserz02	0081	0	0_it	0:s	0		s		
+nkurd	muserz02	0081	Tere,	goes	v:pred	v		pred		
+nkurd	muserz02	0081	#nc	#nc	#nc	#nc				
+nkurd	muserz02	0081	cardinê,	again	nc	nc				
+nkurd	muserz02	0081	em	we	nc	nc				
+nkurd	muserz02	0081	bên	say	nc	nc				
+nkurd	muserz02	0081	fena	like	nc	nc				
+nkurd	muserz02	0081	ji	from	nc	nc				
+nkurd	muserz02	0081	vira	here	nc	nc				
+nkurd	muserz02	0081	ji	from	nc	nc				
+nkurd	muserz02	0081	xxx	xxx	nc	nc				
+nkurd	muserz02	0081	to	to	nc	nc				
+nkurd	muserz02	0081	Kaxê	Kaxê	nc	nc				
+nkurd	muserz02	0081	Darê.	Darê.	nc	nc				
+nkurd	muserz02	0082	##	##	##	##				
+nkurd	muserz02	0082	Dewet	wedding.procession	np.h:s	np	h	s		
+nkurd	muserz02	0082	tê	comes	v:pred	v		pred		
+nkurd	muserz02	0082	ber	front	adp	adp				
+nkurd	muserz02	0082	kanîyê.	well	np:g	np		g		
+nkurd	muserz02	0082	#	#	#	#				
+nkurd	muserz02	0082	Li	at	adp	adp				
+nkurd	muserz02	0082	ber	front	adp	adp				
+nkurd	muserz02	0082	kanîyê	well	np:l	np		l		
+nkurd	muserz02	0082	dewet	wedding.procession	np.h:s	np	h	s		
+nkurd	muserz02	0082	peya	dismounting	lvc	lvc				
+nkurd	muserz02	0082	dibe.	becomes	v:pred	v		pred		
+nkurd	muserz02	0083	##	##	##	##				
+nkurd	muserz02	0083	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0083	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0083	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0083	``Ez	I	pro.1:a	pro	1	a		
+nkurd	muserz02	0083	çer	what	other:p	other		p		
+nkurd	muserz02	0083	bikim,	shall.do	v:pred	v		pred		
+nkurd	muserz02	0083	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0083	ez	I	pro.1:a	pro	1	a		
+nkurd	muserz02	0083	serê	head.of	np:p	np		p		
+nkurd	muserz02	0083	vîya	her	rn_pro.h:poss	rn_pro	h	poss		
+nkurd	muserz02	0083	wenda	losing	lvc	lvc				
+nkurd	muserz02	0083	kim.''	do	v:pred	v		pred		
+nkurd	muserz02	0083	#	#	#	#				
+nkurd	muserz02	0083	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0083	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0083	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0083	``Bira	may	aux	aux				
+nkurd	muserz02	0083	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0083	wê	that	ln_dem	ln_dem				
+nkurd	muserz02	0083	canûyê	foal	np:p	np		p		
+nkurd	muserz02	0083	bikujin.''	kill	v:pred	v		pred		
+nkurd	muserz02	0084	##	##	##	##				
+nkurd	muserz02	0084	0	0_they	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0084	Dibên:	say:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0084	``çima?''	why	other	other				
+nkurd	muserz02	0084	#	#	#	#				
+nkurd	muserz02	0084	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0084	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0084	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0084	``Bira	may	aux	aux				
+nkurd	muserz02	0084	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0084	0	0_it	0:p	0		p		
+nkurd	muserz02	0084	bikujin,	kill	v:pred	v		pred		
+nkurd	muserz02	0084	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0084	ez	I	pro.1:s	pro	1	s		
+nkurd	muserz02	0084	ji	of	adp	adp				
+nkurd	muserz02	0084	canûyê	foal	np:obl	np		obl		
+nkurd	muserz02	0084	diqarim''	loathe	v:pred	v		pred		
+nkurd	muserz02	0084	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0084	``Va	xxx	other	other				
+nkurd	muserz02	0084	çima	how	other	other				
+nkurd	muserz02	0084	canû	foal	np:s	np		s		
+nkurd	muserz02	0084	nava	among	adp	adp				
+nkurd	muserz02	0084	hespa	horses	np:g	np		g		
+nkurd	muserz02	0084	ketî?''	fell	v:pred	v		pred		
+nkurd	muserz02	0085	##	## says	## v:pred_ds	## v		pred_ds		
+nkurd	muserz02	0085	Divê	someone	ds_np:s	ds_np		s		
+nkurd	muserz02	0085	filankes:	#ds	#ds	#ds				
+nkurd	muserz02	0085	##ds	0_it	0:s	0		s		
+nkurd	muserz02	0085	mi	foal	np:pred	np		pred		
+nkurd	muserz02	0085	jê	is	cop	cop				
+nkurd	muserz02	0085	hezkirî,	#ds	#ds	#ds				
+nkurd	muserz02	0085	#ds	I of.it	pro.1:s adp-pro:obl	pro	1	s adp-pro:obl		
+nkurd	muserz02	0085	0	liking.did	v:pred	v		pred		
+nkurd	muserz02	0085	di	#ds	#ds	#ds				
+nkurd	muserz02	0085	nava	0_it	0:s	0		s		
+nkurd	muserz02	0085	hespa	in	adp	adp				
+nkurd	muserz02	0085	da	among	adp	adp				
+nkurd	muserz02	0085	ye,	horses	np:pred	np		pred		
+nkurd	muserz02	0085	#ds	pop is	pop_adp cop	pop_adp cop				
+nkurd	muserz02	0085	0	#ds	#ds	#ds				
+nkurd	muserz02	0085	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0085	çima	0_it	0:p	0		p		
+nkurd	muserz02	0085	bikujin?''	why	other	other				
+nkurd	muserz02	0085	#	shall.kill	v:pred	v		pred		
+nkurd	muserz02	0085	0	#	#	#				
+nkurd	muserz02	0085	Dibê:	0_she says:	0.h:s_ds ds_v:pred	0	h	s_ds ds_v:pred		
+nkurd	muserz02	0085	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0085	``Na	no	other	other				
+nkurd	muserz02	0085	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0085	0	0_it	0:p	0		p		
+nkurd	muserz02	0085	bira	may	aux	aux				
+nkurd	muserz02	0085	bikujin.''	kill	v:pred	v		pred		
+nkurd	muserz02	0086	##	##	##	##				
+nkurd	muserz02	0086	Cardin	again	other	other				
+nkurd	muserz02	0086	teref	side.of	adp	adp				
+nkurd	muserz02	0086	xaliqê	creator.of	np.h:obl	np	h	obl		
+nkurd	muserz02	0086	alemê	world	rn_np:poss	rn_np		poss		
+nkurd	muserz02	0086	da	pop	pop_adp	pop_adp				
+nkurd	muserz02	0086	ew	that	ln_dem	ln_dem				
+nkurd	muserz02	0086	canûya	foal	np:s	np		s		
+nkurd	muserz02	0086	dibe	becomes	cop	cop				
+nkurd	muserz02	0086	heywanik.	an.animal	np:pred	np		pred		
+nkurd	muserz02	0087	##	##	##	##				
+nkurd	muserz02	0087	0	0_I	0.1:a	0	1	a		
+nkurd	muserz02	0087	Nizanim	not.know	v:pred	v		pred		
+nkurd	muserz02	0087	#cc	#cc	#cc:p	#cc		p		
+nkurd	muserz02	0087	0	0_it	0:s	0		s		
+nkurd	muserz02	0087	dibe	becomes	v:pred	v		pred		
+nkurd	muserz02	0087	çêlek,	cow	np:other	np		other		
+nkurd	muserz02	0087	#	#	#	#				
+nkurd	muserz02	0087	0	0_I	0.1:a	0	1	a		
+nkurd	muserz02	0087	nizanim	not.know	v:pred	v		pred		
+nkurd	muserz02	0087	#	#	#cc:p	#cc		p		
+nkurd	muserz02	0087	0	0_it	0:s	0		s		
+nkurd	muserz02	0087	dibe	becomes	v:pred	v		pred		
+nkurd	muserz02	0087	golik,	calf	np:other	np		other		
+nkurd	muserz02	0087	#	#	#	#				
+nkurd	muserz02	0087	0	0_I	0.1:a	0	1	a		
+nkurd	muserz02	0087	nizanim	not.know	v:pred	v		pred		
+nkurd	muserz02	0087	#	#	#cc:p	#cc		p		
+nkurd	muserz02	0087	0	0_it	0:s	0		s		
+nkurd	muserz02	0087	dibe	becomes	v:pred	v		pred		
+nkurd	muserz02	0087	nogin.	heifer	np:other	np		other		
+nkurd	muserz02	0087	#	#	#neg	#neg				
+nkurd	muserz02	0087	Diha	more	other	other				
+nkurd	muserz02	0087	derew	lies	np:p	np		p		
+nkurd	muserz02	0087	Xwedê	God	pn_np.h:a	pn_np	h	a		
+nkurd	muserz02	0087	nenivîsîne,	may.not.write	v:pred	v		pred		
+nkurd	muserz02	0088	##	##	##	##				
+nkurd	muserz02	0088	0	0_it	0:s	0		s		
+nkurd	muserz02	0088	tere	goe	v:pred	v		pred		
+nkurd	muserz02	0088	li	at	adp	adp				
+nkurd	muserz02	0088	kêleka	side.of	np:g	np		g		
+nkurd	muserz02	0088	derê	door.of	rn_np:poss	rn_np		poss		
+nkurd	muserz02	0088	malê	house	rn_np:poss	rn_np		poss		
+nkurd	muserz02	0088	#nc	#nc	#nc	#nc				
+nkurd	muserz02	0088	nêzikîya	near	nc	nc				
+nkurd	muserz02	0088	ew	there	nc	nc				
+nkurd	muserz02	0088	peya	dismounting	nc	nc				
+nkurd	muserz02	0088	dibe,	happens	nc	nc				
+nkurd	muserz02	0089	##	##	##	##				
+nkurd	muserz02	0089	ew	it	pro:s	pro		s		
+nkurd	muserz02	0089	li	at	adp	adp				
+nkurd	muserz02	0089	kêleka	side.of	np:l	np		l		
+nkurd	muserz02	0089	derê	door.of	rn_np:poss	rn_np		poss		
+nkurd	muserz02	0089	malê	house	rn_np:poss	rn_np		poss		
+nkurd	muserz02	0089	da	pop	pop_adp	pop_adp				
+nkurd	muserz02	0089	dibe	becomes	v:pred	v		pred		
+nkurd	muserz02	0089	darek,	a.tree	np:other	np		other		
+nkurd	muserz02	0089	#	#	#	#				
+nkurd	muserz02	0089	0	0_it	0:s	0		s		
+nkurd	muserz02	0089	hêšîn	green	lv_other	lv_other				
+nkurd	muserz02	0089	tê.	goes	v:pred	v		pred		
+nkurd	muserz02	0089	#	#	#	#				
+nkurd	muserz02	0089	0	0_it	0:s	0		s		
+nkurd	muserz02	0089	Darek	a.tree	other	other				
+nkurd	muserz02	0089	bedew,	beautiful	other	other				
+nkurd	muserz02	0089	hêšîn	green	lv_other	lv_other				
+nkurd	muserz02	0089	tê.	comes	v:pred	v		pred		
+nkurd	muserz02	0090	##	##	##	##				
+nkurd	muserz02	0090	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0090	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0090	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0090	``Em	we	pro.1:a	pro	1	a		
+nkurd	muserz02	0090	çer	how	other:p	other		p		
+nkurd	muserz02	0090	bikin,	shall.do	v:pred	v		pred		
+nkurd	muserz02	0090	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0090	0	0_we	0.1:a	0	1	a		
+nkurd	muserz02	0090	çer	how	other:p	other		p		
+nkurd	muserz02	0090	nekin.''	not.shall.do	v:pred	v		pred		
+nkurd	muserz02	0091	##	##	##	##				
+nkurd	muserz02	0091	0	0_she	0.h:s	0	h	s		
+nkurd	muserz02	0091	Hemle	pregnant	lv_other	lv_other				
+nkurd	muserz02	0091	dimîne,	remains	v:pred	v		pred		
+nkurd	muserz02	0091	##	##	##	##				
+nkurd	muserz02	0091	Xwedê	God	pn_np.h:a	pn_np	h	a		
+nkurd	muserz02	0091	ewa	the.one	pro.h:g	pro	h	g		
+nkurd	muserz02	0091	reš	black	rn_other	rn_other				
+nkurd	muserz02	0091	zara	children	np.h:p	np	h	p		
+nkurd	muserz02	0091	didê.	gives.to.her	v:pred	v		pred		
+nkurd	muserz02	0092	#	#	#	#				
+nkurd	muserz02	0092	0	0	0.h:s	0	h	s		
+nkurd	muserz02	0092	Gava	when	other	other				
+nkurd	muserz02	0092	doxim	birth	lvc	lvc				
+nkurd	muserz02	0092	dike,	does	v:pred	v		pred		
+nkurd	muserz02	0092	#	#	#	#				
+nkurd	muserz02	0092	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0092	dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0092	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0092	``Bira	may	aux	aux				
+nkurd	muserz02	0092	vê	this	ln_dem	ln_dem				
+nkurd	muserz02	0092	dara	tree.of	np:dt	np		dt		
+nkurd	muserz02	0092	kêleka	side.of	rn_np:poss	rn_np		poss		
+nkurd	muserz02	0092	mala	house.of	rn_np:poss	rn_np		poss		
+nkurd	muserz02	0092	me,	ours	rn_pro.1:poss	rn_pro	1	poss		
+nkurd	muserz02	0092	0	0_you	0.2:a	0	2	a		
+nkurd	muserz02	0092	wan	those	ln_dem	ln_dem				
+nkurd	muserz02	0092	textê	planks.of	np:p	np		p		
+nkurd	muserz02	0092	wê	it	rn_pro.h:poss	rn_pro	h	poss		
+nkurd	muserz02	0092	gi	all	other	other				
+nkurd	muserz02	0092	bibire.''	cut	v:pred	v		pred		
+nkurd	muserz02	0093	##	##	##	##				
+nkurd	muserz02	0093	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0093	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0093	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0093	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0093	0	0_them	0:p	0		p		
+nkurd	muserz02	0093	``Ji	for	adp	adp				
+nkurd	muserz02	0093	lawî	son.of	np.h:obl	np	h	obl		
+nkurd	muserz02	0093	mi	mine	rn_pro.1:poss	rn_pro	1	poss		
+nkurd	muserz02	0093	ra	pop	pop_adp	pop_adp				
+nkurd	muserz02	0093	têkin	make	v:pred	v		pred		
+nkurd	muserz02	0093	bêšîk.''	cradle	np:other	np		other		
+nkurd	muserz02	0094	##	##	##	##				
+nkurd	muserz02	0094	Cardin	again	other	other				
+nkurd	muserz02	0094	paša	pasha	np.h:a	np	h	a		
+nkurd	muserz02	0094	0	0_it	0:p	0		p		
+nkurd	muserz02	0094	tîne	brings	v:pred	v		pred		
+nkurd	muserz02	0094	#	#	#	#				
+nkurd	muserz02	0094	0	0_he	0.h:a	0	h	a		
+nkurd	muserz02	0094	wê	that	ln_dem	ln_dem				
+nkurd	muserz02	0094	darê	tree	np:p	np		p		
+nkurd	muserz02	0094	dibire,	cuts	v:pred	v		pred		
+nkurd	muserz02	0094	#	#	#	#				
+nkurd	muserz02	0094	0	0_he	0.h:a	0	h	a		
+nkurd	muserz02	0094	0	0_it	0:p	0		p		
+nkurd	muserz02	0094	ji	for	adp	adp				
+nkurd	muserz02	0094	lawî	son.of	np.h:obl	np	h	obl		
+nkurd	muserz02	0094	wê	her	rn_pro.h:poss	rn_pro	h	poss		
+nkurd	muserz02	0094	ra	pop	pop_adp	pop_adp				
+nkurd	muserz02	0094	dike	makes	v:pred	v		pred		
+nkurd	muserz02	0094	bêšîk.	cradle	np:other	np		other		
+nkurd	muserz02	0094	##	##	##	##				
+nkurd	muserz02	0094	Ew	that	ln_dem	ln_dem				
+nkurd	muserz02	0094	bêšîka	cradle	np:s	np		s		
+nkurd	muserz02	0094	gi	all	rn	rn				
+nkurd	muserz02	0094	dibe	becomes	v:pred	v		pred		
+nkurd	muserz02	0094	derzî,	needles	np:other	np		other		
+nkurd	muserz02	0094	#	#	#	#				
+nkurd	muserz02	0094	0	0_they	0:s	0		s		
+nkurd	muserz02	0094	di	at	adp	adp				
+nkurd	muserz02	0094	wê	that	ln_dem	ln_dem				
+nkurd	muserz02	0094	dergûša	baby.of	np:g	np		g		
+nkurd	muserz02	0094	wê	hers	rn_pro.h:poss	rn_pro	h	poss		
+nkurd	muserz02	0094	ra	pop	pop_adp	pop_adp				
+nkurd	muserz02	0094	tere.	go	v:pred	v		pred		
+nkurd	muserz02	0095	##	##	##	##				
+nkurd	muserz02	0095	0	0_she	0.h:s	0	h	s		
+nkurd	muserz02	0095	Dike-nake	does-not.does	v:pred	v		pred		
+nkurd	muserz02	0095	#	#	#neg	#neg				
+nkurd	muserz02	0095	dergûša	baby.of	np.h:s	np	h	s		
+nkurd	muserz02	0095	wê	her	rn_pro.h:poss	rn_pro	h	poss		
+nkurd	muserz02	0095	ranakeve.	not.sleeps	v:pred	v		pred		
+nkurd	muserz02	0095	#	#	#	#				
+nkurd	muserz02	0095	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0095	Hema	immediately	other	other				
+nkurd	muserz02	0095	wê	that	ln_dem	ln_dem				
+nkurd	muserz02	0095	bêšîkê	cradle	np:p	np		p		
+nkurd	muserz02	0095	tîne	takes	v:pred	v		pred		
+nkurd	muserz02	0095	#	#	#	#				
+nkurd	muserz02	0095	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0095	0	0_it	0:p	0		p		
+nkurd	muserz02	0095	hûr	destruction	other:lvc	other		lvc		
+nkurd	muserz02	0095	dike,	does	v:pred	v		pred		
+nkurd	muserz02	0095	#	#	#	#				
+nkurd	muserz02	0095	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0095	0	0_it	0:p	0		p		
+nkurd	muserz02	0095	davêje	throws	v:pred	v		pred		
+nkurd	muserz02	0095	tendûrê.	in.oven	np:g	np		g		
+nkurd	muserz02	0096	##	##	##	##				
+nkurd	muserz02	0096	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0096	0	0_it	0:p	0		p		
+nkurd	muserz02	0096	Davêje	throws	v:pred	v		pred		
+nkurd	muserz02	0096	tendûrê,	in.oven	np:g	np		g		
+nkurd	muserz02	0096	#	#	#	#				
+nkurd	muserz02	0096	berdestîya	woman.servant.of	np.h:s	np	h	s		
+nkurd	muserz02	0096	wan	them	rn_pro.h:poss	rn_pro	h	poss		
+nkurd	muserz02	0096	hebûye,	there.was	predex	predex				
+nkurd	muserz02	0096	#	#	#	#				
+nkurd	muserz02	0096	0	0_she	0.h:s	0	h	s		
+nkurd	muserz02	0096	tere	goes	v:pred	v		pred		
+nkurd	muserz02	0096	#	#	#	#				
+nkurd	muserz02	0096	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0096	xwelîya	ashes	np:p	np		p		
+nkurd	muserz02	0096	derdixîne.	takes.out	v:pred	v		pred		
+nkurd	muserz02	0096	#	#	#	#				
+nkurd	muserz02	0096	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0096	xwelîya	ashes	np:p	np		p		
+nkurd	muserz02	0096	derdixîne.	takes.out	v:pred	v		pred		
+nkurd	muserz02	0097	##	##	##	##				
+nkurd	muserz02	0097	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0097	Mêze	seeing	lvc	lvc				
+nkurd	muserz02	0097	dike	does	v:pred	v		pred		
+nkurd	muserz02	0097	#	#	#nc	#nc				
+nkurd	muserz02	0097	nîkek	hook	nc	nc				
+nkurd	muserz02	0097	wer	so	nc	nc				
+nkurd	muserz02	0097	bedew,	beautiful	nc	nc				
+nkurd	muserz02	0097	nîka	hook.of	nc	nc				
+nkurd	muserz02	0097	tešîya.	spindle	nc	nc				
+nkurd	muserz02	0098	##	##	##	##				
+nkurd	muserz02	0098	0	0_it	0:s	0		s		
+nkurd	muserz02	0098	Fena	like	adp	adp				
+nkurd	muserz02	0098	zêr	gold	np:other	np		other		
+nkurd	muserz02	0098	rind	fine	other:pred	other		pred		
+nkurd	muserz02	0098	e,	is	cop	cop				
+nkurd	muserz02	0098	#	#	#	#				
+nkurd	muserz02	0098	0	0_it	0:s	0		s		
+nkurd	muserz02	0098	(di)teyise,	shines	v:pred	v		pred		
+nkurd	muserz02	0098	#	#	#	#				
+nkurd	muserz02	0098	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0098	0	0_it	0:p	0		p		
+nkurd	muserz02	0098	derdixîne	takes	v:pred	v		pred		
+nkurd	muserz02	0098	#	#	#	#				
+nkurd	muserz02	0098	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0098	0	0_it	0:p	0		p		
+nkurd	muserz02	0098	hema	immediately	other	other				
+nkurd	muserz02	0098	digre	takes	v:pred	v		pred		
+nkurd	muserz02	0098	#	#	#	#				
+nkurd	muserz02	0098	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0098	0	0_it	0:p	0		p		
+nkurd	muserz02	0098	davêje	throws	v:pred	v		pred		
+nkurd	muserz02	0098	pencerê.	to.window	np:g	np		g		
+nkurd	muserz02	0099	##	##	##	##				
+nkurd	muserz02	0099	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0099	0	0_it	0:p	0		p		
+nkurd	muserz02	0099	Diavê	throws	v:pred	v		pred		
+nkurd	muserz02	0099	pencerê.	to.window	np:g	np		g		
+nkurd	muserz02	0099	#	#	#	#				
+nkurd	muserz02	0099	Hezkirina	love.of	np:obl	np		obl		
+nkurd	muserz02	0099	xalqê	people.of	rn_np.h:poss	rn_np	h	poss		
+nkurd	muserz02	0099	alemê	world	rn_np:poss	rn_np		poss		
+nkurd	muserz02	0099	di	at	adp	adp				
+nkurd	muserz02	0099	pencere	window	np:l	np		l		
+nkurd	muserz02	0099	da	pop	pop_adp	pop_adp				
+nkurd	muserz02	0099	0	0_it	0:s	0		s		
+nkurd	muserz02	0099	dibe	becomes	v:pred	v		pred		
+nkurd	muserz02	0099	dîsa	again	other	other				
+nkurd	muserz02	0099	fena	like	adp	adp				
+nkurd	muserz02	0099	xwe	self	refl_pro.h:other	refl_pro	h	other		
+nkurd	muserz02	0099	a	of	other	other				
+nkurd	muserz02	0099	berê.	earlier	other	other				
+nkurd	muserz02	0100	##	##	##	##				
+nkurd	muserz02	0100	0	0_she	0.h:s	0	h	s		
+nkurd	muserz02	0100	Tê	comes	v:pred	v		pred		
+nkurd	muserz02	0100	di	to	adp	adp				
+nkurd	muserz02	0100	nav	inside	adp	adp				
+nkurd	muserz02	0100	mala	house.of	np:g	np		g		
+nkurd	muserz02	0100	pašê	pasha	rn_np.h:poss	rn_np	h	poss		
+nkurd	muserz02	0100	da	pop	pop_adp	pop_adp				
+nkurd	muserz02	0100	#	#	#	#				
+nkurd	muserz02	0100	0	0_she	0.h:s	0	h	s		
+nkurd	muserz02	0100	digere,	walks.around	v:pred	v		pred		
+nkurd	muserz02	0100	#	#	#	#				
+nkurd	muserz02	0100	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0100	šixula	chores	np:p	np		p		
+nkurd	muserz02	0100	dike,	does,	v:pred	v		pred		
+nkurd	muserz02	0100	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0100	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0100	vedišêre.	conceals	v:pred	v		pred		
+nkurd	muserz02	0100	#	#	#	#				
+nkurd	muserz02	0100	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0100	xwe	self	refl_pro.h:p	refl_pro	h	p		
+nkurd	muserz02	0100	vedišêre.	conceals	v:pred	v		pred		
+nkurd	muserz02	0101	##	##	##	##				
+nkurd	muserz02	0101	Rokî,	one.day	other	other				
+nkurd	muserz02	0101	dudu,	two	other	other				
+nkurd	muserz02	0101	sisê,	three	other	other				
+nkurd	muserz02	0101	Paša	Pasha	np.h:s_ds	np	h	s_ds		
+nkurd	muserz02	0101	dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0101	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0101	``Ez	I	pro.1:s	pro	1	s		
+nkurd	muserz02	0101	gava	when	other	other				
+nkurd	muserz02	0101	têm	come	v:pred	v		pred		
+nkurd	muserz02	0101	hundirê	inside.of	adp	adp				
+nkurd	muserz02	0101	malê,	house	np:g	np		g		
+nkurd	muserz02	0101	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0101	van	those	other	other				
+nkurd	muserz02	0101	rana	xxx	other	other				
+nkurd	muserz02	0101	mala	house.of	np:s	np		s		
+nkurd	muserz02	0101	me	us	rn_pro.1:poss	rn_pro	1	poss		
+nkurd	muserz02	0101	wer	thus	other	other				
+nkurd	muserz02	0101	tewkî	xxx	other:pred	other		pred		
+nkurd	muserz02	0101	ye.	is	cop	cop				
+nkurd	muserz02	0102	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0102	0	0_it	0:s	0		s		
+nkurd	muserz02	0102	Diha	more	other	other				
+nkurd	muserz02	0102	xweš	agreeable	other:pred	other		pred		
+nkurd	muserz02	0102	e,	is	cop	cop				
+nkurd	muserz02	0102	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0102	0	0_it	0.s	0	s			
+nkurd	muserz02	0102	diha	more	other	other				
+nkurd	muserz02	0102	rind	fine	other:pred	other		pred		
+nkurd	muserz02	0102	e.''	is	cop	cop				
+nkurd	muserz02	0102	##	##	##	##				
+nkurd	muserz02	0102	0	0_he	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0102	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0102	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0102	``Ez	I	pro.1:s	pro	1	s		
+nkurd	muserz02	0102	li	at	adp	adp				
+nkurd	muserz02	0102	tištkî	something	np:obl	np		obl		
+nkurd	muserz02	0102	ketime	fell	v:pred	v		pred		
+nkurd	muserz02	0102	šikê,	to.suspicion	np:g	np		g		
+nkurd	muserz02	0102	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0102	diha	yet	other	other				
+nkurd	muserz02	0102	0	0_I	0.1:s	0	1	s		
+nkurd	muserz02	0102	nizanim	not.know	v:pred	v		pred		
+nkurd	muserz02	0102	#	#	#cc	#cc				
+nkurd	muserz02	0102	0	0_it	0:s	0		s		
+nkurd	muserz02	0102	çî	what	other	other				
+nkurd	muserz02	0102	ye.''	is	other	other				
+nkurd	muserz02	0103	##	##	##	##				
+nkurd	muserz02	0103	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0103	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0103	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0103	0	0_it	0:s	0		s		
+nkurd	muserz02	0103	``çî	what	other:pred	other		pred		
+nkurd	muserz02	0103	ye?'',	is	cop	cop				
+nkurd	muserz02	0103	#	#	#	#				
+nkurd	muserz02	0103	0	0_he	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0103	dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0103	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0103	``Welleh	by.God	excl	excl				
+nkurd	muserz02	0103	ez	I	pro.1:s	pro	1	s		
+nkurd	muserz02	0103	carik	once	other	other				
+nkurd	muserz02	0103	duduya	twice	other	other				
+nkurd	muserz02	0103	hatim	came	v:pred	v		pred		
+nkurd	muserz02	0103	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0103	qîzek	a.girl	np.h:s	np	h	s		
+nkurd	muserz02	0103	di	in	adp	adp				
+nkurd	muserz02	0103	nav	among	adp	adp				
+nkurd	muserz02	0103	mala	house.of	np:l	np		l		
+nkurd	muserz02	0103	me	ours	rn_pro.1:poss	rn_pro	1	poss		
+nkurd	muserz02	0103	de	pop	pop_adp	pop_adp				
+nkurd	muserz02	0103	digere,	walks.around	v:pred	v		pred		
+nkurd	muserz02	0103	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0103	ez	I	pro.1:s	pro	1	s		
+nkurd	muserz02	0103	gava	when	other	other				
+nkurd	muserz02	0103	têm=ê	come.to.her	v:pred=pro.h:g	v		pred=pro.h:g		
+nkurd	muserz02	0103	#ds	#ds	#ds_neg	#ds_neg				
+nkurd	muserz02	0103	0	0_she	0:s	0		s		
+nkurd	muserz02	0103	tune,	not.there.is	predex	predex				
+nkurd	muserz02	0103	#	#	#	#				
+nkurd	muserz02	0103	0	0_she	0:s	0		s		
+nkurd	muserz02	0103	qayb	lost	lvc	lvc				
+nkurd	muserz02	0103	dibe.''	is	v:pred	v		pred		
+nkurd	muserz02	0104	##	##	##	##				
+nkurd	muserz02	0104	Paša	Pasha	np.h:a	np	h	a		
+nkurd	muserz02	0104	rokî	one.day	np:other	np		other		
+nkurd	muserz02	0104	qîzê	girls.of	np.h:p	np	h	p		
+nkurd	muserz02	0104	gund	village	rn_np:poss	rn_np		poss		
+nkurd	muserz02	0104	gištkî	all	other	other				
+nkurd	muserz02	0104	telîf	invitation	lvc	lvc				
+nkurd	muserz02	0104	dike	does	v:pred	v		pred		
+nkurd	muserz02	0104	#	#	#	#				
+nkurd	muserz02	0104	0	0_he	0.h:a	0	h	a		
+nkurd	muserz02	0104	0	0_them	0.h:p	0	h	p		
+nkurd	muserz02	0104	tîne	tîne_brings	v:pred	v		pred		
+nkurd	muserz02	0104	#	#	#	#				
+nkurd	muserz02	0104	0	0_he	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0104	dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0104	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0104	``Bira	may	aux	aux				
+nkurd	muserz02	0104	em	we	pro.1:a	pro	1	a		
+nkurd	muserz02	0104	îro	today	other	other				
+nkurd	muserz02	0104	zibaretî	communal.work	np:p	np		p		
+nkurd	muserz02	0104	daynin.''	undertake	v:pred	v		pred		
+nkurd	muserz02	0105	##	##	##	##				
+nkurd	muserz02	0105	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0105	Zibarê	communal.work.of	np:p	np		p		
+nkurd	muserz02	0105	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0105	datîne.	do	v:pred	v		pred		
+nkurd	muserz02	0105	#	#	#	#				
+nkurd	muserz02	0105	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0105	Hirîyê	wool	np:p	np		p		
+nkurd	muserz02	0105	šeh	carding	lvc	lvc				
+nkurd	muserz02	0105	dikin.	do	v:pred	v		pred		
+nkurd	muserz02	0106	##	##	##	##				
+nkurd	muserz02	0106	Paša	Pasha	np.h:s_ds	np	h	s_ds		
+nkurd	muserz02	0106	dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0106	#ds	#ds	#nc	#nc				
+nkurd	muserz02	0106	``Mêze	look	nc	nc				
+nkurd	muserz02	0106	ez	I	nc	nc				
+nkurd	muserz02	0106	vamê,	here.am	nc	nc				
+nkurd	muserz02	0106	#	#	#ds	#ds				
+nkurd	muserz02	0106	0	0_I	0.1:a	0	1	a		
+nkurd	muserz02	0106	ji	to	adp	adp				
+nkurd	muserz02	0106	we	you	pro.2:g	pro	2	g		
+nkurd	muserz02	0106	ra	pop	pop_adp	pop_adp				
+nkurd	muserz02	0106	dibêm,''	say	v:pred	v		pred		
+nkurd	muserz02	0106	#	#	#	#				
+nkurd	muserz02	0106	0	0_he	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0106	dibê	says	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0106	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0106	``gava	whan	other	other				
+nkurd	muserz02	0106	ez	I	pro.1:dt	pro	1	dt		
+nkurd	muserz02	0106	çîrokî	a.story.of	np:s	np		s		
+nkurd	muserz02	0106	mi	mine	rn_pro.1:poss	rn_pro	1	poss		
+nkurd	muserz02	0106	heye	there.is	predex	predex				
+nkurd	muserz02	0106	#	#	#ds	#ds				
+nkurd	muserz02	0106	ez	I	pro.1:a	pro	1	a		
+nkurd	muserz02	0106	0	0_it	0:p	0		p		
+nkurd	muserz02	0106	dibêmê'',	tell.you	v:pred=pro.h:g	v		pred=pro.h:g		
+nkurd	muserz02	0106	#	#	#	#				
+nkurd	muserz02	0106	0	0_he	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0106	dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0106	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0106	``ne	neither	other	other				
+nkurd	muserz02	0106	yê	he.who	pro.h:s	pro	h	s		
+nkurd	muserz02	0106	der	outside	rn_other	rn_other				
+nkurd	muserz02	0106	tê	comes	v:pred	v		pred		
+nkurd	muserz02	0106	hundur,	inside	other:g	other		g		
+nkurd	muserz02	0106	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0106	0	0_s	0.h:s	0	h	s		
+nkurd	muserz02	0106	ne	neither	other	other				
+nkurd	muserz02	0106	ji	from	adp	adp				
+nkurd	muserz02	0106	hundur	inside	other:l	other		l		
+nkurd	muserz02	0106	tere	goes	v:pred	v		pred		
+nkurd	muserz02	0106	derva.''	outside	other:g	other		g		
+nkurd	muserz02	0107	##	##	##	##				
+nkurd	muserz02	0107	Va	he	pro.h:a	pro	h	a		
+nkurd	muserz02	0107	çîroka	story.of	np:p	np		p		
+nkurd	muserz02	0107	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0107	temam	complete	other	other				
+nkurd	muserz02	0107	dibê,	says	v:pred	v		pred		
+nkurd	muserz02	0107	#	#	#	#				
+nkurd	muserz02	0107	0	0_he	0.h:a	0	h	a		
+nkurd	muserz02	0107	0	0_it	0:p	0		p		
+nkurd	muserz02	0107	temam	complete	other	other				
+nkurd	muserz02	0107	dike,	does	v:pred	v		pred		
+nkurd	muserz02	0107	#	#	#	#				
+nkurd	muserz02	0107	qîzika	girl.of	np.h:s	np	h	s		
+nkurd	muserz02	0107	te	yours	rn_pro.2:poss	rn_pro	2	poss		
+nkurd	muserz02	0107	ji	from	adp	adp				
+nkurd	muserz02	0107	pencerê	window	np:l	np		l		
+nkurd	muserz02	0107	der	out	other:g	other		g		
+nkurd	muserz02	0107	tê.	comes	v:pred	v		pred		
+nkurd	muserz02	0108	##	##	##	##				
+nkurd	muserz02	0108	Qîzik	girl	np.h:s	np	h	s		
+nkurd	muserz02	0108	ji	from	adp	adp				
+nkurd	muserz02	0108	pencerê	window	np:l	np		l		
+nkurd	muserz02	0108	der	comes	other:g	other		g		
+nkurd	muserz02	0108	tê.	out	v:pred	v		pred		
+nkurd	muserz02	0108	#	#	#	#				
+nkurd	muserz02	0108	0	0_she	0.h:s	0	h	s		
+nkurd	muserz02	0108	Qîz	girl	np:pred	np		pred		
+nkurd	muserz02	0108	e,	is	cop	cop				
+nkurd	muserz02	0108	#	#	#	#				
+nkurd	muserz02	0108	0	0_she	0.h:s	0	h	s		
+nkurd	muserz02	0108	fena	like	adp	adp				
+nkurd	muserz02	0108	xwe	self	refl_pro.h:obl	refl_pro	h	obl		
+nkurd	muserz02	0108	berê	before	other	other				
+nkurd	muserz02	0108	ye.	is	cop	cop				
+nkurd	muserz02	0109	##	##	##	##				
+nkurd	muserz02	0109	Mi	I	pro.1:s	pro	1	s		
+nkurd	muserz02	0109	çer	how	other	other				
+nkurd	muserz02	0109	ji	to	adp	adp				
+nkurd	muserz02	0109	we	you	pro.2:g	pro	2	g		
+nkurd	muserz02	0109	ra	pop	pop_adp	pop_adp				
+nkurd	muserz02	0109	gotî,	said	v:pred	v		pred		
+nkurd	muserz02	0109	#	#	#	#				
+nkurd	muserz02	0109	ew	she	pro.h:a	pro	h	a		
+nkurd	muserz02	0109	wer	thus	other	other				
+nkurd	muserz02	0109	ji	to	adp	adp				
+nkurd	muserz02	0109	pašê	pasha	np.h:g	np	h	g		
+nkurd	muserz02	0109	ra	pop	pop_adp	pop_adp				
+nkurd	muserz02	0109	wê	that	ln_dem	ln_dem				
+nkurd	muserz02	0109	çîroka	story.of	np:p	np		p		
+nkurd	muserz02	0109	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0109	giškî	all	other	other				
+nkurd	muserz02	0109	qise	speaking	lvc	lvc				
+nkurd	muserz02	0109	dike,	does	v:pred	v		pred		
+nkurd	muserz02	0110	##	##	##	##				
+nkurd	muserz02	0110	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0110	gi	all	other	other				
+nkurd	muserz02	0110	dibê:	says	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0110	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0110	``0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0110	Aha	thus	other:p	other		p		
+nkurd	muserz02	0110	kir,	did	v:pred	v		pred		
+nkurd	muserz02	0110	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0110	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0110	li	at	adp	adp				
+nkurd	muserz02	0110	mi	me	pro.1:obl	pro	1	obl		
+nkurd	muserz02	0110	aha	thus	other:p	other		p		
+nkurd	muserz02	0110	kir,	did	v:pred	v		pred		
+nkurd	muserz02	0110	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0110	ez	I	pro.1:s	pro	1	s		
+nkurd	muserz02	0110	aha	thus	other	other				
+nkurd	muserz02	0110	ketim	fell	v:pred	v		pred		
+nkurd	muserz02	0110	paš	behind	adp	adp				
+nkurd	muserz02	0110	perdê,	curtain	np:g	np		g		
+nkurd	muserz02	0110	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0110	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0110	birêda	on.way	other	other				
+nkurd	muserz02	0110	li	to	adp	adp				
+nkurd	muserz02	0110	mi	me	pro.1:obl	pro	1	obl		
+nkurd	muserz02	0110	aha	thus	other:p	other		p		
+nkurd	muserz02	0110	kir.	did	v:pred	v		pred		
+nkurd	muserz02	0111	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0111	Heta	until	other	other				
+nkurd	muserz02	0111	ez	I	pro.1:s	pro	1	s		
+nkurd	muserz02	0111	bûm	became	cop	cop				
+nkurd	muserz02	0111	du	two	ln	ln				
+nkurd	muserz02	0111	gula	roses	np:pred	np		pred		
+nkurd	muserz02	0111	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0111	te	you	pro.2:a	pro	2	a		
+nkurd	muserz02	0111	li	to	adp	adp				
+nkurd	muserz02	0111	mi	me	pro.1:obl	pro	1	obl		
+nkurd	muserz02	0111	aha	thus	other:p	other		p		
+nkurd	muserz02	0111	kir.''	did	v:pred	v		pred		
+nkurd	muserz02	0111	##	##	##	##				
+nkurd	muserz02	0111	Giš	everything	other:p	other		p		
+nkurd	muserz02	0111	ji	from	adp	adp				
+nkurd	muserz02	0111	serî	beginning	np:other	np		other		
+nkurd	muserz02	0111	da	pop	pop_adp	pop_adp				
+nkurd	muserz02	0111	mi	I	pro.1:a	pro	1	a		
+nkurd	muserz02	0111	çer	how	other	other				
+nkurd	muserz02	0111	ji	to	adp	adp				
+nkurd	muserz02	0111	we	you	pro.2:g	pro	2	g		
+nkurd	muserz02	0111	ra	pop	pop_adp	pop_adp				
+nkurd	muserz02	0111	gotîye,	said	v:pred	v		pred		
+nkurd	muserz02	0111	#	#	#	#				
+nkurd	muserz02	0111	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0111	0	0_it	0:p	0		p		
+nkurd	muserz02	0111	wer	thus	other	other				
+nkurd	muserz02	0111	dibê.	says	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0112	##	##	##	##				
+nkurd	muserz02	0112	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0112	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0112	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0112	``Lê	but	other	other				
+nkurd	muserz02	0112	îja	now	other	other				
+nkurd	muserz02	0112	em	we	pro.1:a	pro	1	a		
+nkurd	muserz02	0112	çer	what	other:p	other		p		
+nkurd	muserz02	0112	bikin,	shall.do	v:pred	v		pred		
+nkurd	muserz02	0112	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0112	em	we	pro.1:a	pro	1	a		
+nkurd	muserz02	0112	serê	head.of	np:p	np		p		
+nkurd	muserz02	0112	wê	her	rn_pro.h:poss	rn_pro	h	poss		
+nkurd	muserz02	0112	wenda	losing	other	other				
+nkurd	muserz02	0112	bikin.''	shall.do	v:pred	v		pred		
+nkurd	muserz02	0113	##	##	##	##				
+nkurd	muserz02	0113	0	0_he	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0113	Dibê	says	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0113	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0113	``Hespê	horses.of	np:s	np		s		
+nkurd	muserz02	0113	mi	mine	rn_pro.1:poss	rn_pro	1	poss		
+nkurd	muserz02	0113	hene,	there.are	predex	predex				
+nkurd	muserz02	0113	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0113	canûyê	foals.of	np:s	np		s		
+nkurd	muserz02	0113	mi	mine	rn_pro.1:poss	rn_pro	1	poss		
+nkurd	muserz02	0113	gelek	many	other:pred	other		pred		
+nkurd	muserz02	0113	in.''	are	cop	cop				
+nkurd	muserz02	0113	##	##	##	##				
+nkurd	muserz02	0113	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0113	Dibê	says	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0113	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0113	`Ez	I	pro.1:a	pro	1	a		
+nkurd	muserz02	0113	ê	will	aux	aux				
+nkurd	muserz02	0113	hespa	horses	np:p	np		p		
+nkurd	muserz02	0113	bela	free	lvc	lvc				
+nkurd	muserz02	0113	bikim,	make	v:pred	v		pred		
+nkurd	muserz02	0114	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0114	canûkî	a.foal.of	np:s	np		s		
+nkurd	muserz02	0114	minê	mine	rn_pro.1:poss	rn_pro	1	poss		
+nkurd	muserz02	0114	pir	very	rn_other	rn_other				
+nkurd	muserz02	0114	nerind	ugly	rn_other	rn_other				
+nkurd	muserz02	0114	jî	also	other	other				
+nkurd	muserz02	0114	heye,	there.is	predex	predex				
+nkurd	muserz02	0114	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0114	ez	I	pro.1:a	pro	1	a		
+nkurd	muserz02	0114	ê	will	aux	aux				
+nkurd	muserz02	0114	0	0_it	0:p	0		p		
+nkurd	muserz02	0114	bidim	give	v:pred	v		pred		
+nkurd	muserz02	0114	cem	to	adp	adp				
+nkurd	muserz02	0114	te.''	you	pro.2:g	pro	2	g		
+nkurd	muserz02	0115	##	##	##	##				
+nkurd	muserz02	0115	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0115	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0115	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0115	``Tu	you	pro.2:a	pro	2	a		
+nkurd	muserz02	0115	ê	will	aux	aux				
+nkurd	muserz02	0115	ji	from	adp	adp				
+nkurd	muserz02	0115	canûyan	foals	np:obl	np		obl		
+nkurd	muserz02	0115	#rc	#rc	#rc	#rc				
+nkurd	muserz02	0115	kîjan	which	rel_pro:s	rel_pro		s		
+nkurd	muserz02	0115	nerind	ugly	other:pred	other		pred		
+nkurd	muserz02	0115	e,	are	cop	cop				
+nkurd	muserz02	0115	%	%	%	%				
+nkurd	muserz02	0115	0	0_they	0:p	0		p		
+nkurd	muserz02	0115	bide	give	v:pred	v		pred		
+nkurd	muserz02	0115	min.''	to.me	pro.1:g	pro	1	g		
+nkurd	muserz02	0115	##	##	##	##				
+nkurd	muserz02	0115	0	0_he	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0115	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0115	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0115	``Wê	this	ln_dem	ln_dem				
+nkurd	muserz02	0115	canûya	foal.of	np:p	np		p		
+nkurd	muserz02	0115	te	yours	rn_pro.2:poss	rn_pro	2	poss		
+nkurd	muserz02	0115	ez	I	pro.1:s	pro	1	s		
+nkurd	muserz02	0115	xwedî	raising	other:lvc	other		lvc		
+nkurd	muserz02	0115	dikim,	do	v:pred	v		pred		
+nkurd	muserz02	0115	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0115	ji	from	adp	adp				
+nkurd	muserz02	0115	hespê	horses.of	np:obl	np		obl		
+nkurd	muserz02	0115	te	yours	rn_pro.2:poss	rn_pro	2	poss		
+nkurd	muserz02	0115	#rc	#rc	#rc	#rc				
+nkurd	muserz02	0115	kîjan	which	rel_pro:s	rel_pro		s		
+nkurd	muserz02	0115	rind	gut	other:pred	other		pred		
+nkurd	muserz02	0115	e	is	cop	cop				
+nkurd	muserz02	0115	jî	also	other	other				
+nkurd	muserz02	0115	%	%	%	%				
+nkurd	muserz02	0115	tu	you	pro.2:a	pro	2	a		
+nkurd	muserz02	0115	0	0_it	0:p	0		p		
+nkurd	muserz02	0115	bela	free	lvc	lvc				
+nkurd	muserz02	0115	ke.''	do	v:pred	v		pred		
+nkurd	muserz02	0116	##	##	##	##				
+nkurd	muserz02	0116	0	0_they	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0116	Dibê:	say:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0116	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0116	``Eger	if	other	other				
+nkurd	muserz02	0116	em	we	pro.1:a	pro	1	a		
+nkurd	muserz02	0116	serê	head.of	np:p	np		p		
+nkurd	muserz02	0116	wê	her	rn_pro.h:poss	rn_pro	h	poss		
+nkurd	muserz02	0116	aha	thus	other	other				
+nkurd	muserz02	0116	wenda	losing	lvc	lvc				
+nkurd	muserz02	0116	kin.''	shall.do	v:pred	v		pred		
+nkurd	muserz02	0117	##	##	##	##				
+nkurd	muserz02	0117	Diha	then	other	other				
+nkurd	muserz02	0117	0	0_he	0.h:a	0	h	a		
+nkurd	muserz02	0117	van	those	ln_dem	ln_dem				
+nkurd	muserz02	0117	hespê	horses.of	np:p	np		p		
+nkurd	muserz02	0117	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0117	bela	free	lvc	lvc				
+nkurd	muserz02	0117	dike,	does	v:pred	v		pred		
+nkurd	muserz02	0117	#	#	#	#				
+nkurd	muserz02	0117	dibe	becomes	v:pred	v		pred		
+nkurd	muserz02	0117	bihar,	spring	np:other	np		other		
+nkurd	muserz02	0117	#	#	#	#				
+nkurd	muserz02	0117	0	0_he	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0117	dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0117	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0117	``Ez	I	pro.1:a	pro	1	a		
+nkurd	muserz02	0117	ê	will	aux	aux				
+nkurd	muserz02	0117	hespa	horses	np:p	np		p		
+nkurd	muserz02	0117	tov	gathering	lvc	lvc				
+nkurd	muserz02	0117	kim.''	shall.do	v:pred	v		pred		
+nkurd	muserz02	0118	##	##	##	##				
+nkurd	muserz02	0118	0	0_he	0.h:s	0	h	s		
+nkurd	muserz02	0118	Tere,	goes	v:pred	v		pred		
+nkurd	muserz02	0118	#	#	#	#				
+nkurd	muserz02	0118	hinik	some	np:s	np		s		
+nkurd	muserz02	0118	hišk	dried	other:pred	other		pred		
+nkurd	muserz02	0118	bûne	have.become	cop	cop				
+nkurd	muserz02	0118	#	#	#	#				
+nkurd	muserz02	0118	hinik	some	np:s	np		s		
+nkurd	muserz02	0118	sax	healthy	other:pred	other		pred		
+nkurd	muserz02	0118	in,	are	cop	cop				
+nkurd	muserz02	0118	#	#	#	#				
+nkurd	muserz02	0118	hinik	some	np:s	np		s		
+nkurd	muserz02	0118	ne	not	other	other				
+nkurd	muserz02	0118	rind	good	other:pred	other		pred		
+nkurd	muserz02	0118	in.	are	cop	cop				
+nkurd	muserz02	0119	##	##	##	##				
+nkurd	muserz02	0119	0	0_he	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0119	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0119	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0119	``Welleh	by.God	excl	excl				
+nkurd	muserz02	0119	canûkî	a.foal.of	np:p	np		p		
+nkurd	muserz02	0119	me,	ours	rn_pro.1:poss	rn_pro	1	poss		
+nkurd	muserz02	0119	me	we	pro.1:a	pro	1	a		
+nkurd	muserz02	0119	daye	have.given	v:pred	v		pred		
+nkurd	muserz02	0119	qîzika	to.girl.of	np.h:g	np	h	g		
+nkurd	muserz02	0119	feqîrî,	poor	rn_other	rn_other				
+nkurd	muserz02	0119	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0119	0	0_it	0.h:s	0	h	s		
+nkurd	muserz02	0119	di	in	adp	adp				
+nkurd	muserz02	0119	mala	house.of	np:l	np		l		
+nkurd	muserz02	0119	pîrê	old.lady	rn_np.h:poss	rn_np	h	poss		
+nkurd	muserz02	0119	da	pop	pop_adp	pop_adp				
+nkurd	muserz02	0119	ye.''	is	cop	cop				
+nkurd	muserz02	0120	##	##	##	##				
+nkurd	muserz02	0120	0	0_he	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0120	Dibê	says	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0120	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0120	``Ez	I	pro.1:s	pro	1	s		
+nkurd	muserz02	0120	ê	will	aux	aux				
+nkurd	muserz02	0120	herim	go	v:pred	v		pred		
+nkurd	muserz02	0120	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0120	0	0_I	0.1:a	0	1	a		
+nkurd	muserz02	0120	ji	from	adp	adp				
+nkurd	muserz02	0120	wê	her	pro.h:obl	pro	h	obl		
+nkurd	muserz02	0120	canûya	foal.of	np:p	np		p		
+nkurd	muserz02	0120	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0120	bînim,	fetch	v:pred	v		pred		
+nkurd	muserz02	0120	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0120	0	0_I	0.1:a	0	1	a		
+nkurd	muserz02	0120	0	0_it	0:p	0		p		
+nkurd	muserz02	0120	bixazim,	shall.request	v:pred	v		pred		
+nkurd	muserz02	0120	#	#	#nc	#nc				
+nkurd	muserz02	0120	0	0_it	nc	nc				
+nkurd	muserz02	0120	hela	whether	nc	nc				
+nkurd	muserz02	0120	heye,	there.is	nc	nc				
+nkurd	muserz02	0120	tune.''	there.is.not	nc	nc				
+nkurd	muserz02	0121	##	##	##	##				
+nkurd	muserz02	0121	0	0_he	0.h:s	0	h	s		
+nkurd	muserz02	0121	Tere,	goes	v:pred	v		pred		
+nkurd	muserz02	0121	#	#	#	#				
+nkurd	muserz02	0121	pîrê	old.lady	np.h:s_ds	np	h	s_ds		
+nkurd	muserz02	0121	dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0121	#ds	#ds	#ds_neg	#ds_neg				
+nkurd	muserz02	0121	``Hetanî	until	other	other				
+nkurd	muserz02	0121	xwedîyê	owner.of	np.h:s	np	h	s		
+nkurd	muserz02	0121	hespê	horse	rn_np:poss	rn_np		poss		
+nkurd	muserz02	0121	neyê,	not.come	v:pred	v		pred		
+nkurd	muserz02	0121	#	#	#	#				
+nkurd	muserz02	0121	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0121	dibê,	says,	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0121	#ds	#ds	#ds_neg	#ds_neg				
+nkurd	muserz02	0121	hesp	horse	np:s	np		s		
+nkurd	muserz02	0121	ji	from	adp	adp				
+nkurd	muserz02	0121	hundir	inside	np:l	np		l		
+nkurd	muserz02	0121	dernayê.''	not.come.out	v:pred	v		pred		
+nkurd	muserz02	0122	##	##	##	##				
+nkurd	muserz02	0122	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0122	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0122	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0122	``Erê,	yes	excl	excl				
+nkurd	muserz02	0122	erê	yes	excl	excl				
+nkurd	muserz02	0122	0	0_he	0.h:a	0	h	a		
+nkurd	muserz02	0122	canûkî	foal.of	np:p	np		p		
+nkurd	muserz02	0122	pîs	filth	rn_other	rn_other				
+nkurd	muserz02	0122	î	and	rn_other	rn_other				
+nkurd	muserz02	0122	heram	disgust	rn_other	rn_other				
+nkurd	muserz02	0122	daye,	has.given	v:pred	v		pred		
+nkurd	muserz02	0122	0	0_me	0.1:g	0	1	g		
+nkurd	muserz02	0122	#ds	#ds	#ds_neg	#ds_neg				
+nkurd	muserz02	0122	îja	then	other	other				
+nkurd	muserz02	0122	hesp	horse	np:s	np		s		
+nkurd	muserz02	0122	ji	from	adp	adp				
+nkurd	muserz02	0122	hundir	inside	np:obl	np		obl		
+nkurd	muserz02	0122	dernayê.''	not.come.out	v:pred	v		pred		
+nkurd	muserz02	0123	##	##	##	##				
+nkurd	muserz02	0123	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0123	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0123	#ds	#ds	#ds_neg	#ds_neg				
+nkurd	muserz02	0123	``Wellahî	by.God	excl	excl				
+nkurd	muserz02	0123	heta	until	other	other				
+nkurd	muserz02	0123	paša	pasha	np.h:s	np	h	s		
+nkurd	muserz02	0123	bi	through	adp	adp				
+nkurd	muserz02	0123	xwe	self	refl_pro.h:obl	refl_pro	h	obl		
+nkurd	muserz02	0123	neyê,	not.come	v:pred	v		pred		
+nkurd	muserz02	0123	#ds	#ds	#ds_neg	#ds_neg				
+nkurd	muserz02	0123	de	that	other	other				
+nkurd	muserz02	0123	0	0_he	0:a	0		a		
+nkurd	muserz02	0123	duwar	wall	np:p	np		p		
+nkurd	muserz02	0123	neqeliše,	not.break	v:pred	v		pred		
+nkurd	muserz02	0123	#ds	#ds	#ds_neg	#ds_neg				
+nkurd	muserz02	0123	hesp	horse	np:s	np		s		
+nkurd	muserz02	0123	ji	from	adp	adp				
+nkurd	muserz02	0123	hundir	inside	np:l	np		l		
+nkurd	muserz02	0123	dernayê.''	not.come.out	v:pred	v		pred		
+nkurd	muserz02	0124	##	##	##	##				
+nkurd	muserz02	0124	0	0_he	0.h:s	0	h	s		
+nkurd	muserz02	0124	Tere	goes	v:pred	v		pred		
+nkurd	muserz02	0124	#	#	#	#				
+nkurd	muserz02	0124	0	0_he	0.h:s	0	h	s		
+nkurd	muserz02	0124	mêzedike,	sees	v:pred	v		pred		
+nkurd	muserz02	0124	#	#	#nc	#nc				
+nkurd	muserz02	0124	hespek	a.horse	nc	nc				
+nkurd	muserz02	0124	terikî,	huge	nc	nc				
+nkurd	muserz02	0125	##	##	##	##				
+nkurd	muserz02	0125	serê	head.of	np:s	np		s		
+nkurd	muserz02	0125	wî	it	rn_pro:poss	rn_pro		poss		
+nkurd	muserz02	0125	çûye	reaches	v:pred	v		pred		
+nkurd	muserz02	0125	ber	above	adp	adp				
+nkurd	muserz02	0125	arîka.	ceiling	np:g	np		g		
+nkurd	muserz02	0125	#	#	#	#				
+nkurd	muserz02	0125	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0125	0	0_it	0:p	0		p		
+nkurd	muserz02	0125	Bi	through	adp	adp				
+nkurd	muserz02	0125	xwe	self	refl_pro.h:obl	refl_pro	h	obl		
+nkurd	muserz02	0125	xwedî	raising	lvc	lvc				
+nkurd	muserz02	0125	kirîye.	had.done	v:pred	v		pred		
+nkurd	muserz02	0125	#	#	#	#				
+nkurd	muserz02	0125	Qîzkê	girl	np.h:s	np	h	s		
+nkurd	muserz02	0125	ser	head	np:p	np		p		
+nkurd	muserz02	0125	çavê	eyes.of	rn_np	rn_np				
+nkurd	muserz02	0125	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0125	di	in	adp	adp				
+nkurd	muserz02	0125	ber	front	np:other	np		other		
+nkurd	muserz02	0125	da	pop	pop_adp	pop_adp				
+nkurd	muserz02	0125	šuštîye.	had.washed	v:pred	v		pred		
+nkurd	muserz02	0126	##	##	##	##				
+nkurd	muserz02	0126	0	0_it	0:s	0		s		
+nkurd	muserz02	0126	Gi	all	other:pred	other		pred		
+nkurd	muserz02	0126	bûye	was	cop	cop				
+nkurd	muserz02	0126	ceh	barley	other	other				
+nkurd	muserz02	0126	û	and	other	other				
+nkurd	muserz02	0126	ûnce.	xxx	other	other				
+nkurd	muserz02	0126	#	#	#	#				
+nkurd	muserz02	0126	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0126	0	0_it	0:p	0		p		
+nkurd	muserz02	0126	Wer	thus	other	other				
+nkurd	muserz02	0126	xwedî	raising	lvc	lvc				
+nkurd	muserz02	0126	kirîye,	had.done	v:pred	v		pred		
+nkurd	muserz02	0126	#	#	#	#				
+nkurd	muserz02	0126	hesp	horse	np:s	np		s		
+nkurd	muserz02	0126	buye	had.become	cop	cop				
+nkurd	muserz02	0126	fena	like	adp	adp				
+nkurd	muserz02	0126	sûret.	picture	np:pred	np		pred		
+nkurd	muserz02	0127	##	##	##	##				
+nkurd	muserz02	0127	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0127	Hespê	horse.of	np:p	np		p		
+nkurd	muserz02	0127	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0127	ji	from	adp	adp				
+nkurd	muserz02	0127	hundir	inside	rn:l	rn		l		
+nkurd	muserz02	0127	derdixîne.	takes.out	v:pred	v		pred		
+nkurd	muserz02	0128	##	##	##	##				
+nkurd	muserz02	0128	Hesp	Horse	np:s	np		s		
+nkurd	muserz02	0128	hinkî	a.little	other	other				
+nkurd	muserz02	0128	tere	goes	v:pred	v		pred		
+nkurd	muserz02	0128	meydanê.	to.square	np:g	np		g		
+nkurd	muserz02	0128	#	#	#	#				
+nkurd	muserz02	0128	0	0_it	0:s	0		s		
+nkurd	muserz02	0128	Dibeze,	gallops	v:pred	v		pred		
+nkurd	muserz02	0128	#	#	#	#				
+nkurd	muserz02	0128	0	0_it	0:s	0		s		
+nkurd	muserz02	0128	virda	hither	other:g	other		g		
+nkurd	muserz02	0128	tê,	comes	v:pred	v		pred		
+nkurd	muserz02	0128	#	#	#	#				
+nkurd	muserz02	0128	0	0_it	0:s	0		s		
+nkurd	muserz02	0128	wêda	thither	other:g	other		g		
+nkurd	muserz02	0128	tê.	comes	v:pred	v		pred		
+nkurd	muserz02	0129	##	##	##	##				
+nkurd	muserz02	0129	Hesp	horse	np:s	np		s		
+nkurd	muserz02	0129	xwe	self	refl_pro:p	refl_pro		p		
+nkurd	muserz02	0129	davê	throws	v:pred	v		pred		
+nkurd	muserz02	0129	erdê,	to.ground	np:g	np		g		
+nkurd	muserz02	0129	#	#	#	#				
+nkurd	muserz02	0129	ev	that	pro.h:a	pro	h	a		
+nkurd	muserz02	0129	hespî	horse	np:p	np		p		
+nkurd	muserz02	0129	temî	instructions	lvc	lvc				
+nkurd	muserz02	0129	dike	does	v:pred	v		pred		
+nkurd	muserz02	0129	qîzik.	girl	np.h:dt_s	np	h	dt_s		
+nkurd	muserz02	0130	##	##	##	##				
+nkurd	muserz02	0130	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0130	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0130	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0130	``Tu	you	pro.2:s	pro	2	s		
+nkurd	muserz02	0130	gava	when	other	other				
+nkurd	muserz02	0130	çû-hat,	went-came	v:pred	v		pred		
+nkurd	muserz02	0130	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0130	tu	you	pro.2:s	pro	2	s		
+nkurd	muserz02	0130	xwe	self	refl_pro:p	refl_pro		p		
+nkurd	muserz02	0130	bavê	throw	v:pred	v		pred		
+nkurd	muserz02	0130	erdê,	to.ground	np:g	np		g		
+nkurd	muserz02	0130	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0130	kî	whoever	inter_pro.h:s	inter_pro	h	s		
+nkurd	muserz02	0130	tê	comes	v:pred	v		pred		
+nkurd	muserz02	0130	#ds	#ds	#ds_neg	#ds_neg				
+nkurd	muserz02	0130	tu	you	pro.2:s	pro	2	s		
+nkurd	muserz02	0130	ranebe	shall.not.get.up	v:pred	v		pred		
+nkurd	muserz02	0130	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0130	haya	till	other	other				
+nkurd	muserz02	0130	ez	I	pro.1:s	pro	1	s		
+nkurd	muserz02	0130	têm=ê.''	come.to.you	v:pred=pro.2:g	v		pred=pro.2:g		
+nkurd	muserz02	0131	#	#	#	#				
+nkurd	muserz02	0131	Gava	when	other	other				
+nkurd	muserz02	0131	qîzik	girl	np.h:s	np	h	s		
+nkurd	muserz02	0131	tere	goes	v:pred	v		pred		
+nkurd	muserz02	0131	hinkî	a.little	other	other				
+nkurd	muserz02	0131	serê	top.of	adp	adp				
+nkurd	muserz02	0131	meydanê,	square	np:g	np		g		
+nkurd	muserz02	0131	binê	bottom.of	v:pred	v		pred		
+nkurd	muserz02	0131	meydanê	square	np:g	np		g		
+nkurd	muserz02	0131	#	#	#	#				
+nkurd	muserz02	0131	ewa	that.one	ln_dem	ln_dem				
+nkurd	muserz02	0131	reš	black	np:s	np		s		
+nkurd	muserz02	0131	ditirse,	is.afraid	v:pred	v		pred		
+nkurd	muserz02	0131	#	#	#	#				
+nkurd	muserz02	0131	damarî	stepmother	np.h:s	np	h	s		
+nkurd	muserz02	0131	ditirse.	is.afraid	v:pred	v		pred		
+nkurd	muserz02	0132	##	##	##	##				
+nkurd	muserz02	0132	Hesp	Horse	np:a	np		a		
+nkurd	muserz02	0132	xwe	self	refl_pro:p	refl_pro		p		
+nkurd	muserz02	0132	diavê	throws	v:pred	v		pred		
+nkurd	muserz02	0132	erdê.	to.ground	np:g	np		g		
+nkurd	muserz02	0133	#nc	#nc	#nc	#nc				
+nkurd	muserz02	0133	Dike	does	nc	nc				
+nkurd	muserz02	0133	nake	not.does	nc	nc				
+nkurd	muserz02	0133	#	#	#	#				
+nkurd	muserz02	0133	kî	whoever	inter_pro.h:s	inter_pro	h	s		
+nkurd	muserz02	0133	tê	comes	v:pred	v		pred		
+nkurd	muserz02	0133	#	#	#	#				
+nkurd	muserz02	0133	0	0_he	0.h:a	0	h	a		
+nkurd	muserz02	0133	nigê	foot.of	np:p	np		p		
+nkurd	muserz02	0133	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0133	tê	at.it	other	other				
+nkurd	muserz02	0133	hildide,	raises	v:pred	v		pred		
+nkurd	muserz02	0133	#neg	#neg	#neg	#neg				
+nkurd	muserz02	0133	hesp	horse	np:s	np		s		
+nkurd	muserz02	0133	ranabe.	not.get.up	v:pred	v		pred		
+nkurd	muserz02	0133	#	#	#	#				
+nkurd	muserz02	0133	Paša	Pasha	np.h:s	np	h	s		
+nkurd	muserz02	0133	pir	very	other	other				
+nkurd	muserz02	0133	berê	concern.of	adp	adp				
+nkurd	muserz02	0133	hespê	horse	np:g	np		g		
+nkurd	muserz02	0133	dikeve.	falls	v:pred	v		pred		
+nkurd	muserz02	0134	##	##	##	##				
+nkurd	muserz02	0134	0	0_he	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0134	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0134	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0134	0	0_it	0:s	0		s		
+nkurd	muserz02	0134	Aqasa	that.much	other	other				
+nkurd	muserz02	0134	rind	well	other	other				
+nkurd	muserz02	0134	xwedî	raising	other:pred	other		pred		
+nkurd	muserz02	0134	bûye,	has.been	cop	cop				
+nkurd	muserz02	0134	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0134	ez	I	pro.1:a	pro	1	a		
+nkurd	muserz02	0134	qa	not	other	other				
+nkurd	muserz02	0134	vî	this	ln_dem	ln_dem				
+nkurd	muserz02	0134	hespî	horse.of	np:p	np		p		
+nkurd	muserz02	0134	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0134	berdidim.''	let.go	v:pred	v		pred		
+nkurd	muserz02	0135	##	##	##	##				
+nkurd	muserz02	0135	0	0_he	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0135	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0135	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0135	0	0_you	0.h:s	0	h	s		
+nkurd	muserz02	0135	Gazî	calling.of	lvc	lvc				
+nkurd	muserz02	0135	xwedîyê	owner.of	np.h:g	np	h	g		
+nkurd	muserz02	0135	wî	its	rn_pro:poss	rn_pro		poss		
+nkurd	muserz02	0135	kin,	shall.do	v:pred	v		pred		
+nkurd	muserz02	0135	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0135	bira	may	aux	aux				
+nkurd	muserz02	0135	xwedîyê	owner.of	np:s	np		s		
+nkurd	muserz02	0135	wî	its	rn_pro:poss	rn_pro		poss		
+nkurd	muserz02	0135	wer=ê.''	come.to.it	v:pred=pro:g	v		pred=pro:g		
+nkurd	muserz02	0136	##	##	##	##				
+nkurd	muserz02	0136	0	0_they	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0136	Dibê	say	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0136	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0136	kî	who	pro.h:s	pro	h	s		
+nkurd	muserz02	0136	ma,	stayed	v:pred	v		pred		
+nkurd	muserz02	0136	#ds	#ds	#ds_neg	#ds_neg				
+nkurd	muserz02	0136	kî	who	pro.h:s	pro	h	s		
+nkurd	muserz02	0136	nema,	not.stayed	v:pred	v		pred		
+nkurd	muserz02	0136	#	#	#	#				
+nkurd	muserz02	0136	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0136	dibê	says	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0136	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0136	qîza	daughter.of	np.h:s	np	h	s		
+nkurd	muserz02	0136	pîrê	old.lady	rn_np.h:poss	rn_np	h	poss		
+nkurd	muserz02	0136	ma.	stayed	v:pred	v		pred		
+nkurd	muserz02	0137	##	##	##	##				
+nkurd	muserz02	0137	Pîrê	old.lady	np.h:s_ds	np	h	s_ds		
+nkurd	muserz02	0137	dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0137	#ds_neg	#ds_neg	#ds_neg	#ds_neg				
+nkurd	muserz02	0137	``Heta	until	other	other				
+nkurd	muserz02	0137	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0137	ji	from	adp	adp				
+nkurd	muserz02	0137	derê	door.of	np:g	np		g		
+nkurd	muserz02	0137	mala	house.of	rn_np:poss	rn_np		poss		
+nkurd	muserz02	0137	mi	mine	rn_pro.1:poss	rn_pro	1	poss		
+nkurd	muserz02	0137	da	pop	pop_adp	pop_adp				
+nkurd	muserz02	0137	xalîça	carpets	np:p	np		p		
+nkurd	muserz02	0137	ranexînin,	not.lay.down	v:pred	v		pred		
+nkurd	muserz02	0137	#ds_neg	#ds_neg	#ds_neg	#ds_neg				
+nkurd	muserz02	0137	qîza	daughter.of	np.h:s	np	h	s		
+nkurd	muserz02	0137	min	mine	rn_pro.1:poss	rn_pro	1	poss		
+nkurd	muserz02	0137	nayê.''	not.comes	v:pred	v		pred		
+nkurd	muserz02	0138	##	##	##	##				
+nkurd	muserz02	0138	0	0_they	0.h:s	0	h	s		
+nkurd	muserz02	0138	Terin,	go	v:pred	v		pred		
+nkurd	muserz02	0138	#	#	#	#				
+nkurd	muserz02	0138	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0138	0	0_them	0:p	0		p		
+nkurd	muserz02	0138	tînin.	fetch	v:pred	v		pred		
+nkurd	muserz02	0138	#	#	#	#				
+nkurd	muserz02	0138	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0138	Xalîça	carpets	np:p	np		p		
+nkurd	muserz02	0138	li	at	adp	adp				
+nkurd	muserz02	0138	ber	front	adp	adp				
+nkurd	muserz02	0138	nigê	foot.of	np:g	np		g		
+nkurd	muserz02	0138	qîzkê	girl	rn_np.h:poss	rn_np	h	poss		
+nkurd	muserz02	0138	radixin.	lay.down	v:pred	v		pred		
+nkurd	muserz02	0139	##	##	##	##				
+nkurd	muserz02	0139	Qîzik	girl	np.h:s	np	h	s		
+nkurd	muserz02	0139	tere	goes	v:pred	v		pred		
+nkurd	muserz02	0139	ber	front	adp	adp				
+nkurd	muserz02	0139	hespê,	horse	np:g	np		g		
+nkurd	muserz02	0139	#	#	#	#				
+nkurd	muserz02	0139	0	0_she	0.h:a	0	h	a		
+nkurd	muserz02	0139	nigê	foot.of	np:p	np		p		
+nkurd	muserz02	0139	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0139	aha	thus	other	other				
+nkurd	muserz02	0139	li	at	adp	adp				
+nkurd	muserz02	0139	hespê	horse	np:g	np		g		
+nkurd	muserz02	0139	dixe.	strikes	v:pred	v		pred		
+nkurd	muserz02	0139	##	##	##	##				
+nkurd	muserz02	0139	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0139	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0139	#ds	#ds	#nc	#nc				
+nkurd	muserz02	0139	``De!	hey	nc	nc				
+nkurd	muserz02	0139	hesp	horse	nc	nc				
+nkurd	muserz02	0139	ji	of	nc	nc				
+nkurd	muserz02	0139	xwedîyê	owner.of	nc	nc				
+nkurd	muserz02	0139	xwe	self	nc	nc				
+nkurd	muserz02	0139	bêbextiro.''	less.fortunate	nc	nc				
+nkurd	muserz02	0140	#	#	#	#				
+nkurd	muserz02	0140	Gava	when	other	other				
+nkurd	muserz02	0140	0	0_she	0.h:s	0	h	s		
+nkurd	muserz02	0140	wer	thus	other	other				
+nkurd	muserz02	0140	dibê	speaks	v:pred	v		pred		
+nkurd	muserz02	0140	#	#	#	#				
+nkurd	muserz02	0140	paša	pasha	np.h:a	np	h	a		
+nkurd	muserz02	0140	0	0_it	0:p	0		p		
+nkurd	muserz02	0140	anamîš	understanding	lvc	lvc				
+nkurd	muserz02	0140	dike.	does	v:pred	v		pred		
+nkurd	muserz02	0141	#	#	#	#				
+nkurd	muserz02	0141	0	0_he	0.h:a	0	h	a		
+nkurd	muserz02	0141	0	0_it	0:p	0		p		
+nkurd	muserz02	0141	Anamiš	understanding	lvc	lvc				
+nkurd	muserz02	0141	dike,	does	v:pred	v		pred		
+nkurd	muserz02	0141	#	#	#	#				
+nkurd	muserz02	0141	Paša	Pasha	np.h:s	np	h	s		
+nkurd	muserz02	0141	tere	goes	v:pred	v		pred		
+nkurd	muserz02	0141	#	#	#	#				
+nkurd	muserz02	0141	0	0_he	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0141	dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0141	``Pîrê''	old.lady	other	other				
+nkurd	muserz02	0141	#	#	#	#				
+nkurd	muserz02	0141	0	0_he	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0141	dibê,	says,	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0141	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0141	``ez	I	pro.1:s	pro	1	s		
+nkurd	muserz02	0141	xwezgîniyê	suitor.of	np:pred	np		pred		
+nkurd	muserz02	0141	qîza	daughter.of	rn_np.h:poss	rn_np	h	poss		
+nkurd	muserz02	0141	te	your	rn_pro.2:poss	rn_pro	2	poss		
+nkurd	muserz02	0141	me,	am	cop	cop				
+nkurd	muserz02	0141	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0141	ez	I	pro.1:a	pro	1	a		
+nkurd	muserz02	0141	qîza	daughter.of	np.h:p	np	h	p		
+nkurd	muserz02	0141	te	your	rn_pro.2:poss	rn_pro	2	poss		
+nkurd	muserz02	0141	dixazim.''	request	v:pred	v		pred		
+nkurd	muserz02	0142	##	##	##	##				
+nkurd	muserz02	0142	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0142	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0142	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0142	``Lê	but	other	other				
+nkurd	muserz02	0142	ewa	that	ln_dem	ln_dem				
+nkurd	muserz02	0142	ereba	Arab.woman	np	np				
+nkurd	muserz02	0142	reš	black	rn_other	rn_other				
+nkurd	muserz02	0142	li	in	rn_adp	rn_adp				
+nkurd	muserz02	0142	mala	house.of	rn_np:l	rn_np		l		
+nkurd	muserz02	0142	te	your	rn_pro.2:poss	rn_pro	2	poss		
+nkurd	muserz02	0142	da.	pop	rn_pop_adp	rn_pop_adp				
+nkurd	muserz02	0142	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0142	Ez	I	pro.1:a	pro	1	a		
+nkurd	muserz02	0142	karim	can 	aux	aux				
+nkurd	muserz02	0142	qîza	daughter.of	np.h:p	np	h	p		
+nkurd	muserz02	0142	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0142	bidim.	will.give	v:pred	v		pred		
+nkurd	muserz02	0143	##	##	##	##				
+nkurd	muserz02	0143	0	0_he	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0143	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0143	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0143	``Ez	I	pro.1:a	pro	1	a		
+nkurd	muserz02	0143	serê	head.of	np:p	np		p		
+nkurd	muserz02	0143	wê	her	rn_pro.h:poss	rn_pro	h	poss		
+nkurd	muserz02	0143	wenda	losing	lvc	lvc				
+nkurd	muserz02	0143	dikim.''	shall.do	v:pred	v		pred		
+nkurd	muserz02	0143	##	##	##	##				
+nkurd	muserz02	0143	0	0_she	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0143	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0143	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0143	``Tu	you	pro.2:a	pro	2	a		
+nkurd	muserz02	0143	çer	how	other	other				
+nkurd	muserz02	0143	0	0_her	0.h:p	0	h	p		
+nkurd	muserz02	0143	wenda	riddance	lvc	lvc				
+nkurd	muserz02	0143	dikî?''	do	v:pred	v		pred		
+nkurd	muserz02	0143	##	##	##	##				
+nkurd	muserz02	0143	0	0_he	0.h:s_ds	0	h	s_ds		
+nkurd	muserz02	0143	Dibê:	says:	ds_v:pred	ds_v		pred		
+nkurd	muserz02	0143	#ds	#ds	#ds	#ds				
+nkurd	muserz02	0143	``ez	I	pro.1:a	pro	1	a		
+nkurd	muserz02	0143	0	0_her	0.h:p	0	h	p		
+nkurd	muserz02	0143	wenda	riddance	lvc	lvc				
+nkurd	muserz02	0143	dikim.''	do	v:pred	v		pred		
+nkurd	muserz02	0144	##	##	##	##				
+nkurd	muserz02	0144	0	0_he	0.h:s	0	h	s		
+nkurd	muserz02	0144	Tere,	goes	v:pred	v		pred		
+nkurd	muserz02	0144	#	#	#	#				
+nkurd	muserz02	0144	0	0_he	0.h:a	0	h	a		
+nkurd	muserz02	0144	tîne	brings	v:pred	v		pred		
+nkurd	muserz02	0144	qantirkî	a.mule	np:p	np		p		
+nkurd	muserz02	0144	#	#	#	#				
+nkurd	muserz02	0144	0	0_he	0.h:a	0	h	a		
+nkurd	muserz02	0144	0	0_it	0:p	0		p		
+nkurd	muserz02	0144	tî	thirsty	other	other				
+nkurd	muserz02	0144	dike,	makes	v:pred	v		pred		
+nkurd	muserz02	0144	#	#	#	#				
+nkurd	muserz02	0144	0	0_he	0.h:a	0	h	a		
+nkurd	muserz02	0144	yekî	one	np:p	np		p		
+nkurd	muserz02	0144	birçî	hungry	other	other				
+nkurd	muserz02	0144	dike.	makes	v:pred	v		pred		
+nkurd	muserz02	0145	##	##	##	##				
+nkurd	muserz02	0145	0	0_he	0.h:a	0	h	a		
+nkurd	muserz02	0145	Ya	the.one	np:dt	np		dt		
+nkurd	muserz02	0145	tî	thirsty	rn_other	rn_other				
+nkurd	muserz02	0145	avê	water	np:p	np		p		
+nkurd	muserz02	0145	dide	puts	v:pred	v		pred		
+nkurd	muserz02	0145	ber,	front	adp	adp				
+nkurd	muserz02	0145	0	0_it	0:g	0		g		
+nkurd	muserz02	0145	#	#	#	#				
+nkurd	muserz02	0145	lê,	but	other	other				
+nkurd	muserz02	0145	0	0_he	0.h:a	0	h	a		
+nkurd	muserz02	0145	giyê	grass	np:p	np		p		
+nkurd	muserz02	0145	dide	puts	v:pred	v		pred		
+nkurd	muserz02	0145	ber	front	adp	adp				
+nkurd	muserz02	0145	0	0_it	0:g	0		g		
+nkurd	muserz02	0145	#	#	#	#				
+nkurd	muserz02	0145	ya	the.one	np:dt	np		dt		
+nkurd	muserz02	0145	birçî	hungry	rn_other	rn_other				
+nkurd	muserz02	0145	jî	also	other	other				
+nkurd	muserz02	0145	0	0_he	0.h:a	0	h	a		
+nkurd	muserz02	0145	avê	water	np:p	np		p		
+nkurd	muserz02	0145	dide	gives	v:pred	v		pred		
+nkurd	muserz02	0145	ber.	front	other:g	other		g		
+nkurd	muserz02	0146	##	##	##	##				
+nkurd	muserz02	0146	0	0_they	0:a	0		a		
+nkurd	muserz02	0146	Xwe	self	refl_pro:p	refl_pro		p		
+nkurd	muserz02	0146	kašdikin,	pull	v:pred	v		pred		
+nkurd	muserz02	0146	#	#	#	#				
+nkurd	muserz02	0146	0	0_they	0:a	0		a		
+nkurd	muserz02	0146	ewê	her	pro.h:p	pro	h	p		
+nkurd	muserz02	0146	dixeniqînin,	strangle	v:pred	v		pred		
+nkurd	muserz02	0146	#	#	#	#				
+nkurd	muserz02	0146	0	0_they	0.h:a	0	h	a		
+nkurd	muserz02	0146	0	0_her	0.h:p	0	h	p		
+nkurd	muserz02	0146	dikujin.	kill	v:pred	v		pred		
+nkurd	muserz02	0147	##	##	##	##				
+nkurd	muserz02	0147	Welleh	by.God	excl	excl				
+nkurd	muserz02	0147	paša	pasha	np.h:s	np	h	s		
+nkurd	muserz02	0147	teze	now	other	other				
+nkurd	muserz02	0147	heft	seven	other	other				
+nkurd	muserz02	0147	ro,	day	other	other				
+nkurd	muserz02	0147	heft	seven	other	other				
+nkurd	muserz02	0147	ševa	nights	other	other				
+nkurd	muserz02	0147	deweta	wedding.of	np:p	np		p		
+nkurd	muserz02	0147	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0147	û	and	rn_other	rn_other				
+nkurd	muserz02	0147	wê	her	rn_pro.h:poss	rn_pro	h	poss		
+nkurd	muserz02	0147	dike.	does	v:pred	v		pred		
+nkurd	muserz02	0147	#	#	#	#				
+nkurd	muserz02	0147	Ew	they	pro.h:s	pro	h	s		
+nkurd	muserz02	0147	bi	through	adp	adp				
+nkurd	muserz02	0147	miradê	destiny.of	np.h:other	np	h	other		
+nkurd	muserz02	0147	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0147	ša	contented	other	other				
+nkurd	muserz02	0147	dibin,	become	v:pred	v		pred		
+nkurd	muserz02	0147	#	#	#	#				
+nkurd	muserz02	0147	tu	you	pro.2:s	pro	2	s		
+nkurd	muserz02	0147	jî	also	other	other				
+nkurd	muserz02	0147	bi	with	adp	adp				
+nkurd	muserz02	0147	mirade	destiny.of	np.h:other	np	h	other		
+nkurd	muserz02	0147	xwe	self	rn_refl_pro.h:poss	rn_refl_pro	h	poss		
+nkurd	muserz02	0147	ša	contented	other:pred	other		pred		
+nkurd	muserz02	0147	bî.	may.be	cop	cop				
+nkurd	muserz02	0148	#nc	#nc	#nc	#nc				
+nkurd	muserz02	0148	Çîroka	story.of	nc	nc				
+nkurd	muserz02	0148	mi	mine	nc	nc				
+nkurd	muserz02	0148	çû	went	nc	nc				
+nkurd	muserz02	0148	dîyara	to.ends	nc	nc				
+nkurd	muserz02	0148	rehme	mercy.of.God	nc	nc				
+nkurd	muserz02	0148	li	on	nc	nc				
+nkurd	muserz02	0148	dê	mothers	nc	nc				
+nkurd	muserz02	0148	û	and	nc	nc				
+nkurd	muserz02	0148	bavê	fathers.of	nc	nc				
+nkurd	muserz02	0148	gudara.	listeners	nc	nc				

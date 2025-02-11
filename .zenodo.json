@@ -1,0 +1,39 @@
+{
+    "creators": [
+        {
+            "name": "Geoffrey Haig"
+        },
+        {
+            "name": "Maria Vollmer"
+        },
+        {
+            "name": "Hanna Thiele"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Geoffrey Haig",
+            "type": "Editor"
+        },
+        {
+            "name": "Stefan Schnell",
+            "type": "Editor"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "multicast"
+        }
+    ],
+    "title": "Multi-CAST Northern Kurdish",
+    "access_right": "open",
+    "keywords": [
+        "cldf:TextCorpus",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Haig, Geoffrey &amp; Vollmer, Maria &amp; Thiele, Hanna. 2015. Multi-CAST Northern Kurdish. In Haig, Geoffrey &amp; Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1505. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#nkurd) (date accessed)</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
