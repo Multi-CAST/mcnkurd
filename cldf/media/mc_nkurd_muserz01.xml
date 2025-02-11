@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2211">
+<multicast version="2311">
  <corpus c_name="nkurd">
   <text t_name="muserz01" annotators="Geoffrey Haig, Maria Vollmer" speaker="NK01">
-   <file f_name="mc_nkurd_muserz01" audio="mc_nkurd_muserz01.wav" updated="2022-07-25">
+   <file f_name="mc_nkurd_muserz01" audio="mc_nkurd_muserz01.wav" updated="2023-07-09">
     <unit uid="0001" start_time="0" end_time="3390">
      <utterance_id>nkurd_muserz01_0001</utterance_id>
      <utterance>Harûnê Rešît pašayê Ereba bûye.</utterance>
@@ -17298,8 +17298,8 @@
       </segment>
       <segment>
        <gword>-ê</gword>
-       <gloss>NC</gloss>
-       <graid>nc</graid>
+       <gloss>-NC</gloss>
+       <graid>-nc</graid>
       </segment>
       <segment>
        <gword>di-b-e</gword>
@@ -17534,8 +17534,8 @@
       </segment>
       <segment>
        <gword>-ê</gword>
-       <gloss>NC</gloss>
-       <graid>-other</graid>
+       <gloss>-NC</gloss>
+       <graid>-nc</graid>
       </segment>
       <segment>
        <gword>0</gword>

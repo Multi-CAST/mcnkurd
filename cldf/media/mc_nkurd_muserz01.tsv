@@ -3005,7 +3005,7 @@ nkurd	muserz01	0161	tišt-ek-î	something-INDF-EZ	np:obl	np		obl
 nkurd	muserz01	0161	ewha	such	rn	rn				
 nkurd	muserz01	0161	di-ger-im	IND-search.PRS-1SG	v:pred	v		pred		
 nkurd	muserz01	0161	#	#	#nc	#nc				
-nkurd	muserz01	0161	-ê	NC	nc	nc				
+nkurd	muserz01	0161	-ê	-NC	-nc	-nc				
 nkurd	muserz01	0161	di-b-e	COP.3SG	nc	nc				
 nkurd	muserz01	0161	#	#	#ds	#ds				
 nkurd	muserz01	0161	pîrê	old_woman	np.h:other	np	h	other	1058	
@@ -3045,7 +3045,7 @@ nkurd	muserz01	0163	tu	2SG	pro.2:a_ds	pro	2	a_ds	1019
 nkurd	muserz01	0163	di-bê	IND-say.PRS.2SG	ds_v:pred	ds_v		pred		
 nkurd	muserz01	0163	çi	what	other:p	other		p		
 nkurd	muserz01	0164	#	#	##	##				
-nkurd	muserz01	0164	-ê	NC	-other	-other				
+nkurd	muserz01	0164	-ê	-NC	-nc	-nc				
 nkurd	muserz01	0164	0	0_she	0.h:s_ds	0	h	s_ds	1019	
 nkurd	muserz01	0164	di-bê	IND-say.PRS.3SG	ds_v:pred	ds_v		pred		
 nkurd	muserz01	0164	#	#	#ds	#ds				
