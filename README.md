@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Haig, Geoffrey & Vollmer, Maria & Thiele, Hanna. 2021. Multi-CAST Northern Kurdish. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2101. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#nkurd) (date accessed)
+  > Haig, Geoffrey & Vollmer, Maria & Thiele, Hanna. 2022. Multi-CAST Northern Kurdish. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2211. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#nkurd) (date accessed)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ![](cldf/media/image.jpg)

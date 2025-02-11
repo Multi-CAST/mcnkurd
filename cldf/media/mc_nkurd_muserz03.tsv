@@ -1327,7 +1327,7 @@ nkurd	muserz03	0075	#	#	##	##
 nkurd	muserz03	0075	0	0_they	0.h:s	0	h	s	3033	
 nkurd	muserz03	0075	ter-in	IND.go.PRS-3PL	v:pred	v		pred		
 nkurd	muserz03	0075	#	#	##	##				
-nkurd	muserz03	0075	0	0_he	0.h:s_cp	0	h	s_cp	3144	
+nkurd	muserz03	0075	0	0_he	0.h:s_cp	0	h	s_cp	3144	bridging
 nkurd	muserz03	0075	bal-a	attention-EZ	np:lvc	np		lvc		
 nkurd	muserz03	0075	xwe	REFL	rn_refl.h:poss	rn_refl	h	poss	3144	
 nkurd	muserz03	0075	di-d-in	IND-give.PRS-3PL	v:pred	v		pred		
@@ -2139,7 +2139,7 @@ nkurd	muserz03	0114	#	#	##ds	##ds
 nkurd	muserz03	0114	tu	2SG	pro.2:a	pro	2	a	3037	
 nkurd	muserz03	0114	nîv-ek-î	half-INDF	np:p	np		p		
 nkurd	muserz03	0114	wî	DEM.OBL	rn	rn				
-nkurd	muserz03	0114	mirîşka	chicken-EZ	rn_np:poss	rn_np		poss	3068	
+nkurd	muserz03	0114	mirîşka	chicken-EZ	rn_np:poss	rn_np		poss	3068	bridging
 nkurd	muserz03	0114	xwe	REFL	rn_refl.2:poss	rn_refl	2	poss	3037	
 nkurd	muserz03	0114	bid-î	SUBJ.give.PRS-2SG	v:pred	v		pred		
 nkurd	muserz03	0114	min	1SG.OBL	pro.1:g	pro	1	g	3069	

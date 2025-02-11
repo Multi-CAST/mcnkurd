@@ -32,7 +32,7 @@ nkurd	muserz01	0004	tê	IND.come.PRS.3SG	v:pred	v		pred
 nkurd	muserz01	0004	pencî	50	other	other				
 nkurd	muserz01	0004	salî	yeared	other	other				
 nkurd	muserz01	0005	#	#	##neg	##neg				
-nkurd	muserz01	0005	qeder-a	destiny-EZ	np:s	np		s	1009	
+nkurd	muserz01	0005	qeder-a	destiny-EZ	np:s	np		s	1009	bridging
 nkurd	muserz01	0005	vî	3SG.OBL	rn_pro.h:poss	rn_pro	h	poss	1002	
 nkurd	muserz01	0005	venebû-ye	open.PST-NEG-PRF.3SG	v:pred	v		pred		
 nkurd	muserz01	0005	#	#	#neg	#neg				
@@ -56,7 +56,7 @@ nkurd	muserz01	0007	ew-ê	those-EZ	pro.h:g	pro	h	g	1003	new
 nkurd	muserz01	0007	#	#	#rc	#rc				
 nkurd	muserz01	0007	ku	that	other	other				
 nkurd	muserz01	0007	0	0	f0:a	f0		a	1003	
-nkurd	muserz01	0007	ilm-ê	knowledge-EZ	np:p	np		p	1103	
+nkurd	muserz01	0007	ilm-ê	knowledge-EZ	np:p	np		p	1103	new
 nkurd	muserz01	0007	minecîm-î	astrology-OBL	rn_np:poss	rn_np		poss		
 nkurd	muserz01	0007	di-xwîn-in	IND-read.PRS-PL	v:pred	v		pred		
 nkurd	muserz01	0007	#	#	#nc	#nc				
@@ -233,7 +233,7 @@ nkurd	muserz01	0017	bi-b-e	SUBJ-become.PRS-3SG	v:pred	v		pred
 nkurd	muserz01	0018	#	#	#ds	#ds				
 nkurd	muserz01	0018	bi-b-e	=FUT.happen	v:pred	v		pred		
 nkurd	muserz01	0018	#	#	#ds_cc	#ds_cc				
-nkurd	muserz01	0018	çax-ê	age-EZ	np:s	np		s	1105	
+nkurd	muserz01	0018	çax-ê	age-EZ	np:s	np		s	1105	bridging
 nkurd	muserz01	0018	wê	3SG.OBL	rn_pro.h:poss	rn_pro	h	poss	1007	
 nkurd	muserz01	0018	yê	EZ	rn	rn				
 nkurd	muserz01	0018	zewac-ê	marriage-OBL	rn_np:poss	rn_np		poss		
@@ -271,7 +271,7 @@ nkurd	muserz01	0021	teze	then	other	other
 nkurd	muserz01	0021	tu	2SG	pro.2:a	pro	2	a	1002	
 nkurd	muserz01	0021	=yê	=FUT	=aux	=aux				
 nkurd	muserz01	0021	bi	with	adp	adp				
-nkurd	muserz01	0021	helalî	ceremony	np:obl	np		obl	1106	
+nkurd	muserz01	0021	helalî	ceremony	np:obl	np		obl	1106	new
 nkurd	muserz01	0021	ya	of	rn	rn				
 nkurd	muserz01	0021	xwedê	God.OBL	rn	rn				
 nkurd	muserz01	0021	ew-ê	3SG.OBL	pro.h:p	pro	h	p	1007	
@@ -337,7 +337,7 @@ nkurd	muserz01	0024	ne	not	nc	nc
 nkurd	muserz01	0024	lazim	necessary	nc	nc				
 nkurd	muserz01	0024	=e	=COP.3SG	nc	nc				
 nkurd	muserz01	0024	vî	this	nc	nc				
-nkurd	muserz01	0024	qeder-ê	destiny	nc_np	nc_np			1009	bridging
+nkurd	muserz01	0024	qeder-ê	destiny	nc_np	nc_np			1009	
 nkurd	muserz01	0024	=ye	=COP.3SG	nc	nc				
 nkurd	muserz01	0024	jî	too	nc	nc				
 nkurd	muserz01	0025	#	#	##	##				
@@ -1337,7 +1337,7 @@ nkurd	muserz01	0074	xwe	self	rn_refl.h:poss	rn_refl	h	poss	1019
 nkurd	muserz01	0074	rast-çep	right-left	other:g	other		g		
 nkurd	muserz01	0074	di-gerîn-e	IND-turn.PRS-3SG	v:pred	v		pred		
 nkurd	muserz01	0074	li	at	adp	adp				
-nkurd	muserz01	0074	xort-a	young_men-PL.OBL	np.h:g	np	h	g	1041	
+nkurd	muserz01	0074	xort-a	young_men-PL.OBL	np.h:g	np	h	g	1041	new
 nkurd	muserz01	0075	#	#	##	##				
 nkurd	muserz01	0075	gundî	villager.PL	np.h:a	np	h	a	1039	new
 nkurd	muserz01	0075	fark	noticing	np:p	np		p		
@@ -1385,7 +1385,7 @@ nkurd	muserz01	0078	çêdik-e	IND.create.PRS-3SG	v:pred	v		pred
 nkurd	muserz01	0078	#	#	#ds	#ds				
 nkurd	muserz01	0078	ew	3SG	pro.h:a	pro	h	a	1019	
 nkurd	muserz01	0078	=ê	=FUT	=aux	=aux				
-nkurd	muserz01	0078	genc-ê	youth-EZ.PL	np.h:p	np	h	p	1041	bridging
+nkurd	muserz01	0078	genc-ê	youth-EZ.PL	np.h:p	np	h	p	1041	
 nkurd	muserz01	0078	gund-ê	village-EZ	rn_np:poss	rn_np		poss	1040	
 nkurd	muserz01	0078	me	1PL.OBL	rn_pro.1:poss	rn_pro	1	poss	1039	
 nkurd	muserz01	0078	xirab	corruption	np:lvc	np		lvc		
