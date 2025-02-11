@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1908">
+<multicast version="2101">
     <corpus c_name="nkurd">
         <text t_name="muserz01" annotators="Geoffrey Haig, Maria Vollmer" speaker="NK01">
-            <file f_name="mc_nkurd_muserz01" audio="mc_nkurd_muserz01.wav" updated="2019-08-13">
+            <file f_name="mc_nkurd_muserz01" audio="mc_nkurd_muserz01.wav" updated="2020-09-14">
                 <unit uid="0001" start_time="0" end_time="3390">
                     <utterance_id>nkurd_muserz01_0001</utterance_id>
                     <utterance>Harûnê Rešît pašayê Ereba bûye.</utterance>
@@ -24,6 +24,7 @@
                             <gword>paša-yê</gword>
                             <gloss>pasha-EZ</gloss>
                             <graid>np.h:pred</graid>
+                            <predsem>neu_ident</predsem>
                         </segment>
                         <segment>
                             <gword>Ereb-a</gword>
@@ -123,6 +124,7 @@
                             <gword>hebû-ye</gword>
                             <gloss>exist.PST-PRF.3SG</gloss>
                             <graid>other:predex</graid>
+                            <predsem>pos</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -152,6 +154,7 @@
                             <gword>Mihemed</gword>
                             <gloss>Mihemed</gloss>
                             <graid>pn_np.h:pred</graid>
+                            <predsem>neu_ident</predsem>
                         </segment>
                         <segment>
                             <gword>bû-ye</gword>
@@ -193,6 +196,7 @@
                             <gword>tê</gword>
                             <gloss>IND.come.PRS.3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>neu_res</predsem>
                         </segment>
                         <segment>
                             <gword>pencî</gword>
@@ -331,6 +335,7 @@
                             <gword>ter-e</gword>
                             <gloss>IND.go.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act_mot_dir</predsem>
                         </segment>
                         <segment>
                             <gword>cem</gword>
@@ -435,6 +440,7 @@
                             <gword>davêj-in</gword>
                             <gloss>IND.throw.PRS-3PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -458,6 +464,7 @@
                             <gword>davêj-in</gword>
                             <gloss>IND.throw.PRS-3PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -480,6 +487,7 @@
                             <gword>vedik-in</gword>
                             <gloss>IND.open.PRS-3PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -549,6 +557,7 @@
                             <gword>bi-d-in</gword>
                             <gloss>SUBJ-give.PRS-3PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>spe</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -582,7 +591,7 @@
                         <segment>
                             <gword>ez</gword>
                             <gloss>1SG</gloss>
-                            <graid>pro.h:s</graid>
+                            <graid>pro.1:s</graid>
                             <refind>1002</refind>
                         </segment>
                         <segment>
@@ -750,6 +759,7 @@
                             <gword>çi</gword>
                             <gloss>what</gloss>
                             <graid>other:pred</graid>
+                            <predsem>neu</predsem>
                         </segment>
                         <segment>
                             <gword>=ye</gword>
@@ -1267,7 +1277,7 @@
                         <segment>
                             <gword>ew</gword>
                             <gloss>2SG</gloss>
-                            <graid>pro.h:a</graid>
+                            <graid>pro.2:a</graid>
                             <refind>1006</refind>
                         </segment>
                         <segment>
@@ -1286,6 +1296,7 @@
                             <gword>bi-welîd-e</gword>
                             <gloss>SUBJ-bear.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -1485,6 +1496,7 @@
                             <gword>dayne</gword>
                             <gloss>IND.lay_down.PRS.3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -1726,7 +1738,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_she</gloss>
-                            <graid>rc_f0</graid>
+                            <graid>rel_f0</graid>
                             <refind>1007</refind>
                         </segment>
                         <segment>
@@ -2060,6 +2072,7 @@
                             <gword>=e</gword>
                             <gloss>=COP.3SG</gloss>
                             <graid>=cop</graid>
+                            <predsem>pos</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -2116,6 +2129,7 @@
                             <gword>di-gr-e</gword>
                             <gloss>IND.take.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>her</gword>
@@ -2207,6 +2221,7 @@
                             <gword>di-d-e</gword>
                             <gloss>IND-put.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>ber</gword>
@@ -2439,6 +2454,7 @@
                             <gword>tê</gword>
                             <gloss>IND.come.PRS.3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act_mot_dir</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -2487,18 +2503,19 @@
                             <gword>cinar-ê</gword>
                             <gloss>neighbour-EZ</gloss>
                             <graid>rn_np.h:poss</graid>
+                            <refind>1016</refind>
+                            <isnref>bridging</isnref>
                         </segment>
                         <segment>
                             <gword>me</gword>
                             <gloss>1PL.OBL</gloss>
                             <graid>rn_pro.1:poss</graid>
-                            <refind>1016</refind>
-                            <isnref>bridging</isnref>
                         </segment>
                         <segment>
                             <gword>welêdî-ye</gword>
                             <gloss>give_birth.PST-PRF.3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -2614,6 +2631,7 @@
                             <gword>rast</gword>
                             <gloss>correct</gloss>
                             <graid>other:pred</graid>
+                            <predsem>neu</predsem>
                         </segment>
                         <segment>
                             <gword>=in</gword>
@@ -2647,6 +2665,7 @@
                             <gword>ter-e</gword>
                             <gloss>IND.go.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act_mot_dir</predsem>
                         </segment>
                         <segment>
                             <gword>wê</gword>
@@ -2679,7 +2698,7 @@
                         <segment>
                             <gword>dê</gword>
                             <gloss>mother</gloss>
-                            <graid>ln</graid>
+                            <graid>ln_np.h</graid>
                             <refind>1017</refind>
                             <isnref>bridging</isnref>
                         </segment>
@@ -2711,6 +2730,7 @@
                             <gword>di-bê</gword>
                             <gloss>IND-say.PRS.3SG</gloss>
                             <graid>ds_v:pred</graid>
+                            <predsem>spe</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -2745,6 +2765,7 @@
                             <gword>na-d-in</gword>
                             <gloss>NEG-give.PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>min</gword>
@@ -2930,6 +2951,7 @@
                             <gword>di-kišîn-im</gword>
                             <gloss>IND-draw.PRS-1SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -3048,6 +3070,7 @@
                             <gword>qas-ê</gword>
                             <gloss>worth-EZ</gloss>
                             <graid>np:pred</graid>
+                            <predsem>neu</predsem>
                         </segment>
                         <segment>
                             <gword>dergûš-ek-î</gword>
@@ -3274,6 +3297,7 @@
                             <gword>zêde</gword>
                             <gloss>great</gloss>
                             <graid>other:pred</graid>
+                            <predsem>neu</predsem>
                         </segment>
                         <segment>
                             <gword>bû-ye</gword>
@@ -3461,6 +3485,7 @@
                             <gword>girêdan-ê</gword>
                             <gloss>tie_up</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -3497,6 +3522,7 @@
                             <gword>di-gir-e</gword>
                             <gloss>IND-take.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -3519,6 +3545,7 @@
                             <gword>di-d-e</gword>
                             <gloss>IND-give.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>wêdera</gword>
@@ -3689,6 +3716,7 @@
                             <gword>di-mîn-e</gword>
                             <gloss>IND-remain.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>neu_res</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -3855,6 +3883,7 @@
                             <gword>ter-e</gword>
                             <gloss>IND.go.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act_mot_dir</predsem>
                         </segment>
                         <segment>
                             <gword>cî-k-î</gword>
@@ -3985,7 +4014,7 @@
                         <segment>
                             <gword>merif-ekî</gword>
                             <gloss>man-INDF</gloss>
-                            <graid>np:s</graid>
+                            <graid>np.h:s</graid>
                             <refind>1025</refind>
                             <isnref>new</isnref>
                         </segment>
@@ -3998,6 +4027,7 @@
                             <gword>heye</gword>
                             <gloss>existent.COP.3SG</gloss>
                             <graid>other:predex</graid>
+                            <predsem>neu</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -4049,6 +4079,7 @@
                             <gword>ew</gword>
                             <gloss>3SG</gloss>
                             <graid>other:pred</graid>
+                            <predsem>neu</predsem>
                         </segment>
                         <segment>
                             <gword>=e</gword>
@@ -4104,6 +4135,7 @@
                             <gword>di-gir-e</gword>
                             <gloss>IND-take.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -4188,6 +4220,7 @@
                             <gword>di-k-e</gword>
                             <gloss>IND-do.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -4195,6 +4228,7 @@
                     <utterance_id>nkurd_muserz01_0044</utterance_id>
                     <utterance>Ew ro sibê zu radibe, dibê: "Jinik, welle, ez ê herim fêlan derê,</utterance>
                     <utterance_translation>That day he gets up early, saying "Wife, well, I will go to such-and-such a place,</utterance_translation>
+                    <add_comments>why is jinik bridging here? gh xxx</add_comments>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -4280,6 +4314,7 @@
                             <gword>her-im</gword>
                             <gloss>SUBJ.go.PRS--1SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act_mot_dir</predsem>
                         </segment>
                         <segment>
                             <gword>fêlan</gword>
@@ -4361,6 +4396,7 @@
                             <gword>ne-girt-in-e</gword>
                             <gloss>NEG-catch.PST-PL.PRF</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -4461,6 +4497,7 @@
                             <gword>b-avêj-im</gword>
                             <gloss>SUBJ-throw.PRS-1SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -4550,6 +4587,7 @@
                             <gword>di-d-e</gword>
                             <gloss>IND-give.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>ereba</gword>
@@ -5323,6 +5361,7 @@
                             <gword>tê</gword>
                             <gloss>IND.come.PRS.3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>der-ê</gword>
@@ -5420,6 +5459,7 @@
                             <gword>tê</gword>
                             <gloss>IND.come.PRS.3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act_mot_dir</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -5620,6 +5660,7 @@
                             <gword>ma-n-e</gword>
                             <gloss>stay.PST-PL-PRF</gloss>
                             <graid>v:pred</graid>
+                            <predsem>neu</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -6075,7 +6116,7 @@
                         <segment>
                             <gword>ew</gword>
                             <gloss>3SG</gloss>
-                            <graid>ln</graid>
+                            <graid>ln_pro.h</graid>
                             <refind>1025</refind>
                         </segment>
                         <segment>
@@ -6131,7 +6172,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_they</gloss>
-                            <graid>pro.h:a</graid>
+                            <graid>0.h:a</graid>
                             <refind>1034</refind>
                         </segment>
                         <segment>
@@ -6149,15 +6190,14 @@
                         <segment>
                             <gword>kilît</gword>
                             <gloss>lock</gloss>
-                            <graid>ln</graid>
-                            <refind>1036</refind>
-                            <isnref>bridging</isnref>
+                            <graid>ln_np</graid>
                         </segment>
                         <segment>
                             <gword>milît-ê</gword>
                             <gloss>lock-EZ</gloss>
                             <graid>np:p</graid>
                             <refind>1036</refind>
+                            <isnref>bridging</isnref>
                         </segment>
                         <segment>
                             <gword>wî</gword>
@@ -6169,6 +6209,7 @@
                             <gword>di-škenîn-in</gword>
                             <gloss>break</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -6178,7 +6219,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_they</gloss>
-                            <graid>pro.h:a</graid>
+                            <graid>0.h:a</graid>
                             <refind>1034</refind>
                         </segment>
                         <segment>
@@ -6205,7 +6246,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_they</gloss>
-                            <graid>pro.h:a</graid>
+                            <graid>0.h:a</graid>
                             <refind>1034</refind>
                         </segment>
                         <segment>
@@ -6410,6 +6451,7 @@
                             <gword>bi-d-e</gword>
                             <gloss>SUBJ-give.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -6479,6 +6521,7 @@
                             <gword>anî</gword>
                             <gloss>bring.PST.3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau</predsem>
                         </segment>
                         <segment>
                             <gword>ew</gword>
@@ -6888,7 +6931,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_we</gloss>
-                            <graid>pro.1:a</graid>
+                            <graid>0.1:a</graid>
                             <refind>1034</refind>
                         </segment>
                         <segment>
@@ -6907,6 +6950,7 @@
                             <gword>bi-k-in</gword>
                             <gloss>SUBJ-do.PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>spe</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -6916,7 +6960,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_we</gloss>
-                            <graid>pro.1:a</graid>
+                            <graid>0.1:a</graid>
                             <refind>1034</refind>
                         </segment>
                         <segment>
@@ -7022,7 +7066,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_we</gloss>
-                            <graid>pro.1:a</graid>
+                            <graid>0.1:a</graid>
                             <refind>1034</refind>
                         </segment>
                         <segment>
@@ -7036,6 +7080,7 @@
                             <gword>bi-kol-in</gword>
                             <gloss>SUBJ-dig.PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -7045,7 +7090,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_we</gloss>
-                            <graid>pro.1:a</graid>
+                            <graid>0.1:a</graid>
                             <refind>1034</refind>
                         </segment>
                         <segment>
@@ -7058,6 +7103,7 @@
                             <gword>têk-in</gword>
                             <gloss>SUBJ.do.PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>mezala</gword>
@@ -7298,7 +7344,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_they</gloss>
-                            <graid>pro.h:a</graid>
+                            <graid>0.h:a</graid>
                             <refind>1034</refind>
                         </segment>
                         <segment>
@@ -7325,7 +7371,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_they</gloss>
-                            <graid>pro.h:a</graid>
+                            <graid>0.h:a</graid>
                             <refind>1034</refind>
                         </segment>
                         <segment>
@@ -7390,6 +7436,7 @@
                             <gword>di-d-in</gword>
                             <gloss>IND-give.PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>hevdû</gword>
@@ -7405,7 +7452,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_they</gloss>
-                            <graid>pro.h:a</graid>
+                            <graid>0.h:a</graid>
                             <refind>1037</refind>
                         </segment>
                         <segment>
@@ -7525,7 +7572,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_he</gloss>
-                            <graid>pro.h:a</graid>
+                            <graid>0.h:a</graid>
                             <refind>1034</refind>
                         </segment>
                         <segment>
@@ -7730,6 +7777,7 @@
                             <gword>di-gerîn-e</gword>
                             <gloss>IND-turn.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>li</gword>
@@ -7770,6 +7818,7 @@
                             <gword>di-k-in</gword>
                             <gloss>IND-do.PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>exp</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -7889,7 +7938,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_they</gloss>
-                            <graid>pro.h:s_ds</graid>
+                            <graid>0.h:s_ds</graid>
                             <refind>1039</refind>
                         </segment>
                         <segment>
@@ -7949,6 +7998,7 @@
                             <gword>tunebû</gword>
                             <gloss>NEG.exist.PST.3SG</gloss>
                             <graid>other:predex</graid>
+                            <predsem>neu</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -8049,6 +8099,7 @@
                             <gword>bi-elimîn-e</gword>
                             <gloss>SUBJ-teach.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -8314,6 +8365,7 @@
                             <gword>di-elim-in</gword>
                             <gloss>IND-learn.PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>exp</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -8580,7 +8632,7 @@
                         <segment>
                             <gword>cî</gword>
                             <gloss>place</gloss>
-                            <graid>ln</graid>
+                            <graid>ln_np</graid>
                             <refind>1031</refind>
                         </segment>
                         <segment>
@@ -8673,7 +8725,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_we</gloss>
-                            <graid>pro.1:a</graid>
+                            <graid>0.1:a</graid>
                             <refind>1034</refind>
                         </segment>
                         <segment>
@@ -8771,7 +8823,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_we</gloss>
-                            <graid>pro.1:a</graid>
+                            <graid>0.1:a</graid>
                             <refind>1034</refind>
                         </segment>
                         <segment>
@@ -9495,6 +9547,7 @@
                             <gword>he-ye</gword>
                             <gloss>exist.PRS-3SG</gloss>
                             <graid>other:predex</graid>
+                            <predsem>neu</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -9510,7 +9563,7 @@
                         <segment>
                             <gword>heval-ê</gword>
                             <gloss>friends-EZ.PL</gloss>
-                            <graid>rn</graid>
+                            <graid>rn_np.h</graid>
                             <refind>1045</refind>
                             <isnref>bridging</isnref>
                         </segment>
@@ -9529,6 +9582,7 @@
                             <gword>=in</gword>
                             <gloss>=COP.PL</gloss>
                             <graid>=cop</graid>
+                            <predsem>neu</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -9586,6 +9640,7 @@
                             <gword>di-b-in</gword>
                             <gloss>IND-bring.PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>ter-in</gword>
@@ -9619,6 +9674,7 @@
                             <gword>di-b-in</gword>
                             <gloss>IND-bring.PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -9673,6 +9729,7 @@
                             <gword>di-b-in</gword>
                             <gloss>IND-bring.PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>ter-in</gword>
@@ -9745,6 +9802,7 @@
                             <gword>di-diz-in</gword>
                             <gloss>IND-steal.PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -9849,6 +9907,7 @@
                             <gword>çêdi-k-in</gword>
                             <gloss>IND.make.PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -9872,6 +9931,7 @@
                             <gword>datîn-in</gword>
                             <gloss>place.PST-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>=ê</gword>
@@ -9955,6 +10015,7 @@
                             <gword>di-stîn-e</gword>
                             <gloss>INDF-receive.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>pos_res</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -10011,6 +10072,7 @@
                             <gword>di-gir-e</gword>
                             <gloss>IND-take.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -10081,6 +10143,7 @@
                             <gword>di-xîn-e</gword>
                             <gloss>IND-strike.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -10230,6 +10293,7 @@
                             <gword>bû-ye</gword>
                             <gloss>be.PST-PRF.3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -10297,7 +10361,7 @@
                     <utterance_id>nkurd_muserz01_0099</utterance_id>
                     <utterance>dibê, "ez zarok bûme, biçûk bûme, min girtine, biçax kirine, qet kirine, avêtine, kirine sanduqa hesin avêtine binê behrê.</utterance>
                     <utterance_translation>she thinks [= says], "I was a child, they took me, cut me up with a knife, threw, put (me) in a chest of iron and threw (it) into the sea.</utterance_translation>
-                    <add_comments>biçax: From Tu. bıçak 'knife'. Note the accusative syntax here (object in Oblique), rather than the expected ergative construction.</add_comments>
+                    <add_comments>biçax: From Tu. bıçak 'knife'. Note the accusative syntax here (object in oblique), rather than the expected ergative construction.</add_comments>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -10459,7 +10523,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_they</gloss>
-                            <graid>pro.h:a</graid>
+                            <graid>0.h:a</graid>
                         </segment>
                         <segment>
                             <gword>0</gword>
@@ -10878,6 +10942,7 @@
                             <gword>di-terikîn-e</gword>
                             <gloss>IND-leave.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act_mot_dir</predsem>
                         </segment>
                         <segment>
                             <gword>bi</gword>
@@ -11064,6 +11129,7 @@
                             <gword>derdikev-e</gword>
                             <gloss>IND.come_out.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act_mot_dir</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -11080,6 +11146,7 @@
                             <gword>di-kev-e</gword>
                             <gloss>IND-fall.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act_mot_dir</predsem>
                         </segment>
                         <segment>
                             <gword>nava</gword>
@@ -11120,6 +11187,7 @@
                             <gword>ter-e</gword>
                             <gloss>IND.go.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act_mot_dir</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -11155,6 +11223,7 @@
                             <gword>tê</gword>
                             <gloss>IND.come.PRS.3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>other</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -11568,6 +11637,7 @@
                             <gword>lazim</gword>
                             <gloss>necessary</gloss>
                             <graid>other:pred</graid>
+                            <predsem>neu</predsem>
                         </segment>
                         <segment>
                             <gword>=e</gword>
@@ -11870,6 +11940,7 @@
                             <gword>bi-d-î</gword>
                             <gloss>SUBJ-give.PRS-2SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>min</gword>
@@ -11927,6 +11998,7 @@
                             <gword>bi-d-e</gword>
                             <gloss>IMP.give.2SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>min</gword>
@@ -12368,6 +12440,7 @@
                             <gword>heye</gword>
                             <gloss>exist.PRS.3SG</gloss>
                             <graid>other:predex</graid>
+                            <predsem>neu</predsem>
                         </segment>
                         <segment>
                             <gword>pîr-ê</gword>
@@ -12556,6 +12629,7 @@
                             <gword>ter-in</gword>
                             <gloss>IND.go.PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act_mot_dir</predsem>
                         </segment>
                         <segment>
                             <gword>mal-ê</gword>
@@ -12619,6 +12693,7 @@
                             <gword>di-kev-e</gword>
                             <gloss>IND-fall.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act_mot_dir</predsem>
                         </segment>
                         <segment>
                             <gword>ode-k-î</gword>
@@ -12670,6 +12745,7 @@
                             <gword>di-gir-e</gword>
                             <gloss>IND-close.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -12912,6 +12988,7 @@
                             <gword>spî</gword>
                             <gloss>white</gloss>
                             <graid>other:pred</graid>
+                            <predsem>neu_res</predsem>
                         </segment>
                         <segment>
                             <gword>bû-ye</gword>
@@ -13010,6 +13087,7 @@
                             <gword>di-k-e</gword>
                             <gloss>IND-do.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>spe</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -13097,6 +13175,7 @@
                             <gword>her-in</gword>
                             <gloss>SUBJ.go.PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act_mot_dir</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -13189,7 +13268,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_we</gloss>
-                            <graid>pro.1:s</graid>
+                            <graid>0.1:s</graid>
                             <refind>1066</refind>
                         </segment>
                         <segment>
@@ -13238,7 +13317,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_we</gloss>
-                            <graid>pro.1:a</graid>
+                            <graid>0.1:a</graid>
                             <refind>1066</refind>
                         </segment>
                         <segment>
@@ -13480,7 +13559,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_they</gloss>
-                            <graid>pro.h:s</graid>
+                            <graid>0.h:s</graid>
                             <refind>1066</refind>
                         </segment>
                         <segment>
@@ -13516,6 +13595,7 @@
                             <gword>bû-ye</gword>
                             <gloss>COP.PST-PRF.3SG</gloss>
                             <graid>other:predex</graid>
+                            <predsem>neu</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -13557,7 +13637,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_they</gloss>
-                            <graid>pro.h:s</graid>
+                            <graid>0.h:s</graid>
                             <refind>1066</refind>
                         </segment>
                         <segment>
@@ -13586,7 +13666,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_they</gloss>
-                            <graid>pro.h:s</graid>
+                            <graid>0.h:s</graid>
                             <refind>1066</refind>
                         </segment>
                         <segment>
@@ -13668,7 +13748,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_they</gloss>
-                            <graid>pro.h:s</graid>
+                            <graid>0.h:s</graid>
                             <refind>1066</refind>
                         </segment>
                         <segment>
@@ -13835,7 +13915,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_we</gloss>
-                            <graid>pro.1:a</graid>
+                            <graid>0.1:a</graid>
                             <refind>1066</refind>
                         </segment>
                         <segment>
@@ -13879,6 +13959,7 @@
                             <gword>bi-bîn-in</gword>
                             <gloss>SUBJ-see.PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>other</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -13950,6 +14031,7 @@
                             <gword>bi-xw-in</gword>
                             <gloss>SUBJ-eat.PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -13992,6 +14074,7 @@
                             <gword>têkev-in</gword>
                             <gloss>IND.enter.PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act_mot_dir</predsem>
                         </segment>
                         <segment>
                             <gword>qayîk-a</gword>
@@ -14141,6 +14224,7 @@
                             <gword>bi-xw-in</gword>
                             <gloss>SUBJ-eat.PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -14803,6 +14887,7 @@
                             <gword>heye</gword>
                             <gloss>exist.PRS.3SG</gloss>
                             <graid>other:predex</graid>
+                            <predsem>neu</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -15112,6 +15197,7 @@
                             <gword>çêdib-e</gword>
                             <gloss>IND.happen.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>exp</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -15272,7 +15358,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_we</gloss>
-                            <graid>pro.1:s</graid>
+                            <graid>0.1:s</graid>
                             <refind>1066</refind>
                         </segment>
                         <segment>
@@ -15312,7 +15398,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_they</gloss>
-                            <graid>pro.h:s_ds</graid>
+                            <graid>0.h:s_ds</graid>
                             <refind>1066</refind>
                         </segment>
                         <segment>
@@ -15416,6 +15502,7 @@
                             <gword>dertîn-e</gword>
                             <gloss>IND.pull_out.PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>deh</gword>
@@ -15566,7 +15653,7 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0_we</gloss>
-                            <graid>pro.1:s</graid>
+                            <graid>0.1:s</graid>
                             <refind>1066</refind>
                         </segment>
                         <segment>
@@ -15782,6 +15869,7 @@
                             <gword>davê</gword>
                             <gloss>IND.place.PRS.3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>bêrî-ya</gword>
@@ -15847,6 +15935,7 @@
                             <gword>di-k-e</gword>
                             <gloss>IND-do.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -16039,6 +16128,7 @@
                             <gword>di-šo-n</gword>
                             <gloss>IND-wash-PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -16150,6 +16240,7 @@
                             <gword>di-bê</gword>
                             <gloss>IND-say.PRS.3SG</gloss>
                             <graid>ds_v:pred</graid>
+                            <predsem>spe</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -17609,6 +17700,7 @@
                             <gword>bi-bîn-in</gword>
                             <gloss>SUBJ-see.PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>exp_perc</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -18009,6 +18101,7 @@
                             <gword>di-d-in</gword>
                             <gloss>IND-give.PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>pîrê</gword>
@@ -18422,6 +18515,7 @@
                             <gword>ter-in</gword>
                             <gloss>IND.come.PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act_mot_dir</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -18451,6 +18545,7 @@
                             <gword>di-bir-in</gword>
                             <gloss>IND-take.PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -18485,6 +18580,7 @@
                             <gword>ter-in</gword>
                             <gloss>IND.go.PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act_mot_dir</predsem>
                         </segment>
                         <segment>
                             <gword>oda</gword>
@@ -18532,6 +18628,7 @@
                             <gword>dertîn-e</gword>
                             <gloss>IND.take_off.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -19490,6 +19587,7 @@
                             <gword>dî-ya</gword>
                             <gloss>mother-EZ</gloss>
                             <graid>np.h:pred</graid>
+                            <predsem>neu_ident</predsem>
                         </segment>
                         <segment>
                             <gword>du</gword>
@@ -19537,6 +19635,7 @@
                             <gword>dest-ê</gword>
                             <gloss>hand-EZ</gloss>
                             <graid>np:pred</graid>
+                            <predsem>neu</predsem>
                         </segment>
                         <segment>
                             <gword>pirabok-ê</gword>
@@ -19857,6 +19956,7 @@
                             <gword>di-d-e</gword>
                             <gloss>IND-give.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>ser</gword>
@@ -19928,6 +20028,7 @@
                             <gword>çêbik-in</gword>
                             <gloss>SUBJ.make.PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -20009,6 +20110,7 @@
                             <gword>hundur</gword>
                             <gloss>inside</gloss>
                             <graid>other:pred_l</graid>
+                            <predsem>neu</predsem>
                         </segment>
                         <segment>
                             <gword>da</gword>
@@ -20085,6 +20187,7 @@
                             <gword>xîn-in</gword>
                             <gloss>SUBJ-put.PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -20126,6 +20229,7 @@
                             <gword>be</gword>
                             <gloss>SUBJ.be.PRS.3SG</gloss>
                             <graid>cop</graid>
+                            <predsem>neu</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -20175,6 +20279,7 @@
                             <gword>lêx-im</gword>
                             <gloss>SUBJ.insert.PRS-1SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -20326,6 +20431,7 @@
                             <gword>çêkirin-ê</gword>
                             <gloss>making-OBL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -20361,6 +20467,7 @@
                             <gword>otomatîk</gword>
                             <gloss>automatic</gloss>
                             <graid>other:pred</graid>
+                            <predsem>neu</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -20617,6 +20724,7 @@
                             <gword>di-k-e</gword>
                             <gloss>IND-do.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>exp_perc_vol</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -20651,6 +20759,7 @@
                             <gword>di-k-e</gword>
                             <gloss>IND-do.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>exp_perc_vol</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -20701,6 +20810,7 @@
                             <gword>di-k-e</gword>
                             <gloss>IND-do.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -20734,6 +20844,7 @@
                             <gword>vedik-e</gword>
                             <gloss>IND.open.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -20870,6 +20981,7 @@
                             <gword>çêdib-in</gword>
                             <gloss>IND.be_created.PRS-PL</gloss>
                             <graid>v:pred</graid>
+                            <predsem>pos_res</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -20954,6 +21066,7 @@
                             <gword>di-gir-e</gword>
                             <gloss>IND-take.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>act</predsem>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -21487,6 +21600,7 @@
                             <gword>pêxas</gword>
                             <gloss>NC</gloss>
                             <graid>other:pred</graid>
+                            <predsem>neu</predsem>
                         </segment>
                         <segment>
                             <gword>=e</gword>
@@ -21635,6 +21749,7 @@
                             <gword>di-xîn-e</gword>
                             <gloss>IND-strike.PRS-3SG</gloss>
                             <graid>v:pred</graid>
+                            <predsem>cau_vol</predsem>
                         </segment>
                     </annotations>
                 </unit>
@@ -21976,7 +22091,7 @@
                 <unit uid="0204" start_time="1159623" end_time="1165596">
                     <utterance_id>nkurd_muserz01_0204</utterance_id>
                     <utterance>Dêmega qedera ji cem xwedê da çêbûye, ew qedera cîyê xwe dibîne, rast e.</utterance>
-                    <utterance_translation>That means destiny is with God, (He) lets destiny come to pass, that is right.</utterance_translation>
+                    <utterance_translation>That means destiny is with God, (He) let's destiny come to pass, that is right.</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -22042,7 +22157,7 @@
                         <segment>
                             <gword>xwe</gword>
                             <gloss>self</gloss>
-                            <graid>rn_refl:p</graid>
+                            <graid>rn_refl</graid>
                         </segment>
                         <segment>
                             <gword>di-bîn-e</gword>

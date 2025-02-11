@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2019-08-13T20:20:07+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="unspecified" DATE="2020-11-08T16:02:46+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_nkurd_muserz03.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:4a82ea79-980f-4d25-a868-5dc65c742e5c</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">26512</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">26610</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
@@ -8200,7 +8200,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a15912" ANNOTATION_REF="a15904" PREVIOUS_ANNOTATION="a15911">
-                <ANNOTATION_VALUE>Îcar</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>îcar</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12390,7 +12390,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2550" ANNOTATION_REF="a1106" PREVIOUS_ANNOTATION="a12504">
-                <ANNOTATION_VALUE>Îroj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>îroj</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -17430,7 +17430,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3261" ANNOTATION_REF="a1147" PREVIOUS_ANNOTATION="a13119">
-                <ANNOTATION_VALUE>Îcar</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>îcar</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20860,7 +20860,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3750" ANNOTATION_REF="a1183" PREVIOUS_ANNOTATION="a13496">
-                <ANNOTATION_VALUE>Îcar</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>îcar</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -44859,7 +44859,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a7077" ANNOTATION_REF="a4220">
-                <ANNOTATION_VALUE>pro.h:a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pro.1:a</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -44919,7 +44919,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a7084" ANNOTATION_REF="a4227">
-                <ANNOTATION_VALUE>pro.h:s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pro.1:s</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -46779,7 +46779,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a15518" ANNOTATION_REF="a15517">
-                <ANNOTATION_VALUE>rc_f0:a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>rel_f0:a</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -51379,7 +51379,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a14257" ANNOTATION_REF="a14254">
-                <ANNOTATION_VALUE>pro.2:a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0.2:a</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -51889,7 +51889,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a14289" ANNOTATION_REF="a14279">
-                <ANNOTATION_VALUE>pro.h:s_ds</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0.h:s_ds</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -54624,7 +54624,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8411" ANNOTATION_REF="a5554">
-                <ANNOTATION_VALUE>0.1:s_ds</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pro.1:s_ds</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -54739,7 +54739,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8426" ANNOTATION_REF="a5569">
-                <ANNOTATION_VALUE>0.1:s_ds</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pro.1:s_ds</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -55279,7 +55279,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8499" ANNOTATION_REF="a5642">
-                <ANNOTATION_VALUE>0.1:s_ds</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pro.1:s_ds</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -62944,7 +62944,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9592" ANNOTATION_REF="a6735">
-                <ANNOTATION_VALUE>0.h:voc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>np.h:voc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -72235,7 +72235,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26305" ANNOTATION_REF="a1015">
-                <ANNOTATION_VALUE>(She) takes him and goes, placing (him) on an island in the middle of the sea.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>(She) takes (him) and goes, placing (him) on an island in the middle of the sea.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -72245,7 +72245,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26307" ANNOTATION_REF="a1017">
-                <ANNOTATION_VALUE>He rubs his eyes, and sees that the the dove is gone. He looks about this way and that, it is a beautiful island.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>(He) rubs his eyes, and sees that the the dove is gone. (He) looks about this way and that, it is a beautiful island.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -72575,7 +72575,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26373" ANNOTATION_REF="a1083">
-                <ANNOTATION_VALUE>He he has his hands open, begging, asking for alms.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>He has his hands open, begging, asking for alms.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -73166,6 +73166,11 @@
     </TIER>
     <TIER ANNOTATOR="Geoffrey Haig, Maria Vollmer" LINGUISTIC_TYPE_REF="symbolic_association" PARENT_REF="utterance" PARTICIPANT="NK01" TIER_ID="add_comments">
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26517" ANNOTATION_REF="a1004">
+                <ANNOTATION_VALUE>humans 0114 is surely a new intro, and is taken up again later, hence not unused (?)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26491" ANNOTATION_REF="a1015">
                 <ANNOTATION_VALUE>adekî: From Tu. ada 'island'.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -73273,6 +73278,472 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26512" ANNOTATION_REF="a1186">
                 <ANNOTATION_VALUE>yazixî: From Tu. yazık 'pity, shame'.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbolic_association" PARENT_REF="graid" PARTICIPANT="NK01" TIER_ID="predsem">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26518" ANNOTATION_REF="a11298">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26519" ANNOTATION_REF="a6924">
+                <ANNOTATION_VALUE>pos</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26524" ANNOTATION_REF="a10025">
+                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26525" ANNOTATION_REF="a6997">
+                <ANNOTATION_VALUE>exp_perc</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26526" ANNOTATION_REF="a7001">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26527" ANNOTATION_REF="a7008">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26528" ANNOTATION_REF="a7040">
+                <ANNOTATION_VALUE>spe</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26529" ANNOTATION_REF="a10093">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26530" ANNOTATION_REF="a7074">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26531" ANNOTATION_REF="a7095">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26532" ANNOTATION_REF="a7109">
+                <ANNOTATION_VALUE>act</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26533" ANNOTATION_REF="a7125">
+                <ANNOTATION_VALUE>act_mot_dir</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26534" ANNOTATION_REF="a11637">
+                <ANNOTATION_VALUE>cau</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26535" ANNOTATION_REF="a11643">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26536" ANNOTATION_REF="a7142">
+                <ANNOTATION_VALUE>cau</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26537" ANNOTATION_REF="a7177">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26538" ANNOTATION_REF="a7186">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26539" ANNOTATION_REF="a7195">
+                <ANNOTATION_VALUE>act_mot_dir</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26540" ANNOTATION_REF="a7208">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26541" ANNOTATION_REF="a7365">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26542" ANNOTATION_REF="a7385">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26543" ANNOTATION_REF="a7414">
+                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26544" ANNOTATION_REF="a7429">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26545" ANNOTATION_REF="a7458">
+                <ANNOTATION_VALUE>exp_perc</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26546" ANNOTATION_REF="a7539">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26547" ANNOTATION_REF="a7560">
+                <ANNOTATION_VALUE>spe</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26548" ANNOTATION_REF="a15957">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26549" ANNOTATION_REF="a7711">
+                <ANNOTATION_VALUE>act</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26550" ANNOTATION_REF="a7814">
+                <ANNOTATION_VALUE>cau</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26551" ANNOTATION_REF="a7816">
+                <ANNOTATION_VALUE>cau</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26552" ANNOTATION_REF="a7821">
+                <ANNOTATION_VALUE>cau</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26553" ANNOTATION_REF="a7834">
+                <ANNOTATION_VALUE>act_mot</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26554" ANNOTATION_REF="a7836">
+                <ANNOTATION_VALUE>act_mot_dir</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26555" ANNOTATION_REF="a7843">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26556" ANNOTATION_REF="a7850">
+                <ANNOTATION_VALUE>act_mot_dir</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26557" ANNOTATION_REF="a7864">
+                <ANNOTATION_VALUE>exp</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26558" ANNOTATION_REF="a7875">
+                <ANNOTATION_VALUE>exp</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26559" ANNOTATION_REF="a7909">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26560" ANNOTATION_REF="a7913">
+                <ANNOTATION_VALUE>act</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26561" ANNOTATION_REF="a7917">
+                <ANNOTATION_VALUE>exp</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26562" ANNOTATION_REF="a7940">
+                <ANNOTATION_VALUE>act_mot_dir</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26563" ANNOTATION_REF="a8058">
+                <ANNOTATION_VALUE>spe</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26564" ANNOTATION_REF="a8099">
+                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26565" ANNOTATION_REF="a8140">
+                <ANNOTATION_VALUE>exp</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26566" ANNOTATION_REF="a8254">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26567" ANNOTATION_REF="a8287">
+                <ANNOTATION_VALUE>pos_res</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26568" ANNOTATION_REF="a8296">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26569" ANNOTATION_REF="a8319">
+                <ANNOTATION_VALUE>act_mot_dir</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26570" ANNOTATION_REF="a8395">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26571" ANNOTATION_REF="a8423">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26572" ANNOTATION_REF="a8450">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26573" ANNOTATION_REF="a8453">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26574" ANNOTATION_REF="a8517">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26575" ANNOTATION_REF="a8583">
+                <ANNOTATION_VALUE>act_mot_dir</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26576" ANNOTATION_REF="a8643">
+                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26577" ANNOTATION_REF="a8671">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26578" ANNOTATION_REF="a8710">
+                <ANNOTATION_VALUE>cau</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26579" ANNOTATION_REF="a8733">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26580" ANNOTATION_REF="a8818">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26581" ANNOTATION_REF="a8828">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26582" ANNOTATION_REF="a8853">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26583" ANNOTATION_REF="a8860">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26584" ANNOTATION_REF="a8866">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26585" ANNOTATION_REF="a8880">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26586" ANNOTATION_REF="a8898">
+                <ANNOTATION_VALUE>act_mot_dir</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26587" ANNOTATION_REF="a8905">
+                <ANNOTATION_VALUE>act_mot_dir</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26588" ANNOTATION_REF="a8962">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26589" ANNOTATION_REF="a8983">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26590" ANNOTATION_REF="a9003">
+                <ANNOTATION_VALUE>act_mot_dir</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26591" ANNOTATION_REF="a9072">
+                <ANNOTATION_VALUE>act_mot_dir</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26592" ANNOTATION_REF="a9143">
+                <ANNOTATION_VALUE>exp</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26593" ANNOTATION_REF="a16246">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26594" ANNOTATION_REF="a9237">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26595" ANNOTATION_REF="a9258">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26596" ANNOTATION_REF="a9269">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26597" ANNOTATION_REF="a9275">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26598" ANNOTATION_REF="a9307">
+                <ANNOTATION_VALUE>pos</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26599" ANNOTATION_REF="a9327">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26600" ANNOTATION_REF="a9342">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26601" ANNOTATION_REF="a9362">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26602" ANNOTATION_REF="a9367">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26603" ANNOTATION_REF="a9379">
+                <ANNOTATION_VALUE>act_mot</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26604" ANNOTATION_REF="a9387">
+                <ANNOTATION_VALUE>act_mot</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26605" ANNOTATION_REF="a9401">
+                <ANNOTATION_VALUE>exp</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26606" ANNOTATION_REF="a9435">
+                <ANNOTATION_VALUE>neu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26607" ANNOTATION_REF="a9457">
+                <ANNOTATION_VALUE>exp_perc</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26608" ANNOTATION_REF="a9587">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26609" ANNOTATION_REF="a9605">
+                <ANNOTATION_VALUE>act_mot_dir</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26610" ANNOTATION_REF="a9716">
+                <ANNOTATION_VALUE>cau_vol</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbolic_association" PARENT_REF="predsem" PARTICIPANT="NK01" TIER_ID="predsem_newintro">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26520" ANNOTATION_REF="a26518">
+                <ANNOTATION_VALUE>np.h:s</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26521" ANNOTATION_REF="a26519">
+                <ANNOTATION_VALUE>np.h:s,rn_pro.h:poss</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="symbolic_association" PARENT_REF="predsem" PARTICIPANT="NK01" TIER_ID="predsem_otherarg">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26522" ANNOTATION_REF="a26518">
+                <ANNOTATION_VALUE>rn_np.h:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>

@@ -129,7 +129,7 @@ nkurd	muserz02	0011	#	#	#nc	#nc
 nkurd	muserz02	0011	Îja	that_time	nc	nc				
 nkurd	muserz02	0011	wê	that.OBL	nc	nc				
 nkurd	muserz02	0011	çaxê	period	nc	nc				
-nkurd	muserz02	0011	0	0_she	nc	nc				
+nkurd	muserz02	0011	0	0_she	nc_0.h	nc_0	h			
 nkurd	muserz02	0011	cardinê	again	nc	nc				
 nkurd	muserz02	0011	tîne	taking	nc	nc				
 nkurd	muserz02	0011	qed-a	nagging-EZ	nc	nc				
@@ -747,7 +747,7 @@ nkurd	muserz02	0041	0	0_it	0:p	0		p
 nkurd	muserz02	0041	d-avêj-in	IND-throw.PRS-3PL	v:pred	v		pred		
 nkurd	muserz02	0041	#	#	#nc	#nc				
 nkurd	muserz02	0041	ni-zan-im	NEG-know.PRS-1SG	nc	nc				
-nkurd	muserz02	0041	0	0_they	nc	nc				
+nkurd	muserz02	0041	0	0_they	nc_0.h	nc_0	h			
 nkurd	muserz02	0041	di-b-in	IND-take.PRS-3PL	nc	nc				
 nkurd	muserz02	0041	d-avêj-in	IND-throw.PRS-3PL	nc	nc				
 nkurd	muserz02	0041	li	to	nc	nc				
@@ -813,7 +813,7 @@ nkurd	muserz02	0044	axirî	finally	other	other
 nkurd	muserz02	0044	0	0_he	0.h:s_ds	0	h	s_ds		
 nkurd	muserz02	0044	dibê	IND.say.PRS.3SG	ds_v:pred	ds_v		pred		
 nkurd	muserz02	0044	#	#	#ds	#ds				
-nkurd	muserz02	0044	0	2SG	0.h:s	0	h	s		
+nkurd	muserz02	0044	0	0_you	0.h:s	0	h	s		
 nkurd	muserz02	0044	bigrin	taking	v:pred	v		pred		
 nkurd	muserz02	0044	#	#	#ds	#ds				
 nkurd	muserz02	0044	0	0_you	0.h:a	0	h	a		
@@ -1262,7 +1262,7 @@ nkurd	muserz02	0071	#	#	#	#
 nkurd	muserz02	0071	vana	3PL	pro.h:s	pro	h	s		
 nkurd	muserz02	0071	ter-in	IND.go.PRS-3PL	v:pred	v		pred		
 nkurd	muserz02	0071	#	#	#nc	#nc				
-nkurd	muserz02	0071	0	0_they	nc	nc				
+nkurd	muserz02	0071	0	0_they	nc_0.h	nc_0	h			
 nkurd	muserz02	0071	para	from_behind	nc	nc				
 nkurd	muserz02	0071	berdid-in	IND.grab_at.PRS-3PL	nc	nc				
 nkurd	muserz02	0071	keç-k-ê	girl-INDF-OBL	nc	nc				
@@ -2218,7 +2218,7 @@ nkurd	muserz02	0120	0	0_I	0.1:a	0	1	a
 nkurd	muserz02	0120	0	0_it	0:p	0		p		
 nkurd	muserz02	0120	bi-xaz-im	SUBJ-request.PRS-1SG	v:pred	v		pred		
 nkurd	muserz02	0120	#	#	#nc	#nc				
-nkurd	muserz02	0120	0	0_it	nc	nc				
+nkurd	muserz02	0120	0	0_it	nc_0	nc_0				
 nkurd	muserz02	0120	hela	whether	nc	nc				
 nkurd	muserz02	0120	heye	exist.PRS.3SG	nc	nc				
 nkurd	muserz02	0120	tune	NEG.exist.PRS.3SG	nc	nc				
